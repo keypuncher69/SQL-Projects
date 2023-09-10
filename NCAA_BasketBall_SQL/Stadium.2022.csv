@@ -1,0 +1,560 @@
+StadiumID,Active,Name,Address,City,State,Zip,Country,Capacity,GeoLat,GeoLong
+499,TRUE,Ability 360 Sports and Fitness Center,0,Phoenix,AZ,0,0,0,33.445227,-111.973728
+491,TRUE,ACU Events Center,0,Glendale,AZ,0,0,1000,33.621456,-112.184314
+20,TRUE,Addition Financial Arena,0,Orlando,FL,0,0,10000,28.6068,-81.1976
+406,TRUE,Al Lawson Center,0,Tallahassee,FL,0,0,9639,30.424318,-84.290473
+552,TRUE,Al McGuire Center,0,Milwaukee,WI,0,0,3700,0,0
+338,TRUE,Alabama A&M Event Center,0,Normal,AL,0,0,6000,34.7852,-86.5752
+15,TRUE,Alaska Airlines Arena,0,Seattle,WA,0,0,9268,47.652,-122.302
+445,TRUE,Alaska Airlines Center,0,Anchorage,AK,0,0,5000,61.188056,-149.812222
+261,TRUE,Alex G. Spanos Center,0,Stockton,CA,0,0,6150,37.976669,-121.315095
+307,TRUE,Alico Arena,0,Fort Myers,FL,0,0,4633,26.471111,-81.764722
+156,TRUE,Allen Arena,0,Nashville,TN,0,0,5028,36.103833,-86.798836
+416,TRUE,Allen County War Memorial Coliseum,0,Fort Wayne,IN,0,0,13000,41.115556,-85.124444
+184,TRUE,Allen Fieldhouse,0,Lawrence,KS,0,0,16300,38.954306,-95.252394
+434,TRUE,Allstate Arena,0,Rosemont,IL,0,0,18500,42.005278,-87.887778
+561,TRUE,Alumnae Gymnasium,0,Rosemont,PA,0,0,0,0,0
+16,TRUE,Alumni Arena,0,Buffalo,NY,0,0,6783,43,-78.781111
+104,TRUE,Alumni Gym (Elon University),0,Elon,NC,0,0,1607,36.109018,-79.506705
+370,TRUE,Alumni Gymnasium (Rider),0,Lawrenceville,NJ,0,0,1650,40.2788,-74.7354
+356,TRUE,Alumni Hall,0,Fairfield,CT,0,0,2479,41.159854,-73.256646
+113,TRUE,Alumni Hall (Navy),0,Annapolis,MD,0,0,5710,38.984491,-76.487782
+481,TRUE,Alumni Hall (RI),0,Providence,RI,0,0,2620,41.84575,-71.437029
+530,TRUE,Amalie Arena,401 Channelside Drive,Tampa,FL,33602,USA,19204,27.942778,-82.451944
+377,TRUE,America First Events Center,0,Cedar City,UT,0,0,5300,37.675556,-113.073056
+325,TRUE,American Airlines Arena,0,Miami,FL,0,0,19600,25.781389,-80.188056
+550,TRUE,American Airlines Center,0,Dallas,TX,0,0,19200,0,0
+191,TRUE,American Bank Center,0,Corpus Christi,TX,0,0,8100,27.807339,-97.393561
+547,TRUE,American Family Field,0,Milwaukee,WI,0,0,0,0,0
+17,TRUE,Amica Mutual Pavilion,0,Providence,RI,0,0,12410,41.823611,-71.418333
+455,TRUE,Anaheim Convention Center,0,Anaheim,CA,0,0,7500,33.802455,-117.919843
+82,TRUE,Arena-Auditorium,0,Laramie,WY,0,0,11612,41.313344,-105.569419
+536,TRUE,AT&T Center,0,San Antonio,TX,0,0,18354,29.426944,-98.4375
+124,TRUE,Athletics Center O'rena,0,Rochester,MI,0,0,4000,42.673972,-83.213158
+256,TRUE,Athletics-Recreation Center,0,Valparaiso,IN,0,0,5000,41.464198,-87.048338
+486,TRUE,Atlantic Union Bank Center,0,Harrisonburg,VA,0,0,8500,38.430437,-78.859574
+462,TRUE,Baha Mar Convention Center,0,Nassau,Bahamas,0,0,2000,25.071316,-77.40116
+207,TRUE,Bank of Colorado Arena,0,Greeley,CO,0,0,2992,40.402251,-104.703097
+384,TRUE,Bank of Oklahoma Center,0,Tulsa,OK,0,0,17839,36.152722,-95.996333
+186,TRUE,Banterra Center,0,Carbondale,IL,0,0,8284,37.708333,-89.218611
+141,TRUE,Baoshan Sports Center,0,Shanghai,China,0,0,18000,31.159567,121.472869
+245,TRUE,Barclays Center,0,Brooklyn,NY,0,0,17732,40.682661,-73.975225
+64,TRUE,Bartow Arena,0,Birmingham,AL,0,0,8500,33.502164,-86.809244
+217,TRUE,Baxter Arena,0,Omaha,NE,0,0,7800,41.236172,-96.01294
+402,TRUE,BB&T Center,0,Sunrise,FL,0,0,20737,26.158333,-80.325556
+349,TRUE,Beeghly Center,0,Youngstown,OH,0,0,6300,41.108056,-80.648889
+321,TRUE,Bender Arena,0,Washington,DC,0,0,3400,38.937778,-77.09
+306,TRUE,Bernard G. Johnson Coliseum,0,Huntsville,TX,0,0,6100,30.712778,-95.546111
+484,TRUE,Bert Ogden Arena,0,Edinburg,TX,0,0,7688,26.256568,-98.164631
+336,TRUE,Betty Engelstad Sioux Center,0,Grand Forks,ND,0,0,3140,47.927641,-97.071438
+428,TRUE,Bill Harris Arena,0,Birmingham,AL,0,0,5000,33.495,-86.874
+469,TRUE,Blue Cross Arena,0,Rochester,NY,0,0,13000,43.153694,-77.610778
+376,TRUE,Boardwalk Hall,0,Atlantic City,NJ,0,0,14770,39.355,-74.438611
+268,TRUE,Bob Carpenter Center,0,Newark,DE,0,0,5100,39.660556,-75.748639
+534,TRUE,Bojangles Coliseum,2700 E Independence Blvd,Charlotte,NC,28205,USA,8600,35.2007,-80.7952
+472,TRUE,Bon Secours Wellness Arena,0,Greenville,SC,0,0,15000,34.852789,-82.391458
+105,TRUE,Bramlage Coliseum,0,Manhattan,KS,0,0,12528,39.200361,-96.593833
+81,TRUE,Bren Events Center,0,Irvine,CA,0,0,5000,33.649167,-117.846944
+175,TRUE,Breslin Center,0,East Lansing,MI,0,0,14797,42.728227,-84.492396
+73,TRUE,Brick Breeden Fieldhouse ,0,Bozeman,MT,0,0,6772,45.6633,-111.0506
+400,TRUE,Bridgestone Arena,0,Nashville,TN,0,0,19395,36.159167,-86.778611
+518,TRUE,Brookshire Grocery Arena,0,Bossier City,LA,0,0,12400,32.465167,-93.673583
+127,TRUE,Bryce Jordan Center,0,University Park,PA,0,0,15104,40.808889,-77.855833
+202,TRUE,Buccaneer Fieldhouse,0,Charleston,SC,0,0,881,32.980822,-80.067125
+194,TRUE,Bud Walton Arena,0,Fayetteville,AR,0,0,19200,36.061518,-94.178188
+482,TRUE,Burns Arena,0,St. George,UT,0,0,4779,37.101389,-113.566944
+363,TRUE,Burr Gymnasium,0,Washington,DC,0,0,2700,38.9264,-77.0221
+433,TRUE,Burton Coliseum,0,Lake Charles,LA,0,0,8500,30.136989,-93.211476
+537,TRUE,Caesars Superdome,0,New Orleans,LA,0,0,73432,29.950833,-90.081111
+342,TRUE,Cajundome,0,Lafayette,LA,0,0,11550,30.218444,-92.039056
+304,TRUE,Calihan Hall,0,Detroit,MI,0,0,8295,42.414167,-83.135833
+179,TRUE,Cam Henderson Center,0,Huntington,WV,0,0,9048,38.424908,-82.426575
+214,TRUE,Cameron Hall,0,Lexington,VA,0,0,5000,37.788333,-79.436389
+211,TRUE,Cameron Indoor Stadium,0,Durham,NC,0,0,9314,35.9976,-78.9422
+67,TRUE,Capital One Arena,0,Washington,DC,0,0,20600,38.898056,-77.020833
+463,TRUE,Carmichael Arena,0,Chapel Hill,NC,0,0,6822,35.909526,-79.045408
+19,TRUE,Carnesecca Arena,0,Queens,NY,0,0,5602,40.724167,-73.794444
+149,TRUE,Carver Arena,0,Peoria,IL,0,0,11442,41.663611,-91.554444
+99,TRUE,Carver-Hawkeye Arena,0,Iowa City,IA,0,0,15056,41.663611,-91.554444
+122,TRUE,Case Gym,0,Boston,MA,0,0,1800,42.353932,-71.120355
+107,TRUE,Cassell Coliseum,0,Blacksburg,VA,0,0,8925,37.222222,-80.418889
+345,TRUE,CBU Events Center,0,Riverside,CA,0,0,5050,33.5548,-117.253
+170,TRUE,CFSB Center,0,Murray,KY,0,0,8600,36.62267,-88.32031
+213,TRUE,Chace Athletic Center,0,Smithfield,RI,0,0,2670,41.921008,-71.539639
+50,TRUE,Chaifetz Arena,0,St. Louis,MO,0,0,10600,38.63246,-90.22797
+450,TRUE,Chaparral Center,0,Midland,TX,0,0,5500,32.031366,-102.110801
+24,TRUE,Charles E. Smith Center,0,Washington,DC,0,0,5000,38.897755,-77.049329
+49,TRUE,Charles Koch Arena,0,Wichita,KS,0,0,10506,37.721667,-97.2975
+37,TRUE,Chartway Arena,0,Norfolk,VA,0,0,8472,36.884169,-76.301231
+27,TRUE,Chase Arena,0,West Hartford,CT,0,0,4017,41.801769,-72.718567
+446,TRUE,Chase Center,0,San Francisco,CA,0,0,18064,37.768056,-122.3875
+464,TRUE,Chase Fieldhouse,0,Wilmington,DE,0,0,2500,39.727582,-75.554497
+449,TRUE,Chesapeake Employers Insurance Arena,1000 Hilltop Circle,Baltimore,MD,21250,0,6000,39.252342,-76.707431
+358,TRUE,Chesapeake Energy Arena,0,Oklahoma City,OK,0,0,18203,35.463333,-97.515
+65,TRUE,CHI Health Center Omaha,0,Omaha,NE,0,0,17352,41.263,-95.928
+254,TRUE,Chiles Center,0,Portland,OR,0,0,4852,45.575,-122.728
+305,TRUE,Christl Arena,0,West Point,NY,0,0,5043,41.38641,-73.96571
+66,TRUE,Cintas Center,0,Cincinnati,OH,0,0,10224,39.150148,-84.471881
+517,TRUE,Climate Pledge Arena,0,Seattle,WA,0,0,18100,47.622,-122.354
+277,TRUE,Clune Arena,0,Colorado Springs,CO,0,0,5843,39.014,-104.8833
+58,TRUE,Coleman Coliseum,0,Tuscaloosa,AL,0,0,14474,33.202939,-87.539706
+332,TRUE,College Park Center,0,Arlington,TX,0,0,7000,32.730586,-97.107972
+33,TRUE,Colonial Life Arena,0,Columbia,SC,0,0,18000,33.995,-81.037222
+485,TRUE,Comerica Center,0,Frisco,TX,0,0,4500,33.101026,-96.819624
+111,TRUE,Convocation Center (MI),0,Ypsilanti,MI,0,0,8754,42.254444,-83.647222
+189,TRUE,Convocation Center (OH),0,Athens,OH,0,0,13000,39.323056,-82.105556
+362,TRUE,Convocation Center (VA),0,Hampton,VA,0,0,7200,37.01974,-76.33108
+556,TRUE,Copper Box Arena,0,London,England,0,0,6000,0,0
+40,TRUE,Corbett Sports Center,0,Greensboro,NC,0,0,5000,36.076783,-79.768849
+147,TRUE,Costello Athletic Center,0,Lowell,MA,0,0,2000,42.6555,-71.3242
+120,TRUE,Cotterell Court,0,Hamilton,NY,0,0,1750,42.814957,-75.542754
+503,TRUE,Covelli Center,0,Columbus,OH,0,0,3700,40.003611,-83.007778
+466,TRUE,Covelli Centre,0,Youngstown,OH,0,0,5900,41.096145,-80.647943
+380,TRUE,Cowan Spectrum,0,Moscow,ID,0,0,6000,46.726,-117.017
+424,TRUE,Cox Pavilion,0,Las Vegas,NV,0,0,2500,36.104167,-115.143056
+225,TRUE,Credit Union 1 Arena,0,Chicago,IL,0,0,8000,41.874722,-87.656111
+12,TRUE,Crisler Center,0,Ann Arbor,MI,0,0,12707,42.265037,-83.746768
+298,TRUE,Cross Insurance Center,0,Bangor,ME,0,0,6674,44.7893,-68.7787
+357,TRUE,Crypto.com Arena,1111 S. Figueroa St.,Los Angeles,CA,90015,USA,18997,34.043056,-118.267222
+205,TRUE,CU Events Center,0,Boulder,CO,0,0,11064,40.0047,-105.2606
+169,TRUE,Curb Event Center,0,Nashville,TN,0,0,5000,36.132222,-86.794444
+538,TRUE,Curry Arena,0,Charlotte,NC,0,0,2500,0,0
+136,TRUE,Dahlberg Arena,0,Missoula,MT,0,0,7500,46.864,-113.983
+247,TRUE,Daskalakis Athletic Center,0,Philadelphia,PA,0,0,2509,39.956389,-75.190833
+408,TRUE,Davey Whitney Complex,0,Lorman,MS,0,0,7000,31.873225,-91.13318
+431,TRUE,Davis-Reid Alumni Gym,0,Georgetown,KY,0,0,2500,38.208016,-84.556859
+359,TRUE,DCU Center,0,Worcester,MA,0,0,13452,42.266111,-71.798333
+185,TRUE,Dean E. Smith Center,0,Chapel Hill,NC,0,0,21750,35.899722,-79.043889
+344,TRUE,Dee Events Center,0,Ogden,UT,0,0,11500,41.1825,-111.945
+138,TRUE,Dee Glen Smith Spectrum,0,Logan,UT,0,0,10270,41.748,-111.812
+125,TRUE,DeGol Arena,0,Loretto,PA,0,0,3500,40.50451,-78.643304
+566,TRUE,Delmar Fieldhouse,0,Houston,TX,0,0,0,0,0
+437,TRUE,Denny Sanford Premier Center,0,Sioux Falls,SD,0,0,12000,43.561667,-96.75
+137,TRUE,Desert Financial Arena,0,Tempe,AZ,0,0,14198,33.424524,-111.930948
+176,TRUE,Devlin Fieldhouse,0,New Orleans,LA,0,0,4000,29.938611,-90.120556
+456,TRUE,Dickies Arena,0,Fort Worth,TX,0,0,13300,32.740891,-97.369938
+535,TRUE,Dollar Loan Center,0,Henderson,NV,0,0,6019,0,0
+313,TRUE,Don Haskins Center,0,El Paso,TX,0,0,12000,31.777608,-106.505718
+11,TRUE,Donald L. Tucker Center,0,Tallahassee,FL,0,0,12500,30.437842,-84.28669
+135,TRUE,Donald N. Dedmon Center,0,Radford,VA,0,0,3215,37.1386,-80.541769
+68,TRUE,Draddy Gymnasium,0,Riverdale,NY,0,0,2345,40.89073,-73.900158
+432,TRUE,Dugan Wellness Center,0,Corpus Christi,TX,0,0,1200,27.711472,-97.324361
+427,TRUE,Dunn-Oliver Acadome,0,Montgomery,AL,0,0,7400,32.36185,-86.293158
+165,TRUE,E. A. Diddle Arena,0,Bowling Green,KY,0,0,7523,36.985833,-86.4575
+121,TRUE,EagleBank Arena,0,Fairfax,VA,0,0,7860,38.827,-77.31
+504,TRUE,Eagle's Nest,0,Marietta,GA,0,0,0,33.932911,-84.516869
+501,TRUE,Eastwood High School Gymnasium,0,El Paso,TX,0,0,2000,31.7718,-106.3547
+289,TRUE,Echols Hall,0,Norfolk,VA,0,0,4500,36.847999,-76.258157
+85,TRUE,Ed and Rae Schollmaier Arena,0,Fort Worth,TX,0,0,6700,32.708774,-97.36673
+454,TRUE,Ed Clark High School,0,Las Vegas,NV,0,0,0,36.13623,-115.1976
+264,TRUE,Edmunds Center,0,Deland,FL,0,0,4000,29.039584,-81.301819
+353,TRUE,Edward Leede Arena,0,Hanover,NH,0,0,2100,43.703056,-72.283333
+280,TRUE,Ellis T. Johnson Arena,0,Morehead,KY,0,0,6500,38.188786,-83.429006
+562,TRUE,Enmarket Arena,0,Savannah,GA,0,0,9500,0,0
+404,TRUE,Enterprise Center,0,St. Louis,MO,0,0,19260,38.626667,-90.2025
+401,TRUE,Entertainment and Sports Arena,0,Washington,DC,0,0,4200,38.846574,-76.991534
+52,TRUE,Events Center (Binghamton),0,Binghamton,NY,0,0,4923,42.093333,-75.971944
+119,TRUE,Exactech Arena,0,Gainesville,FL,0,0,10133,29.649444,-82.351111
+171,TRUE,ExtraMile Arena,0,Boise,ID,0,0,12480,43.6035,-116.199
+394,TRUE,F. G. Clark Activity Center,0,Baton Rouge,LA,0,0,7500,30.521667,-91.185556
+369,TRUE,Fant-Ewing Coliseum,0,Monroe,LA,0,0,7085,32.531,-92.069
+308,TRUE,Farris Center,0,Conway,AR,0,0,5500,35.081667,-92.459444
+281,TRUE,FAU Arena,0,Boca Raton,FL,0,0,2900,26.372222,-80.109167
+47,TRUE,FedExForum,0,Memphis,TN,0,0,18400,35.138333,-90.050556
+76,TRUE,Ferrell Center,0,Waco,TX,0,0,10284,31.547903,-97.105969
+343,TRUE,Fertitta Center,0,Houston,TX,0,0,7035,29.724722,-95.346944
+86,TRUE,Fifth Third Arena,0,Cincinnati,OH,0,0,12012,39.131101,-84.514207
+458,TRUE,Findlay Toyota Center,0,Prescott Valley,AZ,0,0,5100,34.589242,-112.336361
+7,TRUE,Finneran Pavilion,0,Villanova,PA,0,0,6501,40.034072,-75.336553
+287,TRUE,Firestone Fieldhouse,0,Malibu,CA,0,0,3104,34.038571,-118.709625
+460,TRUE,Firestone High School,0,Akron,OH,0,0,0,41.11803,-81.565592
+350,TRUE,First National Bank Arena,0,Jonesboro,AR,0,0,10563,35.845422,-90.670319
+74,TRUE,Fiserv Forum,0,Milwaukee,WI,0,0,17341,43.045028,-87.918167
+327,TRUE,Flowers Hall,0,Florence,AL,0,0,3500,34.80569,-87.68113
+367,TRUE,Footprint Center,0,Phoenix,AZ,0,0,17071,33.445833,-112.071389
+555,TRUE,Forbes Arena,0,Atlanta,GA,0,0,0,0,0
+297,TRUE,Ford Center,0,Evansville,IN,0,0,10000,37.972189,-87.567844
+442,TRUE,FORD CENTER AT THE STAR,0,Frisco,TX,0,0,12000,33.1105,-96.8281
+143,TRUE,Fort Bliss,0,Fort Bliss,TX,0,0,0,31.801847,-106.424608
+55,TRUE,Frank Erwin Center,0,Austin,TX,0,0,16540,30.276958,-97.732216
+396,TRUE,Fredrick C. Hobdy Assembly Center,0,Grambling,LA,0,0,7600,32.520284,-92.723578
+453,TRUE,Freedom Hall,0,Louisville,KY,0,0,18252,38.200294,-85.741886
+274,TRUE,Freedom Hall Civic Center,0,Johnson City,TN,0,0,6149,36.324444,-82.375
+182,TRUE,Friel Court,0,Pullman,WA,0,0,11671,46.735,-117.1575
+54,TRUE,Frost Arena,0,Brookings,SD,0,0,8500,44.317984,-96.779058
+1,TRUE,Gainbridge Fieldhouse,125 South Pennsylvania Street,Indianapolis,IN,0,0,17923,39.763889,-86.155556
+84,TRUE,Galen Center,0,Los Angeles,CA,0,0,10258,34.021,-118.28
+187,TRUE,Gallagher Center,0,Niagara Falls,NY,0,0,2400,43.137035,-79.038026
+216,TRUE,Gallagher-Iba Arena,0,Stillwater,OK,0,0,13611,36.125833,-97.065
+290,TRUE,Gampel Pavilion,0,Storrs,CT,0,0,10167,41.805292,-72.254194
+521,TRUE,Gateway Center,2000 Convention Center Concourse,College Park,GA,30337,USA,3500,33.6468,84.459616
+221,TRUE,Gateway Christian Academy,0,Bimini,Bahamas,0,0,0,0,0
+172,TRUE,GCU Arena,0,Phoenix,AZ,0,0,7000,33.510152,-112.128884
+206,TRUE,Gentry Center,0,Nashville,TN,0,0,8000,36.168889,-86.829444
+557,TRUE,George Q. Cannon Activities Center,0,Laie,HI,0,0,0,0,0
+257,TRUE,Gersten Pavilion,0,Los Angeles,CA,0,0,4156,33.9675,-118.415556
+70,TRUE,Gill Coliseum,0,Corvallis,OR,0,0,9604,44.5613,-123.2805
+385,TRUE,Gold Dome,0,Shreveport,LA,0,0,3000,35.492778,-97.530833
+244,TRUE,Golden 1 Center,0,Sacramento,CA,0,0,17611,38.580361,-121.499611
+63,TRUE,Great Southern Bank Arena,0,Springfield,MO,0,0,11000,37.202047,-93.283058
+371,TRUE,Greensboro Coliseum,0,Greensboro,NC,0,0,23500,36.059722,-79.825556
+531,TRUE,Gregory Gym,0,Austin,TX,0,0,4000,30.284184,-97.736485
+559,TRUE,GSU Convocation Center,0,Atlanta,GA,0,0,8000,0,0
+38,TRUE,GSU Sports Arena,0,Atlanta,GA,0,0,3854,33.751389,-84.386111
+153,TRUE,H&PE Arena,0,Houston,TX,0,0,8100,29.722778,-95.365278
+409,TRUE,H. O. Clemmons Arena,0,Pine Bluff,AR,0,0,4100,34.24672,-92.02346
+210,TRUE,Haas Pavilion,0,Berkeley,CA,0,0,11858,37.8694,-122.262
+128,TRUE,Hagan Arena,0,Philadelphia,PA,0,0,4200,39.995245,-75.234806
+36,TRUE,Halton Arena,0,Charlotte,NC,0,0,9105,35.306111,-80.734444
+470,TRUE,Hamilton Gymnasium,0,Denver,CO,0,0,2400,39.682106,-104.961592
+468,TRUE,Hammel Court,0,North Andover,MA,0,0,1200,42.6694,-71.12336
+230,TRUE,Hard Rock Hotel Riviera Maya,0,Cancun,Mexico,0,0,0,20.506519,-87.228668
+267,TRUE,Harrah's Cherokee Center,0,Asheville,NC,0,0,7674,35.597547,-82.555384
+238,TRUE,Harrison HPER Complex,0,Itta Bena,MS,0,0,5000,33.51406,-90.189362
+39,TRUE,Hart Center,0,Worcester,MA,0,0,3536,42.235046,-71.806381
+505,TRUE,Hartsell Arena,0,Pensacola,FL,0,0,1000,30.479524,-87.199243
+560,TRUE,Harwood Arena,0,Union,NJ,0,0,2500,0,0
+236,TRUE,Hawkins Arena,0,Macon,GA,0,0,3500,32.829722,-83.651944
+423,TRUE,Hertz Arena,0,Estero,FL,0,0,8284,26.440668,-81.778809
+237,TRUE,Hill Field House,0,Baltimore,MD,0,0,4250,39.3425,-76.585
+429,TRUE,Hilliard Gates Sports Center,0,Fort Wayne,IN,0,0,1800,41.119013,-85.107553
+56,TRUE,Hilton Coliseum,0,Ames,IA,0,0,14356,42.02101,-93.634763
+161,TRUE,Hinkle Fieldhouse,0,Indianapolis,IN,0,0,9100,39.843611,-86.167222
+303,TRUE,Hodge Center,0,Spartanburg,SC,0,0,878,34.996696,-81.968774
+348,TRUE,Holmes Convocation Center,0,Boone,NC,0,0,8325,36.210624,-81.675952
+405,TRUE,Holt Arena,0,Pocatello,ID,0,0,12000,42.87,-112.429
+443,TRUE,Honda Center,0,Anaheim,CA,0,0,18336,33.807778,-117.876667
+167,TRUE,Hooper Eblen Center,0,Cookeville,TN,0,0,7500,36.178508,-85.51
+258,TRUE,HP Field House,0,Orlando,FL,0,0,5000,28.337083,-81.556
+273,TRUE,Hulman Center,0,Terre Haute,IN,0,0,10200,39.468333,-87.405
+108,TRUE,Humphrey Coliseum,0,Starkville,MS,0,0,10500,33.461667,-88.794444
+540,TRUE,Hyland Arena,0,Saint Charles,MO,0,0,3270,0,0
+132,TRUE,Hynes Athletics Center,0,New Rochelle,NY,0,0,2578,40.92664,-73.784325
+200,TRUE,Hytche Athletic Center,0,Princess Anne,MD,0,0,5500,38.211184,-75.687227
+375,TRUE,Icardo Center,0,Bakersfield,CA,0,0,3497,35.3475,-119.102778
+525,TRUE,ICCU Arena,0,Moscow,ID,0,0,4200,0,0
+269,TRUE,Idaho Central Arena,0,Boise,ID,0,0,5732,43.614,-116.204
+246,TRUE,Imperial Arena,0,Nassau,Bahamas,0,0,3500,25.0836,-77.318
+497,TRUE,Indiana Convention Center,0,Indianapolis,IN,0,0,1500,39.765278,-86.1625
+148,TRUE,Indiana Farmers Coliseum,0,Indianapolis,IN,0,0,6800,39.8275,-86.135
+461,TRUE,Intrust Bank Arena,0,Wichita,KS,0,0,15004,-81.565592,-97.331389
+339,TRUE,Island FCU Arena,0,Stony Brook,NY,0,0,4000,40.91741,-73.125955
+533,TRUE,IUPUI Gymnasium,901 West New York Street,Indianapolis,IN,46202,USA,1215,39.770556,-86.175
+151,TRUE,J. Lawrence Walkup Skydome,0,Flagstaff,AZ,0,0,7000,35.1805,-111.6525
+263,TRUE,Jack Stephens Center,0,Little Rock,AR,0,0,5600,34.727778,-92.339722
+251,TRUE,Jadwin Gymnasium,0,Princeton,NJ,0,0,6854,40.343449,-74.648595
+295,TRUE,James A. Rhodes Arena,0,Akron,OH,0,0,5500,41.075833,-81.508611
+78,TRUE,Jenny Craig Pavilion,0,San Diego,CA,0,0,5100,32.7745,-117.1837
+509,TRUE,Jerabeck Center,0,Houston,TX,0,0,0,29.73626,-95.39377
+6,TRUE,Jerry Richardson Indoor Stadium,0,Spartanburg,SC,0,0,3400,34.963427,-81.93363
+114,TRUE,Jersey Mike's Arena,0,Piscataway,NJ,0,0,8000,40.525278,-74.441111
+10,TRUE,JMA Wireless Dome,0,Syracuse,NY,0,0,35446,43.036111,-76.136389
+234,TRUE,JMU Convocation Center,0,Harrisonburg,VA,0,0,6426,38.431892,-78.868854
+422,TRUE,John Gray Gymnasium,0,George Town,Cayman Islands,0,0,1100,19.279316,-81.385651
+355,TRUE,John J. Lee Amphitheater,0,New Haven,CT,0,0,2800,41.31345,-72.93088
+502,TRUE,John J. Moore Athletics and Fitness Center,0,Jersey City,NJ,0,0,1800,40.712253,-74.089236
+22,TRUE,John M. Belk Arena,0,Davidson,NC,0,0,5700,35.499278,-80.840521
+4,TRUE,John Paul Jones Arena,0,Charlottesville,VA,0,0,14623,38.046,-78.507
+241,TRUE,Johnson Coliseum,0,Nacogdoches,TX,0,0,7203,31.622222,-94.640833
+102,TRUE,Jon M. Huntsman Center,0,Salt Lake City,UT,0,0,15000,40.762,-111.839
+333,TRUE,Jones Convocation Center,0,Chicago,IL,0,0,7000,41.7165,-87.6084
+71,TRUE,Joseph J. Gentile Arena,0,Chicago,IL,0,0,4963,42.000556,-87.658889
+524,TRUE,JSerra Pavilion,0,San Juan Capistrano,CA,0,0,2100,33.518768,-117.66815
+495,TRUE,Kaiser Permanente Arena,0,Santa Cruz,CA,0,0,2505,36.968611,-122.023611
+89,TRUE,Kaplan Arena,0,Williamsburg,VA,0,0,8600,37.273472,-76.719625
+539,TRUE,Kathleen and Tom Elam Center,0,Martin,TN,0,0,4300,0,0
+227,TRUE,Kendal Isaacs Gymnasium,0,Freeport,GB,0,0,0,0,0
+448,TRUE,Kerr Fitness Center,0,Pittsburgh,PA,0,0,1000,40.568182,-80.016497
+519,TRUE,KeyBank Center,0,Buffalo,NY,0,0,0,42.875,-78.876389
+97,TRUE,KFC Yum! Center,0,Louisville,KY,0,0,22000,38.2575,-85.753889
+283,TRUE,Kimmel Arena,0,Asheville,NC,0,0,3200,35.618,-82.568
+302,TRUE,Kirby Sports Center,0,Easton,PA,0,0,2453,40.7019,-75.2107
+410,TRUE,Klotsche Center,0,Milwaukee,WI,0,0,3500,43.079414,-87.879783
+480,TRUE,Knights Hall,0,Louisville,KY,0,0,2196,38.2198,-85.703
+249,TRUE,Knott Arena,0,Emmitsburg,MD,0,0,3121,39.679492,-77.346435
+354,TRUE,Koessler Athletic Center,0,Buffalo,NY,0,0,2196,42.920919,-78.85754
+61,TRUE,Kohl Center,0,Madison,WI,0,0,17287,43.06942,-89.396972
+112,TRUE,Kress Events Center,0,Green Bay,WI,0,0,4018,44.530069,-87.915967
+275,TRUE,KSU Convocation Center,0,Kennesaw,GA,0,0,4600,34.036924,-84.580329
+421,TRUE,Lahaina Civic Center,0,Maui,HI,0,0,2400,20.904995,-156.683852
+310,TRUE,Lakefront Arena,0,New Orleans,LA,0,0,8785,30.03,-90.050556
+413,TRUE,Lantz Arena,0,Charleston,IL,0,0,5400,39.480403,-88.178844
+118,TRUE,Lavietes Pavilion,0,Cambridge,MA,0,0,1636,42.368218,-71.125291
+5,TRUE,Lawlor Events Center,0,Reno,NV,0,0,11536,39.545069,-119.818269
+152,TRUE,Lawrence Joel Coliseum,0,Winston-Salem,NC,0,0,14665,36.127866,-80.257628
+139,TRUE,Leavey Center,0,Santa Clara,CA,0,0,4200,37.349111,-121.935303
+419,TRUE,LeBron James Arena,0,Akron,OH,0,0,1831,41.088611,-81.5225
+389,TRUE,Lee E. Williams Athletic and Assembly Center,0,Jackson,MS,0,0,8000,32.299724,-90.211887
+382,TRUE,Legacy Arena at BJCC,0,Birmingham,AL,0,0,17654,33.52378,-86.812935
+565,TRUE,Leo D. Mahoney Arena,0,Fairfield,CT,0,0,3500,0,0
+441,TRUE,Leonard E. Merrell Center,0,Katy,TX,0,0,5794,29.780278,-95.832222
+346,TRUE,Levien Gymnasium,0,New York,NY,0,0,2500,40.80979,-73.961715
+45,TRUE,Liacouras Center,0,Philadelphia,PA,0,0,10206,39.979722,-75.158611
+493,TRUE,Liberty Arena,0,Lynchburg,VA,0,0,4000,37.349356,-79.180225
+532,TRUE,Lifetime Activities Center,0,Salt Lake City,UT,0,0,5000,0,0
+479,TRUE,LionTree Arena,0,San Diego,CA,0,0,4000,32.885278,-117.239223
+438,TRUE,Little Caesars Arena,0,Detroit,MI,0,0,20332,42.341111,-83.055
+13,TRUE,Littlejohn Coliseum,0,Clemson,SC,0,0,9000,34.680278,-82.846389
+294,TRUE,Lloyd Noble Center,0,Norman,OK,0,0,11562,35.187438,-97.444504
+381,TRUE,Lubbock Municipal Coliseum,0,Lubbock,TX,0,0,6904,33.59,-101.8775
+508,TRUE,Lucas Oil Stadium,0,Indianapolis,IN,0,0,70000,39.760056,-86.163806
+231,TRUE,Lundholm Gymnasium,0,Durham,NH,0,0,2500,43.138611,-70.938056
+224,TRUE,M&T Bank Arena,305 Sherman Ave,Hamden,CT,6518,USA,3570,41.413833,-72.911157
+204,TRUE,Mabee Center,0,Tulsa,OK,0,0,10154,36.04789,-95.95573
+490,TRUE,Mabee Fieldhouse,0,Kansas City,MO,0,0,1500,38.913312,-94.593522
+240,TRUE,MAC Center,0,Kent,OH,0,0,6327,41.148,-81.344
+212,TRUE,Mack Sports Complex,0,Hempstead,NY,0,0,5023,40.719681,-73.596865
+14,TRUE,Mackey Arena,0,West Lafayette,IN,0,0,14804,40.433322,-86.916144
+414,TRUE,Maddox Student Life Center,0,Hobbs,NM,0,0,0,32.770732,-103.190666
+219,TRUE,Madison Square Garden,0,New York,NY,0,0,19812,40.750556,-73.993611
+72,TRUE,Magness Arena,0,Denver,CO,0,0,7200,39.682106,-104.961592
+558,TRUE,Mandalay Bay,0,Las Vegas,NV,0,0,12000,0,0
+79,TRUE,Maples Pavilion,0,Stanford,CA,0,0,7233,37.4296,-122.1605
+140,TRUE,Marriott Center,0,Provo,UT,0,0,18987,40.254,-111.649
+528,TRUE,Martin Carter Gymnasium,0,Atlanta,GA,0,0,0,33.7233,-84.5154
+553,TRUE,MassMutual Center,0,Springfield,MA,0,0,7331,0,0
+9,TRUE,Matthew Knight Arena,0,Eugene,OR,0,0,12364,44.045,-123.066
+57,TRUE,Matthews Arena,0,Boston,MA,0,0,5066,42.341111,-71.084444
+291,TRUE,McAlister Field House,0,Charleston,SC,0,0,6000,32.798508,-79.962573
+399,TRUE,McArthur Gymnasium,0,Saint Petersburg,FL,0,0,0,27.71494,-82.68593
+91,TRUE,McBrayer Arena,0,Richmond,KY,0,0,6500,37.737222,-84.301389
+129,TRUE,McCamish Pavilion,0,Atlanta,GA,0,0,8600,33.780833,-84.392778
+162,TRUE,McCann Center,0,Poughkeepsie,NY,0,0,3200,41.718431,-73.934
+3,TRUE,McCarthey Athletic Center,0,Spokane,WA,0,0,6000,47.665,-117.399
+255,TRUE,McDermott Convocation Center,0,San Antonio,TX,0,0,2000,29.468139,-98.469417
+488,TRUE,McDonough Arena,0,Washington,DC,0,0,2400,38.9075,-77.0775
+337,TRUE,McDougald-McLendon Arena,0,Durham,NC,0,0,3500,35.975884,-78.897745
+364,TRUE,McGuirk Arena,0,Mount Pleasant,MI,0,0,5300,43.580888,-84.773941
+94,TRUE,McKale Center,0,Tucson,AZ,0,0,14644,32.23,-110.946
+166,TRUE,McKenzie Arena,0,Chattanooga,TN,0,0,10996,35.050382,-85.30091
+397,TRUE,McLeod Center,0,Cedar Falls,IA,0,0,6650,42.51395,-92.46714
+209,TRUE,Memorial Gym,0,Moscow,ID,0,0,2500,46.7265,-117.014
+564,TRUE,Memorial Gymnasium (ME),0,Orono,ME,0,0,3100,0,0
+75,TRUE,Memorial Gymnasium (Vandy),0,Nashville,TN,0,0,14326,36.144611,-86.80742
+292,TRUE,Memorial Hall (Dover; DE),0,Dover,DE,0,0,1800,39.1876,-75.5434
+542,TRUE,Merkert Gymnasium,0,South Easton,MA,0,0,1560,42.0576,-71.0789
+549,TRUE,MGM Grand Garden Arena,0,Las Vegas,NV,0,0,0,0,0
+379,TRUE,Michael B. Fleming Gymnasium,0,Greensboro,NC,0,0,2320,36.069384,-79.81268
+507,TRUE,Michelob ULTRA Arena,3950 Las Vegas Blvd S,Las Vegas,NV,89109,USA,12000,36.090678,-115.178981
+272,TRUE,Millett Hall,0,Oxford,OH,0,0,6400,39.517236,-84.734544
+150,TRUE,Millis Athletic Center,0,High Point,NC,0,0,1750,35.973456,-79.995706
+46,TRUE,Minges Coliseum,0,Greenville,NC,0,0,8000,35.597391,-77.367167
+372,TRUE,Mississippi Coliseum,0,Jackson,MS,0,0,6812,32.300126,-90.172121
+341,TRUE,Mitchell Center,0,Mobile,AL,0,0,10041,30.69229,-88.17975
+62,TRUE,Mizzou Arena,0,Columbia,MO,0,0,15061,38.93237,-92.33303
+155,TRUE,Moby Arena,0,Fort Collins,CO,0,0,8083,40.575669,-105.093403
+386,TRUE,Moda Center,0,Portland,OR,0,0,19441,45.531667,-122.666667
+523,TRUE,Moe Kent Family Field House,0,Naples,FL,0,0,1200,26.217459,-81.755152
+387,TRUE,Mohegan Sun Arena,0,Uncasville,CT,0,0,10000,41.491111,-72.089722
+395,TRUE,Montagne Center,0,Beaumont,TX,0,0,10080,30.043889,-94.070833
+228,TRUE,Montego Bay Convention Centre,0,Montego Bay,Jamaica,0,0,0,0,0
+544,TRUE,Moody Center,0,Austin,TX,0,0,10763,0,0
+101,TRUE,Moody Coliseum,0,Dallas,TX,0,0,7000,32.840278,-96.780556
+133,TRUE,Moody Coliseum (Abilene),0,Abilene,TX,0,0,4600,32.470333,-99.70925
+239,TRUE,Moore Gymnasium,0,Daytona Beach,FL,0,0,900,29.210895,-81.030977
+366,TRUE,Mott Athletics Center,0,San Luis Obispo,CA,0,0,3032,35.29886,-120.65855
+492,TRUE,MTI Center,0,Angola,IN,0,0,3500,41.63159,-85.012356
+253,TRUE,Municipal Auditorium (MO),0,Kansas City,MO,0,0,9500,39.098353,-94.586416
+498,TRUE,Murchison Gymnasium,0,Santa Barbara,CA,0,0,1600,34.450356,-119.659515
+324,TRUE,Murphy Athletic Center,0,Murfreesboro,TN,0,0,11520,35.852467,-86.369803
+250,TRUE,MVP Arena,51 South Pearl Street,Albany,NY,0,0,15727,42.648611,-73.754722
+543,TRUE,National Basketball Arena,0,Dublin,Ireland,0,0,2500,0,0
+8,TRUE,Neville Arena,0,Auburn,AL,0,0,9121,32.60253,-85.49301
+177,TRUE,Newman Arena,0,Ithaca,NY,0,0,4473,42.445794,-76.476581
+494,TRUE,Nido and Mariana Qubein Arena,0,High Point,NC,0,0,4500,35.978847,-79.996429
+123,TRUE,NIU Convocation Center,0,Dekalb,IL,0,0,10000,41.935106,-88.785569
+28,TRUE,NJIT Wellness and Events Center,0,Newark,NJ,0,0,3500,40.743125,-74.182161
+439,TRUE,Norfolk Scope Arena,0,Norfolk,VA,0,0,10253,36.853275,-76.286722
+300,TRUE,North Athletic Complex,0,Moon Township,PA,0,0,500,40.519083,-80.212405
+436,TRUE,North Charleston Coliseum,0,North Charleston,SC,0,0,11475,32.8656,-80.0224
+92,TRUE,Nutter Center,0,Dayton,OH,0,0,8000,39.781944,-84.0525
+548,TRUE,O2 Arena (ENG),0,London,England,0,0,20000,0,0
+373,TRUE,Ocean Bank Convocation Center,0,Miami,FL,0,0,5000,25.756667,-80.379444
+510,TRUE,Ocean Center,0,Daytona Beach,FL,0,0,0,0,0
+69,TRUE,OceanFirst Bank Center,0,West Long Branch,NJ,0,0,4100,40.279475,-74.007583
+259,TRUE,Orleans Arena,0,Las Vegas,NV,0,0,9500,36.105833,-115.202222
+77,TRUE,Pan American Center,0,Las Cruces,NM,0,0,12572,32.284,-106.7422
+252,TRUE,Patrick Gymnasium,0,Burlington,VT,0,0,3266,44.470264,-73.194705
+334,TRUE,Paul Porter Arena,0,Boiling Springs,NC,0,0,4500,35.246538,-81.669518
+109,TRUE,Pauley Pavilion,0,Los Angeles,CA,0,0,13800,34.070211,-118.446775
+506,TRUE,Pensacola Bay Center,0,Pensacola,FL,0,0,10000,30.416485,-87.209372
+44,TRUE,Pete Hanna Center,0,Homewood,AL,0,0,5000,33.4638,-86.7973
+110,TRUE,Pete Maravich Assembly Center,0,Baton Rouge,LA,0,0,13215,30.4142,-91.1845
+391,TRUE,Pete Mathews Coliseum,0,Jacksonville,AL,0,0,3500,33.824,-85.773
+31,TRUE,Petersen Events Center,0,Pittsburgh,PA,0,0,12508,40.443777,-79.962274
+347,TRUE,Physical Education Complex,0,Baltimore,MD,0,0,4100,39.315453,-76.657381
+60,TRUE,Pinnacle Bank Arena,0,Lincoln,NE,0,0,15000,40.817778,-96.713333
+285,TRUE,Pizzitola Sports Center,0,Providence,RI,0,0,2800,41.831743,-71.398043
+563,TRUE,Place Bell,0,Laval,PQ,0,0,10000,0,0
+145,TRUE,PNC Arena,0,Raleigh,NC,0,0,19722,35.803333,-78.721944
+42,TRUE,Pope Convocation Center,0,Buies Creek,NC,0,0,3095,35.407905,78.736696
+368,TRUE,Pope Physical Education Center,0,Brooklyn,NY,0,0,1200,40.693147,-73.992164
+459,TRUE,Portland Expo Center (ME),0,Portland,ME,0,0,3000,43.6564,-70.2773
+322,TRUE,PPG Paints Arena,0,Pittsburgh,PA,0,0,18087,40.439444,-79.989167
+270,TRUE,Prather Coliseum,0,Natchitoches,LA,0,0,3400,31.744028,-93.095167
+243,TRUE,Premier America Credit Union,0,Northridge,CA,0,0,2500,34.241974,-118.526484
+415,TRUE,Provident Credit Union Event Center,0,San Jose,CA,0,0,5000,37.33536,-121.87985
+326,TRUE,Prudential Center,0,Newark,NJ,0,0,18711,40.733611,-74.171111
+32,TRUE,Purcell Pavilion,0,South Bend,IN,0,0,9149,41.698443,-86.231292
+188,TRUE,RAC Arena,0,Baltimore,MD,0,0,4024,-31.948333,115.851944
+511,TRUE,Raider Arena,0,Destin,FL,0,0,0,0,0
+527,TRUE,Ralston Sports and Events Center,0,Omaha,NE,0,0,0,0,0
+146,TRUE,Ramsey Center,0,Cullowhee,NC,0,0,7826,35.303752,-83.18234
+34,TRUE,Redbird Arena,0,Normal,IL,0,0,10200,40.510606,-88.999011
+266,TRUE,Redhawk Center,0,Seattle,WA,0,0,999,47.607222,-122.313333
+95,TRUE,Reed Arena,0,College Station,TX,0,0,12989,30.60578,-96.34619
+309,TRUE,Reed Green Coliseum,0,Hattiesburg,MS,0,0,8095,31.330833,-89.337778
+226,TRUE,Reed Gym,0,Pocatello,ID,0,0,3040,42.8645,-112.429
+392,TRUE,Reese Court,0,Cheney,WA,0,0,6000,47.4914,-117.5892
+88,TRUE,Reilly Center,0,Saint Bonaventure,NY,0,0,5480,42.079428,-78.484998
+181,TRUE,Reitz Arena,0,Baltimore,MD,0,0,2100,39.346803,-76.618615
+311,TRUE,Resch Center,0,Ashwaubenon,WI,0,0,10500,44.499547,-88.055049
+48,TRUE,Reynolds Center,0,Tulsa,OK,0,0,8355,36.148611,-95.941944
+351,TRUE,Reynolds Coliseum,0,Raleigh,NC,0,0,5500,35.783,-78.67
+500,TRUE,Rip Griffin Center,0,Lubbock,TX,0,0,1950,33.57186,-101.93188
+116,TRUE,Robins Center,0,Richmond,VA,0,0,9071,37.580701,-77.538987
+512,TRUE,Rock Hill Sports & Event Center,0,Rock Hill,SC,0,0,1200,0,0
+467,TRUE,Rocket Mortgage FieldHouse,0,Cleveland,OH,0,0,19432,41.496389,-81.688056
+452,TRUE,Rolle Activity Center,0,Flagstaff,AZ,0,0,1210,35.176489,-111.655184
+279,TRUE,Rose Hill Gymnasium,0,Bronx,NY,0,0,3200,40.862148,-73.883824
+301,TRUE,Ross E. Templeton P.E. Center,0,Clinton,SC,0,0,2300,34.465,-81.869
+282,TRUE,Rothman Center,0,Teaneck,NJ,0,0,1852,40.8967,-74.0324
+361,TRUE,Royal Farms Arena,0,Baltimore,MD,0,0,12289,39.288611,-76.618889
+103,TRUE,Rupp Arena,0,Lexington,KY,0,0,20500,38.049444,-84.502778
+25,TRUE,Ryan Center,0,Kingston,RI,0,0,8000,41.4875,-71.535556
+435,TRUE,Saint Francis High School,0,Honolulu,HI,0,0,0,21.304778,-157.8134
+567,TRUE,Salt Lake Community College,0,Salt Lake City,UT,0,0,0,0,0
+192,TRUE,Sanford Coyote Sports Center,0,Vermillion,SD,0,0,6004,42.790111,-96.927806
+388,TRUE,Sanford Pentagon,0,Sioux Falls,SD,0,0,3250,43.593056,-96.758611
+299,TRUE,Savage Arena,0,Toledo,OH,0,0,7014,41.660232,-83.609795
+314,TRUE,Save Mart Center,0,Fresno,CA,0,0,15596,36.809722,-119.738611
+329,TRUE,Schar Center,0,Elon,NC,0,0,5100,36.106998,-79.509392
+178,TRUE,Scheels Center,0,Fargo,ND,0,0,5644,46.900442,-96.799025
+515,TRUE,Schoenecker Arena,0,Saint Paul,MN,0,0,1800,44.943939,-93.189888
+451,TRUE,Scotiabank Arena,0,Toronto,ON,0,Canada,19800,43.643333,-79.379167
+541,TRUE,Screaming Eagles Arena,0,Evansville,IN,0,0,4800,0,0
+430,TRUE,Seabury Center Arena,0,Berea,KY,0,0,2000,37.575318,-84.288842
+286,TRUE,SECU Arena,0,Towson,MD,0,0,5200,39.387361,-76.617083
+215,TRUE,SEFCU Arena,0,Albany,NY,0,0,4280,42.681667,-73.828333
+168,TRUE,Sharp Gymnasium,0,Houston,TX,0,0,1000,29.695,-95.516944
+418,TRUE,S-H-M Memorial Center,0,Orangeburg,SC,0,0,3200,33.500979,-80.846522
+340,TRUE,Show Me Center,0,Cape Girardeau,MO,0,0,7000,37.32,-89.5271
+183,TRUE,ShoWare Center,0,Kent,WA,0,0,7141,47.388333,-122.24
+444,TRUE,Silver Spurs Arena,0,Kissimmee,FL,0,0,8000,28.298325,-81.369219
+30,TRUE,Silvio Conte Forum,0,Chestnut Hill,MA,0,0,8606,42.335,-71.1675
+393,TRUE,Simmons Bank Arena,0,North Little Rock,AR,0,0,18000,34.755111,-92.264439
+130,TRUE,Simon Skjodt Assembly Hall,1001 E 17th Street,Bloomington,IN,47408,USA,17222,39.180833,-86.522222
+248,TRUE,Skyhawk Arena,0,Martin,TN,0,0,4300,36.343604,-88.868134
+471,TRUE,Smoothie King Center,0,New Orleans,LA,0,0,16867,29.948889,-90.081944
+163,TRUE,Sojka Pavilion,0,Lewisburg,PA,0,0,4000,40.956964,-76.887093
+496,TRUE,Solomon Court at Cabot Center,0,Boston,MA,0,0,1800,42.339609,-71.089837
+514,TRUE,South Padre Island Convention Center,0,South Padre Island,TX,0,0,2500,26.140556,-97.175
+520,TRUE,South Point Arena,0,Las Vegas,NV,0,0,0,0,0
+440,TRUE,Spectrum Center,0,Charlotte,NC,0,0,19077,35.225,-80.839167
+232,TRUE,Spiro Sports Center,0,Staten Island,NY,0,0,2100,40.614966,-74.095729
+457,TRUE,Spokane Arena,0,Spokane,WA,0,0,11736,47.666,-117.423
+229,TRUE,Sports and Fitness Center,0,St. Thomas,Virgin Islands,0,0,3500,18.340096,-64.97306
+319,TRUE,SRC Arena,0,Riverside,CA,0,0,3168,33.9789,-117.32813
+315,TRUE,SSE Arena,0,Belfast,Northern Ireland,0,0,11058,54.604167,-5.915
+403,TRUE,St. Elizabeths East Entertainment and Sports Arena,0,Washington,DC,0,0,4200,38.846574,-76.991534
+271,TRUE,St. John Arena,0,Columbus,OH,0,0,0,40.005278,-83.018889
+196,TRUE,Stabler Arena,0,Bethlehem,PA,0,0,5600,40.584444,-75.356944
+142,TRUE,Stan Sheriff Center,0,Honolulu,HI,0,0,10300,21.294292,-157.818875
+412,TRUE,State Farm Arena,0,Atlanta,GA,0,0,16888,33.757222,-84.396389
+98,TRUE,State Farm Center,0,Champaign,IL,0,0,15544,40.096259,-88.235956
+546,TRUE,State Farm Field House,0,Kissimmee,FL,0,0,5000,0,0
+134,TRUE,Stegeman Coliseum,0,Athens,GA,0,0,10523,33.9428,-83.378
+126,TRUE,Steinberg Wellness Center,0,Brooklyn,NY,0,0,2500,40.69059,-73.979176
+411,TRUE,Stopher Gymnasium,0,Thibodaux,LA,0,0,3800,29.79235,-90.80135
+131,TRUE,Strahan Coliseum,0,San Marcos,TX,0,0,10000,29.888611,-97.932778
+222,TRUE,Stroh Center,0,Bowling Green,OH,0,0,4347,41.375343,-83.624711
+26,TRUE,Stuart C. Siegel Center,0,Richmond,VA,0,0,7637,37.552918,-77.4529
+425,TRUE,Suncoast Credit Union Arena,0,Fort Myers,FL,0,0,3500,27.020666,-82.027673
+426,TRUE,Swinney Recreation Center,0,Kansas City,MO,0,0,1500,39.03555,-94.57876
+35,TRUE,Swisher Gymnasium,0,Jacksonville,FL,0,0,1360,30.350278,-81.605
+29,TRUE,TD Arena,0,Charleston,SC,0,0,5100,32.785556,-79.934444
+513,TRUE,Teague Special Events Center,0,Abilene,TX,0,0,1000,32.466621,-99.709663
+262,TRUE,The Arena at Northwest FL St,0,Niceville,FL,0,0,0,0,0
+554,TRUE,The Field House,0,Commerce,TX,0,0,3055,0,0
+278,TRUE,The Hornets Nest,0,Sacramento,CA,0,0,1012,38.561903,-121.426878
+220,TRUE,The HTC Center,0,Conway,SC,0,0,3212,33.799167,-79.015556
+420,TRUE,The Kelp Bed,0,Seaside,CA,0,0,0,36.653389,-121.796417
+293,TRUE,The Knapp Center,0,Des Moines,IA,0,0,7152,41.604444,-93.651944
+374,TRUE,The Legacy Center,0,Lake Charles,LA,0,0,4242,30.1755,-93.2095
+331,TRUE,The Palestra,0,Philadelphia,PA,0,0,8722,39.951411,-75.188606
+208,TRUE,The Pit,0,Albuquerque,NM,0,0,15411,35.067,-106.632
+157,TRUE,The Sandy and John Black Pavilion at Ole Miss,762 All American Drive,Oxford,MS,38655,USA,9500,34.363164,-89.535453
+318,TRUE,The Thunderdome,0,Santa Barbara,CA,0,0,6000,34.413792,-119.851147
+173,TRUE,Thomas & Mack Center,0,Las Vegas,NV,0,0,18000,36.105,-115.144167
+180,TRUE,Thomas Assembly Center,0,Ruston,LA,0,0,8000,32.5321,-92.6584
+195,TRUE,Thompson-Boling Arena,0,Knoxville,TN,0,0,21678,35.951167,-83.925028
+201,TRUE,Tiger Arena,0,Savannah,GA,0,0,5000,32.02376,-81.0658
+199,TRUE,Timmons Arena,0,Greenville,SC,0,0,2500,34.925833,-82.435556
+489,TRUE,Titan Field House,0,Melbourne,FL,0,0,1500,28.170925,-80.671859
+260,TRUE,Titan Gym,0,Fullerton,CA,0,0,4000,33.883046,-117.88609
+383,TRUE,T-Mobile Arena,0,Las Vegas,NV,0,0,19000,36.102778,-115.178333
+365,TRUE,T-Mobile Center,0,Kansas City,MO,0,0,18972,39.0975,-94.580278
+154,TRUE,Tom Gola Arena,0,Philadelphia,PA,0,0,3400,40.039993,-75.15654
+465,TRUE,Toyota Center (Houston),0,Houston,TX,0,0,18055,29.750833,-95.362222
+117,TRUE,Trask Coliseum,0,Wilmington,NC,0,0,5200,34.225,-77.878333
+223,TRUE,Trojan Arena,0,Troy,AL,0,0,5200,31.802222,-85.954722
+320,TRUE,Truist Arena,0,Highland Heights,KY,0,0,9400,39.032273,-84.458864
+330,TRUE,Tsongas Center,0,Lowell,MA,0,0,6500,42.650228,-71.313248
+190,TRUE,Tudor Fieldhouse,0,Houston,TX,0,0,5750,29.715102,-95.403895
+323,TRUE,U.S. Bank Stadium,0,Minneapolis,MN,0,0,73000,44.974,-93.258
+516,TRUE,UBS Arena,0,Elmont,NY,0,0,17000,40.712094,-73.727157
+276,TRUE,UCCU Center,0,Orem,UT,0,0,8500,40.278724,-111.716956
+317,TRUE,UNF Arena,0,Jacksonville,FL,0,0,5800,30.2734,-81.5079
+352,TRUE,United Center,0,Chicago,IL,0,0,20917,41.880556,-87.674167
+43,TRUE,United Supermarkets Arena,0,Lubbock,TX,0,0,15098,33.581261,-101.886636
+328,TRUE,University Arena (MI),0,Kalamazoo,MI,0,0,5421,42.283372,-85.60845
+390,TRUE,University Center (LA),0,Hammond,LA,0,0,7500,30.52,-90.472778
+80,TRUE,University Credit Union Center,0,Davis,CA,0,0,6003,38.541667,-121.759444
+96,TRUE,University Credit Union Pavilion,1928 Saint Mary's Road,Moraga,CA,94575,USA,3500,37.841247,-122.106409
+87,TRUE,University of Dayton Arena,0,Dayton,OH,0,0,13409,39.735556,-84.2
+218,TRUE,UNT Coliseum,0,Denton,TX,0,0,10500,33.208333,-97.153889
+159,TRUE,UPMC Cooper Fieldhouse,600 Forbes Avenue,Pittsburgh,PA,15282,USA,3500,40.4374,-79.9879
+447,TRUE,UPMC Events Center,0,Moon Township,PA,0,0,4000,40.520212,-80.21476
+551,TRUE,USS Abraham Lincoln,0,San Diego,CA,0,0,0,0,0
+53,TRUE,UTRGV Fieldhouse,0,Edinburg,TX,0,0,2500,26.310278,-98.178056
+193,TRUE,UTSA Convocation Center,0,San Antonio,TX,0,0,2650,29.582222,-98.621389
+164,TRUE,UW-Milwaukee Panther Arena,0,Milwaukee,WI,0,0,12700,43.042222,-87.916944
+51,TRUE,Vadalabene Center,0,Edwardsville,IL,0,0,4000,38.795989,-89.999883
+233,TRUE,Value City Arena,0,Columbus,OH,0,0,19049,40.007511,-83.025102
+242,TRUE,Vancouver Convention Centre,0,Vancouver,BC,0,0,0,49.289167,-123.113797
+569,TRUE,Veterans Memorial Arena,300 A Philip Randolph Blvd,Jacksonville,FL,32202,USA,14091,30.3258,-81.644234
+545,TRUE,Veterans Memorial Coliseum,0,Portland,OR,0,0,12000,0,0
+568,TRUE,Vibrant Arena at The MARK,0,Moline,IL,0,0,0,0,0
+83,TRUE,Viejas Arena,0,San Diego,CA,0,0,12414,32.77375,-117.074583
+174,TRUE,Viking Pavilion,0,Portland,OR,0,0,3094,45.510987,-122.687471
+265,TRUE,Vines Center,0,Lynchburg,VA,0,0,9547,37.349068,-79.180998
+360,TRUE,Vivint Smart Home Arena,0,Salt Lake City,UT,0,0,18306,40.768333,-111.901111
+316,TRUE,Von Braun Center,0,Huntsville,AL,0,0,10000,34.72699,-86.590887
+197,TRUE,W. S. Hanner Fieldhouse,0,Statesboro,GA,0,0,4325,32.427778,-81.779444
+18,TRUE,Walsh Gymnasium,0,South Orange,NJ,0,0,1316,40.74169,-74.244921
+483,TRUE,Walter E. Washington Convention Center,0,Washington,DC,0,0,42000,38.9051,-77.023
+284,TRUE,Walter Pyramid,0,Long Beach,CA,0,0,4200,33.787222,-118.114167
+160,TRUE,War Memorial Gymnasium,0,San Francisco,CA,0,0,3006,37.776944,-122.449444
+115,TRUE,Watsco Center,0,Coral Gables,FL,0,0,7972,25.715,-80.279167
+203,TRUE,Webster Bank Arena,0,Bridgeport,CT,0,0,10000,41.1732,-73.187
+378,TRUE,Wells Fargo Arena (IA),0,Des Moines,IA,0,0,17000,41.592667,-93.621139
+144,TRUE,Wells Fargo Center,0,Philadelphia,PA,0,0,21000,39.901111,-75.171944
+100,TRUE,Welsh-Ryan Arena,0,Evanston,IL,0,0,7039,42.066944,-87.692778
+312,TRUE,Western Hall,0,Macomb,IL,0,0,5139,40.471589,-90.685201
+335,TRUE,Willett Hall,0,Farmville,VA,0,0,1900,37.2975,-78.3955
+296,TRUE,William D. Mullins Memorial Center,0,Amherst,MA,0,0,9493,42.389381,-72.533439
+198,TRUE,William H. Detrick Gymnasium,0,New Britain,CT,0,0,2654,41.693,-72.7649
+288,TRUE,William H. Pitt Center,0,Fairfield,CT,0,0,2062,41.219439,-73.244628
+417,TRUE,William Nicks Building,0,Prairie View,TX,0,0,6500,30.092278,-95.993083
+59,TRUE,Williams Arena,0,Minneapolis,MN,0,0,14625,44.976944,-93.228333
+407,TRUE,Winfield Dunn Center,0,Clarksville,TN,0,0,8075,36.536111,-87.356944
+398,TRUE,Winthrop Coliseum,0,Rock Hill,SC,0,0,6100,34.947911,-81.014972
+93,TRUE,Wintrust Arena,0,Chicago,IL,0,0,10387,41.853611,-87.621389
+487,TRUE,Wisdom Gym,0,Stephenville,TX,0,0,3000,32.215438,-98.220617
+158,TRUE,Wolstein Center,0,Cleveland,OH,0,0,13610,41.499167,-81.676944
+23,TRUE,Worthen Arena,0,Muncie,IN,0,0,11500,40.206944,-85.406111
+106,TRUE,WVU Coliseum,0,Morgantown,WV,0,0,14000,39.649167,-79.981111
+41,TRUE,XFINITY Center,0,College Park,MD,0,0,17950,38.995417,-76.941556
+235,TRUE,XL Center,0,Hartford,CT,0,0,15564,41.768333,-72.676944
+90,TRUE,Yanitelli Center,0,Jersey City,NJ,0,0,3200,40.727648,-74.073173
+21,TRUE,Yuengling Center,0,Tampa,FL,0,0,10411,28.059236,-82.406472

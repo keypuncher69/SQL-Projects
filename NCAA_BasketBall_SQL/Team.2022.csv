@@ -1,0 +1,1157 @@
+TeamID,[Key],Active,School,Name,ApRank,Wins,Losses,ConferenceWins,ConferenceLosses,Conference,TeamLogoUrl,ShortDisplayName,Stadium_ID
+296,ABCHR,TRUE,Abilene Christian,Wildcats,0,10,10,2,5,Western Athletic,https://s3-us-west-2.amazonaws.com/static.fantasydata.com/logos/ncaa/296.png,ABCHR,499
+1005,AAUK,TRUE,Academy of Art,Urban Knights,0,0,0,0,0,0,https://s3-us-west-2.amazonaws.com/static.fantasydata.com/logos/ncaa/0.png,AAUK,491
+1032,ADAMS,TRUE,Adams State,Grizzlies,0,0,0,0,0,0,https://s3-us-west-2.amazonaws.com/static.fantasydata.com/logos/ncaa/0.png,ADAMS,20
+1067,ACB,TRUE,Adrian College,Bulldogs,0,0,0,0,0,0,https://s3-us-west-2.amazonaws.com/static.fantasydata.com/logos/ncaa/0.png,ACB,406
+1153,ASC,FALSE,Agnes Scott College,Scotties,0,0,0,0,0,0,https://s3-us-west-2.amazonaws.com/static.fantasydata.com/logos/ncaa/0.png,ASC,552
+221,AIRF,TRUE,Air Force,Falcons,0,12,8,3,4,Mountain West,https://s3-us-west-2.amazonaws.com/static.fantasydata.com/logos/ncaa/221.png,AIR,338
+177,AKRON,TRUE,Akron,Zips,0,13,6,5,1,Mid-American,https://s3-us-west-2.amazonaws.com/static.fantasydata.com/logos/ncaa/177.png,AKRON,15
+275,ALA,TRUE,Alabama,Crimson Tide,4,17,2,7,0,Southeastern,https://s3-us-west-2.amazonaws.com/static.fantasydata.com/logos/ncaa/275.png,ALA,445
+309,ALAAM,TRUE,Alabama A&M,Bulldogs,0,6,13,2,4,Southwestern Athletic,https://s3-us-west-2.amazonaws.com/static.fantasydata.com/logos/ncaa/309.png,ALAAM,261
+850,AHC,FALSE,Alabama Huntsville,Chargers,0,0,0,0,0,0,https://s3-us-west-2.amazonaws.com/static.fantasydata.com/logos/ncaa/0.png,AH,307
+311,ALAST,TRUE,Alabama State,Hornets,0,6,13,4,2,Southwestern Athletic,https://s3-us-west-2.amazonaws.com/static.fantasydata.com/logos/ncaa/311.png,ALASU,156
+818,AKFBN,FALSE,Alaska Fairbanks,Nanooks,0,0,0,0,0,0,https://s3-us-west-2.amazonaws.com/static.fantasydata.com/logos/ncaa/0.png,AKFB,416
+635,UAA,TRUE,Alaska-Anchorage,Seawolves,0,0,0,0,0,0,https://s3-us-west-2.amazonaws.com/static.fantasydata.com/logos/ncaa/0.png,UAA,184
+13,ALBNY,TRUE,Albany,Great Danes,0,6,15,1,5,America East,https://s3-us-west-2.amazonaws.com/static.fantasydata.com/logos/ncaa/13.png,ALBANY,434
+876,ALBS,TRUE,Albany State (GA),Golden Rams,0,0,0,0,0,0,https://s3-us-west-2.amazonaws.com/static.fantasydata.com/logos/ncaa/0.png,ALBS,561
+1243,ALBERTUS,TRUE,Albertus Magnus,Falcons,0,0,0,0,0,0,https://s3-us-west-2.amazonaws.com/static.fantasydata.com/logos/ncaa/0.png,ALBERTUS,16
+413,ALBI,TRUE,Albion,Britons,0,0,0,0,0,0,https://s3-us-west-2.amazonaws.com/static.fantasydata.com/logos/ncaa/0.png,ALB,104
+307,ALCST,TRUE,Alcorn State,Braves,0,8,10,5,1,Southwestern Athletic,https://s3-us-west-2.amazonaws.com/static.fantasydata.com/logos/ncaa/307.png,ALCST,370
+1022,ALF,FALSE,Alfred State College,Pioneers,0,0,0,0,0,0,https://s3-us-west-2.amazonaws.com/static.fantasydata.com/logos/ncaa/1022.png,ALF,356
+849,ALCE,TRUE,Alice Lloyd College,Eagles,0,0,0,0,0,0,https://s3-us-west-2.amazonaws.com/static.fantasydata.com/logos/ncaa/0.png,ALC,113
+361,ALLEN,TRUE,Allen,Yellow Jackets,0,0,0,0,0,0,https://s3-us-west-2.amazonaws.com/static.fantasydata.com/logos/ncaa/0.png,ALLEN,481
+792,ALM,TRUE,Alma,Scot,0,0,0,0,0,0,https://s3-us-west-2.amazonaws.com/static.fantasydata.com/logos/ncaa/0.png,ALMA,530
+265,AMERCN,TRUE,American,Eagles,0,12,7,4,4,Patriot League,https://s3-us-west-2.amazonaws.com/static.fantasydata.com/logos/ncaa/265.png,AMERCN,377
+1123,AINTL,TRUE,American International,Yellow Jackets,0,0,0,0,0,0,https://s3-us-west-2.amazonaws.com/static.fantasydata.com/logos/ncaa/0.png,AINTL,325
+874,BETHB,FALSE,Anaheim,Bethesda,0,0,0,0,0,0,https://s3-us-west-2.amazonaws.com/static.fantasydata.com/logos/ncaa/0.png,BETH,550
+917,AND,TRUE,Anderson (IN),Ravens,0,0,0,0,0,0,https://s3-us-west-2.amazonaws.com/static.fantasydata.com/logos/ncaa/0.png,AND,191
+1269,ANDRN,TRUE,Anderson (SC),Trojans,0,0,0,0,0,0,https://s3-us-west-2.amazonaws.com/static.fantasydata.com/logos/ncaa/0.png,ANDRN,547
+625,ANGL,TRUE,Angelo State,Rams,0,0,0,0,0,0,https://s3-us-west-2.amazonaws.com/static.fantasydata.com/logos/ncaa/0.png,ANGL,17
+655,Ante,TRUE,Antelope Valley,Pioneers,0,0,0,0,0,0,https://s3-us-west-2.amazonaws.com/static.fantasydata.com/logos/ncaa/0.png,Ante,455
+331,APPLST,TRUE,Appalachian State,Mountaineers,0,11,10,4,4,Sun Belt,https://s3-us-west-2.amazonaws.com/static.fantasydata.com/logos/ncaa/331.png,APPLST,82
+980,ASB,FALSE,Apprentice School,Builders,0,0,0,0,0,0,https://s3-us-west-2.amazonaws.com/static.fantasydata.com/logos/ncaa/0.png,ASB,536
+715,AQUN,TRUE,Aquinas College,Saints,0,0,0,0,0,0,https://s3-us-west-2.amazonaws.com/static.fantasydata.com/logos/ncaa/0.png,AQUN,124
+1241,ARCD,TRUE,Arcadia,Knights,0,0,0,0,0,0,https://s3-us-west-2.amazonaws.com/static.fantasydata.com/logos/ncaa/0.png,ARCD,256
+247,ARZ,TRUE,Arizona,Wildcats,11,17,3,6,3,Pac-12,https://s3-us-west-2.amazonaws.com/static.fantasydata.com/logos/ncaa/247.png,ARZ,486
+1064,ACU,TRUE,Arizona Christian,Firestorm,0,0,0,0,0,0,https://s3-us-west-2.amazonaws.com/static.fantasydata.com/logos/ncaa/0.png,ACU,462
+255,ARZST,TRUE,Arizona State,Sun Devils,0,15,5,6,3,Pac-12,https://s3-us-west-2.amazonaws.com/static.fantasydata.com/logos/ncaa/255.png,ASU,207
+276,ARK,TRUE,Arkansas,Razorbacks,25,13,6,2,5,Southeastern,https://s3-us-west-2.amazonaws.com/static.fantasydata.com/logos/ncaa/276.png,ARK,384
+1150,ARKBA,TRUE,Arkansas Baptist,Buffaloes,0,0,0,0,0,0,https://s3-us-west-2.amazonaws.com/static.fantasydata.com/logos/ncaa/0.png,ARKBA,186
+327,ARKST,TRUE,Arkansas State,Red Wolves,0,9,12,1,7,Sun Belt,https://s3-us-west-2.amazonaws.com/static.fantasydata.com/logos/ncaa/327.png,ARKST,141
+793,ARTECH,TRUE,Arkansas Tech,Wonder Boys,0,0,0,0,0,0,https://s3-us-west-2.amazonaws.com/static.fantasydata.com/logos/ncaa/0.png,ARTCH,245
+751,ARMON,TRUE,Arkansas-Monticello,Boll Weevils,0,0,0,0,0,0,https://s3-us-west-2.amazonaws.com/static.fantasydata.com/logos/ncaa/751.png,ARMON,64
+772,ARBAP,TRUE,Arlington Baptist,Patriots,0,0,0,0,0,0,https://s3-us-west-2.amazonaws.com/static.fantasydata.com/logos/ncaa/0.png,ARBAP,217
+263,ARMY,TRUE,Army,Black Knights,0,11,10,5,3,Patriot League,https://s3-us-west-2.amazonaws.com/static.fantasydata.com/logos/ncaa/263.png,ARMY,402
+867,ASH,TRUE,Asbury,Eagles,0,0,0,0,0,0,https://s3-us-west-2.amazonaws.com/static.fantasydata.com/logos/ncaa/0.png,ASH,349
+1204,ASHL,TRUE,Ashland,Eagles,0,0,0,0,0,0,https://s3-us-west-2.amazonaws.com/static.fantasydata.com/logos/ncaa/0.png,ASHL,321
+946,AUB,FALSE,AUB Montgomery,Senators,0,0,0,0,0,0,https://s3-us-west-2.amazonaws.com/static.fantasydata.com/logos/ncaa/0.png,AUB,306
+279,AUBRN,TRUE,Auburn,Tigers,16,16,3,6,1,Southeastern,https://s3-us-west-2.amazonaws.com/static.fantasydata.com/logos/ncaa/279.png,AUBURN,484
+1280,AURO,TRUE,Aurora,Spartans,0,0,0,0,0,0,https://s3-us-west-2.amazonaws.com/static.fantasydata.com/logos/ncaa/0.png,AURO,336
+1178,AUST,FALSE,AUST,Kangaroos,0,0,0,0,0,0,https://s3-us-west-2.amazonaws.com/static.fantasydata.com/logos/ncaa/0.png,AUST,428
+242,AUSP,TRUE,Austin Peay,Governors,0,8,13,2,6,Atlantic Sun,https://s3-us-west-2.amazonaws.com/static.fantasydata.com/logos/ncaa/242.png,AUSP,469
+737,AVEM,TRUE,Ave Maria,Gyrenes,0,0,0,0,0,0,https://s3-us-west-2.amazonaws.com/static.fantasydata.com/logos/ncaa/0.png,AVEM,376
+462,AVC,TRUE,Averett,Cougars,0,0,0,0,0,0,https://s3-us-west-2.amazonaws.com/static.fantasydata.com/logos/ncaa/0.png,AVC,268
+742,AVIL,TRUE,Avila,Eagles,0,0,0,0,0,0,https://s3-us-west-2.amazonaws.com/static.fantasydata.com/logos/ncaa/0.png,AVIL,534
+1120,BAB,TRUE,Babson,Beavers,0,0,0,0,0,0,https://s3-us-west-2.amazonaws.com/static.fantasydata.com/logos/ncaa/0.png,BAB,472
+790,BW,TRUE,Bacone,Warriors,0,0,0,0,0,0,https://s3-us-west-2.amazonaws.com/static.fantasydata.com/logos/ncaa/0.png,BCU,105
+1194,BAKER,FALSE,Baker,Wildcats,0,0,0,0,0,0,https://s3-us-west-2.amazonaws.com/static.fantasydata.com/logos/ncaa/0.png,BAKER,81
+346,CSU,TRUE,Bakersfield,Roadrunners,0,6,13,2,6,Big West,https://s3-us-west-2.amazonaws.com/static.fantasydata.com/logos/ncaa/346.png,CSU,175
+1223,BKRS,TRUE,Bakersfield College,Renegades,0,0,0,0,0,0,https://s3-us-west-2.amazonaws.com/static.fantasydata.com/logos/ncaa/0.png,BKRS,73
+1255,BALDW,TRUE,Baldwin Wallace,Yellow Jackets,0,0,0,0,0,0,https://s3-us-west-2.amazonaws.com/static.fantasydata.com/logos/ncaa/0.png,BALDW,400
+184,BALLST,TRUE,Ball State,Cardinals,0,13,6,4,2,Mid-American,https://s3-us-west-2.amazonaws.com/static.fantasydata.com/logos/ncaa/184.png,BALLST,518
+1209,BAPMO,TRUE,Baptist Bible College (MO),Patriots,0,0,0,0,0,0,https://s3-us-west-2.amazonaws.com/static.fantasydata.com/logos/ncaa/0.png,BAPMO,127
+1184,BBCPA,TRUE,Baptist Bible College (PA),Defenders,0,0,0,0,0,0,https://s3-us-west-2.amazonaws.com/static.fantasydata.com/logos/ncaa/0.png,BBCPA,202
+1193,BAPCC,TRUE,Baptist Christian College,Warriors,0,0,0,0,0,0,https://s3-us-west-2.amazonaws.com/static.fantasydata.com/logos/ncaa/0.png,BAPCC,194
+1118,BARC,TRUE,Barclay College,Bears,0,0,0,0,0,0,https://s3-us-west-2.amazonaws.com/static.fantasydata.com/logos/ncaa/0.png,BARC,482
+1298,BARR,FALSE,Barry,Buccaneers,0,0,0,0,0,0,https://s3-us-west-2.amazonaws.com/static.fantasydata.com/logos/ncaa/0.png,BARR,363
+108,BAYL,TRUE,Baylor,Bears,21,14,5,4,3,Big 12,https://s3-us-west-2.amazonaws.com/static.fantasydata.com/logos/ncaa/108.png,BAYLOR,433
+1028,BEL,TRUE,Belhaven,Blazers,0,0,0,0,0,0,https://s3-us-west-2.amazonaws.com/static.fantasydata.com/logos/ncaa/0.png,BEL,537
+1025,BELLA,TRUE,Bellarmine,Knights,0,9,12,4,4,Atlantic Sun,https://s3-us-west-2.amazonaws.com/static.fantasydata.com/logos/ncaa/1025.png,BELLA,342
+514,BELLE,TRUE,Bellevue,Bruins,0,0,0,0,0,0,https://s3-us-west-2.amazonaws.com/static.fantasydata.com/logos/ncaa/0.png,BELLE,304
+1225,BLVU,TRUE,Bellevue College,Bulldogs,0,0,0,0,0,0,https://s3-us-west-2.amazonaws.com/static.fantasydata.com/logos/ncaa/0.png,BLVU,179
+233,BELM,TRUE,Belmont,Bruins,0,15,6,8,2,Missouri Valley,https://s3-us-west-2.amazonaws.com/static.fantasydata.com/logos/ncaa/233.png,BELM,214
+958,BAC,TRUE,Belmont Abbey,Crusaders,0,0,0,0,0,0,https://s3-us-west-2.amazonaws.com/static.fantasydata.com/logos/ncaa/0.png,BAC,211
+627,BEMI,TRUE,Bemidji State,Beavers,0,0,0,0,0,0,https://s3-us-west-2.amazonaws.com/static.fantasydata.com/logos/ncaa/0.png,BEMI,67
+517,ILBE,TRUE,Benedictine,Eagles,0,0,0,0,0,0,https://s3-us-west-2.amazonaws.com/static.fantasydata.com/logos/ncaa/0.png,ILBE,463
+826,BENCR,TRUE,Benedictine College,Ravens,0,0,0,0,0,0,https://s3-us-west-2.amazonaws.com/static.fantasydata.com/logos/ncaa/0.png,BENC,19
+458,BENE,TRUE,Benedictine Mesa,Redhawks,0,0,0,0,0,0,https://s3-us-west-2.amazonaws.com/static.fantasydata.com/logos/ncaa/0.png,BENE,149
+1094,Berry,FALSE,Berry College,Vikings,0,0,0,0,0,0,https://s3-us-west-2.amazonaws.com/static.fantasydata.com/logos/ncaa/0.png,BERRY,99
+508,BTHKS,TRUE,Bethany (KS),Swedes,0,0,0,0,0,0,https://s3-us-west-2.amazonaws.com/static.fantasydata.com/logos/ncaa/0.png,BTHKS,122
+1142,BETIN,TRUE,Bethel (IN),Pilots,0,0,0,0,0,0,https://s3-us-west-2.amazonaws.com/static.fantasydata.com/logos/ncaa/0.png,BETIN,107
+1246,BETKS,TRUE,Bethel (KS),Threshers,0,0,0,0,0,0,https://s3-us-west-2.amazonaws.com/static.fantasydata.com/logos/ncaa/0.png,BETKS,345
+753,BTHTN,TRUE,Bethel (TN),Wildcats,0,0,0,0,0,0,https://s3-us-west-2.amazonaws.com/static.fantasydata.com/logos/ncaa/0.png,BTHTN,170
+412,BETH,TRUE,Bethesda,Flames,0,0,0,0,0,0,https://s3-us-west-2.amazonaws.com/static.fantasydata.com/logos/ncaa/0.png,BETH,213
+192,BCOOK,TRUE,Bethune-Cookman,Wildcats,0,6,13,2,4,Southwestern Athletic,https://s3-us-west-2.amazonaws.com/static.fantasydata.com/logos/ncaa/192.png,BCOOK,50
+20,BING,TRUE,Binghamton,Bearcats,0,8,11,4,2,America East,https://s3-us-west-2.amazonaws.com/static.fantasydata.com/logos/ncaa/20.png,BING,450
+707,BSC,TRUE,Birmingham-Southern,Panthers,0,0,0,0,0,0,https://s3-us-west-2.amazonaws.com/static.fantasydata.com/logos/ncaa/0.png,BSC,24
+1263,BLKBN,TRUE,Blackburn,Beavers,0,0,0,0,0,0,https://s3-us-west-2.amazonaws.com/static.fantasydata.com/logos/ncaa/0.png,BLKBN,49
+454,BLOM,TRUE,Bloomsburg,Huskies,0,0,0,0,0,0,https://s3-us-west-2.amazonaws.com/static.fantasydata.com/logos/ncaa/0.png,BLOOM,37
+658,BLUMT,TRUE,Blue Mountain College,Toppers,0,0,0,0,0,0,https://s3-us-west-2.amazonaws.com/static.fantasydata.com/logos/ncaa/0.png,BLUMT,27
+1048,BCRR,TRUE,Bluefield College,Ramblin' Rams,0,0,0,0,0,0,https://s3-us-west-2.amazonaws.com/static.fantasydata.com/logos/ncaa/0.png,BCRR,446
+929,BLUE,TRUE,Bluefield State,Big Blues,0,0,0,0,0,0,https://s3-us-west-2.amazonaws.com/static.fantasydata.com/logos/ncaa/0.png,BLUE,464
+1260,BLUFF,TRUE,Bluffton,Beavers,0,0,0,0,0,0,https://s3-us-west-2.amazonaws.com/static.fantasydata.com/logos/ncaa/0.png,BLUFF,449
+432,BOB,TRUE,Bob Jones,Bruins,0,0,0,0,0,0,https://s3-us-west-2.amazonaws.com/static.fantasydata.com/logos/ncaa/0.png,BOB,358
+215,BOISE,TRUE,Boise State,Broncos,0,15,5,5,2,Mountain West,https://s3-us-west-2.amazonaws.com/static.fantasydata.com/logos/ncaa/215.png,BOISE,65
+259,BOSTU,TRUE,Boston,Terriers,0,10,11,3,5,Patriot League,https://s3-us-west-2.amazonaws.com/static.fantasydata.com/logos/ncaa/259.png,BU,254
+35,BOSCOL,TRUE,Boston College,Eagles,0,9,11,3,6,Atlantic Coast,https://s3-us-west-2.amazonaws.com/static.fantasydata.com/logos/ncaa/35.png,BC,305
+356,BOWST,TRUE,Bowie St.,Bulldogs,0,0,0,0,0,0,https://s3-us-west-2.amazonaws.com/static.fantasydata.com/logos/ncaa/0.png,BOWST,66
+181,BOWLGR,TRUE,Bowling Green,Falcons,0,9,10,3,3,Mid-American,https://s3-us-west-2.amazonaws.com/static.fantasydata.com/logos/ncaa/181.png,BOWLGR,517
+709,Boyc,TRUE,Boyce,Bulldogs,0,0,0,0,0,0,https://s3-us-west-2.amazonaws.com/static.fantasydata.com/logos/ncaa/0.png,Boyc,277
+210,BRADLY,TRUE,Bradley,Braves,0,13,8,6,4,Missouri Valley,https://s3-us-west-2.amazonaws.com/static.fantasydata.com/logos/ncaa/210.png,BRADLY,58
+1272,BRANDEIS,TRUE,Brandeis,Judges,0,0,0,0,0,0,https://s3-us-west-2.amazonaws.com/static.fantasydata.com/logos/ncaa/0.png,BRAN,332
+472,BRESC,TRUE,Brescia,Bearcats,0,0,0,0,0,0,https://s3-us-west-2.amazonaws.com/static.fantasydata.com/logos/ncaa/0.png,BRESC,33
+482,BREC,TRUE,Brevard College,Tornados,0,0,0,0,0,0,https://s3-us-west-2.amazonaws.com/static.fantasydata.com/logos/ncaa/0.png,BREC,485
+455,BPARK,TRUE,Brewton-Parker College,Barons,0,0,0,0,0,0,https://s3-us-west-2.amazonaws.com/static.fantasydata.com/logos/ncaa/0.png,BPARK,111
+845,BPORT,FALSE,Bridgeport,Purple Knights,0,0,0,0,0,0,https://s3-us-west-2.amazonaws.com/static.fantasydata.com/logos/ncaa/0.png,BRIDGE,189
+677,BRIDVA,TRUE,Bridgewater (VA),Eagles,0,0,0,0,0,0,https://s3-us-west-2.amazonaws.com/static.fantasydata.com/logos/ncaa/0.png,BRIDVA,362
+163,BROWN,TRUE,Brown,Bears,0,10,9,3,3,Ivy League,https://s3-us-west-2.amazonaws.com/static.fantasydata.com/logos/ncaa/163.png,BROWN,556
+520,BRYAN,TRUE,Bryan College,Lions,0,0,0,0,0,0,https://s3-us-west-2.amazonaws.com/static.fantasydata.com/logos/ncaa/0.png,BRYAN,40
+231,BRYANT,TRUE,Bryant,Bulldogs,0,13,7,4,3,America East,https://s3-us-west-2.amazonaws.com/static.fantasydata.com/logos/ncaa/231.png,BRYANT,147
+700,Bryn,TRUE,Bryn Athyn,Lions,0,0,0,0,0,0,https://s3-us-west-2.amazonaws.com/static.fantasydata.com/logos/ncaa/0.png,Bryn,120
+257,BUCK,TRUE,Bucknell,Bison,0,8,13,1,7,Patriot League,https://s3-us-west-2.amazonaws.com/static.fantasydata.com/logos/ncaa/257.png,BUCK,503
+651,BVU,TRUE,Buena Vista,Beavers,0,0,0,0,0,0,https://s3-us-west-2.amazonaws.com/static.fantasydata.com/logos/ncaa/0.png,BVU,466
+179,BUF,TRUE,Buffalo,Bulls,0,9,10,3,3,Mid-American,https://s3-us-west-2.amazonaws.com/static.fantasydata.com/logos/ncaa/179.png,BUF,380
+1110,BUFST,TRUE,Buffalo State,Bengals,0,0,0,0,0,0,https://s3-us-west-2.amazonaws.com/static.fantasydata.com/logos/ncaa/0.png,BUFST,424
+1197,BSHNL,TRUE,Bushnell,Beacons,0,0,0,0,0,0,https://s3-us-west-2.amazonaws.com/static.fantasydata.com/logos/ncaa/0.png,BSHNL,225
+64,BUTL,TRUE,Butler,Bulldogs,0,11,10,3,7,Big East,https://s3-us-west-2.amazonaws.com/static.fantasydata.com/logos/ncaa/64.png,BUTLER,12
+336,BYU,TRUE,BYU,Cougars,0,14,9,4,4,West Coast,https://s3-us-west-2.amazonaws.com/static.fantasydata.com/logos/ncaa/336.png,BYU,298
+421,CAIR,TRUE,Cairn,Highlanders,0,0,0,0,0,0,https://s3-us-west-2.amazonaws.com/static.fantasydata.com/logos/ncaa/0.png,CAIRN,357
+418,CLU,TRUE,Cal Lutheran,Kingsmen,0,0,0,0,0,0,https://s3-us-west-2.amazonaws.com/static.fantasydata.com/logos/ncaa/0.png,CLU,205
+122,CALPOL,TRUE,Cal Poly,Mustangs,0,7,13,1,7,Big West,https://s3-us-west-2.amazonaws.com/static.fantasydata.com/logos/ncaa/122.png,CALPOL,169
+123,CSUFL,TRUE,Cal State Fullerton,Titans,0,10,11,4,5,Big West,https://s3-us-west-2.amazonaws.com/static.fantasydata.com/logos/ncaa/123.png,CSUFL,538
+429,CSSM,TRUE,Cal State San Marcos,Cougars,0,0,0,0,0,0,https://s3-us-west-2.amazonaws.com/static.fantasydata.com/logos/ncaa/0.png,CSSM,136
+487,CSDH,TRUE,Cal State-Dominguez Hills,Toros,0,0,0,0,0,0,https://s3-us-west-2.amazonaws.com/static.fantasydata.com/logos/ncaa/0.png,CSDH,247
+990,CSEB,TRUE,Cal State-East Bay,Pioneers,0,0,0,0,0,0,https://s3-us-west-2.amazonaws.com/static.fantasydata.com/logos/ncaa/0.png,CSEB,408
+776,CASLA,TRUE,Cal State-Los Angeles,Golden Eagles,0,0,0,0,0,0,https://s3-us-west-2.amazonaws.com/static.fantasydata.com/logos/ncaa/0.png,CASLA,431
+698,CSST,TRUE,Cal State-Stanislaus,Warriors,0,0,0,0,0,0,https://s3-us-west-2.amazonaws.com/static.fantasydata.com/logos/ncaa/0.png,CSST,359
+402,CALTECH,TRUE,Cal Tech,Beavers,0,0,0,0,0,0,https://s3-us-west-2.amazonaws.com/static.fantasydata.com/logos/ncaa/0.png,CALTECH,185
+796,CALDW,TRUE,Caldwell,Cougars,0,0,0,0,0,0,https://s3-us-west-2.amazonaws.com/static.fantasydata.com/logos/ncaa/0.png,CALD,344
+251,CAH,TRUE,California,Golden Bears,0,3,17,2,7,Pac-12,https://s3-us-west-2.amazonaws.com/static.fantasydata.com/logos/ncaa/251.png,CAL,138
+394,CABAP,TRUE,California Baptist,Lancers,0,12,8,4,3,Western Athletic,https://s3-us-west-2.amazonaws.com/static.fantasydata.com/logos/ncaa/394.png,CABAP,125
+426,MRCD,TRUE,California Merced,Bobcats,0,0,0,0,0,0,https://s3-us-west-2.amazonaws.com/static.fantasydata.com/logos/ncaa/0.png,MRCD,566
+1220,CMAR,TRUE,California-Maritime,Keelhaulers,0,0,0,0,0,0,https://s3-us-west-2.amazonaws.com/static.fantasydata.com/logos/ncaa/0.png,CMAR,437
+1007,UCSD,TRUE,California-San Diego,Tritons,0,7,13,2,6,Big West,https://s3-us-west-2.amazonaws.com/static.fantasydata.com/logos/ncaa/1007.png,UCSD,137
+764,UCSC,TRUE,California-Santa Cruz,Banana Slugs,0,0,0,0,0,0,https://s3-us-west-2.amazonaws.com/static.fantasydata.com/logos/ncaa/0.png,UCSC,176
+1285,CLM,TRUE,Calumet College,Crimson Wave,0,0,0,0,0,0,https://s3-us-west-2.amazonaws.com/static.fantasydata.com/logos/ncaa/0.png,CLM,456
+399,CALVW,TRUE,Calvary,Warriors,0,0,0,0,0,0,https://s3-us-west-2.amazonaws.com/static.fantasydata.com/logos/ncaa/0.png,CALV,535
+1068,CALVIN,TRUE,Calvin,Knights,0,0,0,0,0,0,https://s3-us-west-2.amazonaws.com/static.fantasydata.com/logos/ncaa/0.png,CALVIN,313
+90,CAMP,TRUE,Campbell,Fighting Camels,0,8,12,3,5,Big South,https://s3-us-west-2.amazonaws.com/static.fantasydata.com/logos/ncaa/90.png,CAMP,11
+754,CMPVLE,TRUE,Campbellsville,Tigers,0,0,0,0,0,0,https://s3-us-west-2.amazonaws.com/static.fantasydata.com/logos/ncaa/0.png,CMPVLE,135
+1088,CSVILLE,TRUE,Campbellsville-Harrodsburg,Pioneers,0,0,0,0,0,0,https://s3-us-west-2.amazonaws.com/static.fantasydata.com/logos/ncaa/0.png,CSVILLE,68
+172,CANS,TRUE,Canisius,Golden Griffins,0,5,14,3,7,Metro Atlantic Athletic,https://s3-us-west-2.amazonaws.com/static.fantasydata.com/logos/ncaa/172.png,CANS,432
+1276,CRDST,TRUE,Cardinal Stritch,Wolves,0,0,0,0,0,0,https://s3-us-west-2.amazonaws.com/static.fantasydata.com/logos/ncaa/0.png,CRDST,427
+1042,CARLOW,TRUE,Carlow,Celtics,0,0,0,0,0,0,https://s3-us-west-2.amazonaws.com/static.fantasydata.com/logos/ncaa/0.png,CARLOW,165
+522,CMELL,TRUE,Carnegie Mellon,Tartans,0,0,0,0,0,0,https://s3-us-west-2.amazonaws.com/static.fantasydata.com/logos/ncaa/0.png,CMELL,121
+1038,CARO,TRUE,Carolina,Bruins,0,0,0,0,0,0,https://s3-us-west-2.amazonaws.com/static.fantasydata.com/logos/ncaa/0.png,CARO,504
+1137,CCC,FALSE,Carolina Christian,Centurians,0,0,0,0,0,0,https://s3-us-west-2.amazonaws.com/static.fantasydata.com/logos/ncaa/0.png,CCC,501
+837,CRMTS,TRUE,Carroll (MT),Fighting Saints,0,0,0,0,0,0,https://s3-us-west-2.amazonaws.com/static.fantasydata.com/logos/ncaa/0.png,CRMT,289
+801,CRNWE,TRUE,Carson-Newman,Eagles,0,0,0,0,0,0,https://s3-us-west-2.amazonaws.com/static.fantasydata.com/logos/ncaa/0.png,CRNW,85
+449,CARV,TRUE,Carver College,Cougars,0,0,0,0,0,0,https://s3-us-west-2.amazonaws.com/static.fantasydata.com/logos/ncaa/0.png,CARV,454
+1074,CATA,TRUE,Catawba,Indians,0,0,0,0,0,0,https://s3-us-west-2.amazonaws.com/static.fantasydata.com/logos/ncaa/0.png,CATA,264
+1274,CAZEN,TRUE,Cazenovia,Wildcats,0,0,0,0,0,0,https://s3-us-west-2.amazonaws.com/static.fantasydata.com/logos/ncaa/0.png,CAZEN,353
+503,CDRVL,TRUE,Cedarville,Yellow Jackets,0,0,0,0,0,0,https://s3-us-west-2.amazonaws.com/static.fantasydata.com/logos/ncaa/0.png,CDRVL,280
+398,CWW,TRUE,Cental Washington,Wildcats,0,0,0,0,0,0,https://s3-us-west-2.amazonaws.com/static.fantasydata.com/logos/ncaa/0.png,CWW,562
+425,CENT,TRUE,Centenary,Gentlemen,0,0,0,0,0,0,https://s3-us-west-2.amazonaws.com/static.fantasydata.com/logos/ncaa/0.png,CENT,404
+1288,CEN,TRUE,Centenary College,Cyclones,0,0,0,0,0,0,https://s3-us-west-2.amazonaws.com/static.fantasydata.com/logos/ncaa/0.png,CEN,401
+298,CARK,TRUE,Central Arkansas,Bears,0,6,15,1,7,Atlantic Sun,https://s3-us-west-2.amazonaws.com/static.fantasydata.com/logos/ncaa/298.png,CARK,52
+827,CBAPM,TRUE,Central Baptist College,Mustangs,0,0,0,0,0,0,https://s3-us-west-2.amazonaws.com/static.fantasydata.com/logos/ncaa/0.png,CBAP,119
+959,CCMO,FALSE,Central Christian (MO),Saints,0,0,0,0,0,0,https://s3-us-west-2.amazonaws.com/static.fantasydata.com/logos/ncaa/0.png,CCMO,171
+824,CECHT,FALSE,Central Christian College,Tigers,0,0,0,0,0,0,https://s3-us-west-2.amazonaws.com/static.fantasydata.com/logos/ncaa/0.png,CECH,394
+232,CENCON,TRUE,Central Connecticut State,Blue Devils,0,5,16,3,4,Northeast,https://s3-us-west-2.amazonaws.com/static.fantasydata.com/logos/ncaa/232.png,CENCON,369
+1119,CEMET,TRUE,Central Methodist,Eagles,0,0,0,0,0,0,https://s3-us-west-2.amazonaws.com/static.fantasydata.com/logos/ncaa/0.png,CEMET,308
+185,CMICH,TRUE,Central Michigan,Chippewas,0,7,12,2,4,Mid-American,https://s3-us-west-2.amazonaws.com/static.fantasydata.com/logos/ncaa/185.png,CMICH,281
+803,COKLB,TRUE,Central Oklahoma,Bronchos,0,0,0,0,0,0,https://s3-us-west-2.amazonaws.com/static.fantasydata.com/logos/ncaa/0.png,COKL,47
+511,CPENN,TRUE,Central Pennsylvania College,Knights,0,0,0,0,0,0,https://s3-us-west-2.amazonaws.com/static.fantasydata.com/logos/ncaa/0.png,CPENN,76
+444,CENST,TRUE,Central State,Marauders,0,0,0,0,0,0,https://s3-us-west-2.amazonaws.com/static.fantasydata.com/logos/ncaa/0.png,CENST,343
+489,CWA,TRUE,Central Washington,Wildcats,0,0,0,0,0,0,https://s3-us-west-2.amazonaws.com/static.fantasydata.com/logos/ncaa/0.png,CWA,86
+1182,CENTR,TRUE,Centre College,Colonels,0,0,0,0,0,0,https://s3-us-west-2.amazonaws.com/static.fantasydata.com/logos/ncaa/0.png,CENTR,458
+825,CHDE,TRUE,Chadron State,Eagles,0,0,0,0,0,0,https://s3-us-west-2.amazonaws.com/static.fantasydata.com/logos/ncaa/825.png,CHD,7
+353,CHAM,TRUE,Chaminade,Silverswords,0,0,0,0,0,0,https://s3-us-west-2.amazonaws.com/static.fantasydata.com/logos/ncaa/0.png,CHAM,287
+400,CCT,TRUE,Champion Christian College,Tigers,0,0,0,0,0,0,https://s3-us-west-2.amazonaws.com/static.fantasydata.com/logos/ncaa/0.png,CCT,460
+1217,CHPM,TRUE,Chapman,Panthers,0,0,0,0,0,0,https://s3-us-west-2.amazonaws.com/static.fantasydata.com/logos/ncaa/0.png,CHPM,350
+129,CHAR,TRUE,Charleston,Cougars,18,21,1,9,0,Colonial Athletic,https://s3-us-west-2.amazonaws.com/static.fantasydata.com/logos/ncaa/129.png,CHAR,74
+88,CHSOU,TRUE,Charleston Southern,Buccaneers,0,7,12,3,5,Big South,https://s3-us-west-2.amazonaws.com/static.fantasydata.com/logos/ncaa/88.png,CHSOU,327
+142,CHARLT,TRUE,Charlotte,49ers,0,13,7,4,5,Conference USA,https://s3-us-west-2.amazonaws.com/static.fantasydata.com/logos/ncaa/142.png,CHARLT,367
+281,CHAT,TRUE,Chattanooga,Mocs,0,11,10,3,5,Southern,https://s3-us-west-2.amazonaws.com/static.fantasydata.com/logos/ncaa/281.png,CHAT,555
+691,Ches,TRUE,Chestnut Hill,Griffins,0,0,0,0,0,0,https://s3-us-west-2.amazonaws.com/static.fantasydata.com/logos/ncaa/0.png,Ches,297
+909,CHIM,FALSE,Chicago,Maroons,0,0,0,0,0,0,https://s3-us-west-2.amazonaws.com/static.fantasydata.com/logos/ncaa/0.png,CHIM,442
+351,CHIST,TRUE,Chicago State,Cougars,0,4,16,0,0,Independents,https://s3-us-west-2.amazonaws.com/static.fantasydata.com/logos/ncaa/351.png,CHIST,143
+971,CHOW,TRUE,Chowan,Hawks,0,0,0,0,0,0,https://s3-us-west-2.amazonaws.com/static.fantasydata.com/logos/ncaa/0.png,CHOW,55
+450,CHRIS,TRUE,Christendom College,Crusaders,0,0,0,0,0,0,https://s3-us-west-2.amazonaws.com/static.fantasydata.com/logos/ncaa/0.png,CHRIS,396
+4,CIN,TRUE,Cincinnati,Bearcats,0,14,7,5,3,American Athletic,https://s3-us-west-2.amazonaws.com/static.fantasydata.com/logos/ncaa/4.png,CIN,453
+831,CNCUE,FALSE,Cincinnati Christian,Eagles,0,0,0,0,0,0,https://s3-us-west-2.amazonaws.com/static.fantasydata.com/logos/ncaa/0.png,CNCU,274
+890,Cinc,TRUE,Cincinnati Clermont,Cougars,0,0,0,0,0,0,https://s3-us-west-2.amazonaws.com/static.fantasydata.com/logos/ncaa/0.png,Cinc,182
+288,CITA,TRUE,Citadel,Bulldogs,0,8,12,3,5,Southern,https://s3-us-west-2.amazonaws.com/static.fantasydata.com/logos/ncaa/288.png,CITA,54
+609,CCNY,TRUE,City College of New York,Beavers,0,0,0,0,0,0,https://s3-us-west-2.amazonaws.com/static.fantasydata.com/logos/ncaa/0.png,CCNY,1
+1020,CUP,FALSE,Clafin,Panthers,0,0,0,0,0,0,https://s3-us-west-2.amazonaws.com/static.fantasydata.com/logos/ncaa/0.png,CUP,84
+1114,CMS,FALSE,Claremont-Mudd-Scripps,Stags,0,0,0,0,0,0,https://s3-us-west-2.amazonaws.com/static.fantasydata.com/logos/ncaa/0.png,CMS,187
+668,CLAR,TRUE,Clarion,Golden Eagles,0,0,0,0,0,0,https://s3-us-west-2.amazonaws.com/static.fantasydata.com/logos/ncaa/0.png,CLAR,216
+999,CLRK,TRUE,Clark,Cougars,0,0,0,0,0,0,https://s3-us-west-2.amazonaws.com/static.fantasydata.com/logos/ncaa/0.png,CLRK,290
+954,SUMMIT,TRUE,Clarks Summit,Defenders,0,0,0,0,0,0,https://s3-us-west-2.amazonaws.com/static.fantasydata.com/logos/ncaa/0.png,SUMMIT,521
+1210,CLAY,TRUE,Clayton State,Lakers,0,0,0,0,0,0,https://s3-us-west-2.amazonaws.com/static.fantasydata.com/logos/ncaa/0.png,CLAY,221
+27,CLMSN,TRUE,Clemson,Tigers,19,16,4,8,1,Atlantic Coast,https://s3-us-west-2.amazonaws.com/static.fantasydata.com/logos/ncaa/27.png,CLEM,172
+156,CLVST,TRUE,Cleveland State,Vikings,0,12,9,7,3,Horizon League,https://s3-us-west-2.amazonaws.com/static.fantasydata.com/logos/ncaa/156.png,CLVST,206
+1143,CLINT,TRUE,Clinton,Golden Bears,0,0,0,0,0,0,https://s3-us-west-2.amazonaws.com/static.fantasydata.com/logos/ncaa/0.png,CLINT,557
+1268,CSTGD,TRUE,Coast Guard,Bears,0,0,0,0,0,0,https://s3-us-west-2.amazonaws.com/static.fantasydata.com/logos/ncaa/0.png,CSTGD,257
+81,COAST,TRUE,Coastal Carolina,Chanticleers,0,10,9,4,4,Sun Belt,https://s3-us-west-2.amazonaws.com/static.fantasydata.com/logos/ncaa/81.png,COAST,70
+493,COE,TRUE,Coe,Kohawks,0,0,0,0,0,0,https://s3-us-west-2.amazonaws.com/static.fantasydata.com/logos/ncaa/0.png,COE,385
+749,COKER,TRUE,Coker,Cobras,0,0,0,0,0,0,https://s3-us-west-2.amazonaws.com/static.fantasydata.com/logos/ncaa/0.png,COKER,244
+1235,COLS,TRUE,Colby-Sawyer College,Chargers,0,0,0,0,0,0,https://s3-us-west-2.amazonaws.com/static.fantasydata.com/logos/ncaa/0.png,COLS,63
+261,COLG,TRUE,Colgate,Raiders,0,14,7,8,0,Patriot League,https://s3-us-west-2.amazonaws.com/static.fantasydata.com/logos/ncaa/261.png,COLGATE,371
+1051,CCGA,TRUE,College of Coastal Georgia,Mariners,0,0,0,0,0,0,https://s3-us-west-2.amazonaws.com/static.fantasydata.com/logos/ncaa/0.png,CCGA,531
+422,CIDAH,TRUE,College of Idaho,Coyotes,0,0,0,0,0,0,https://s3-us-west-2.amazonaws.com/static.fantasydata.com/logos/ncaa/0.png,CIDAH,559
+466,ROCHEL,TRUE,College of New Rochelle,Blue Angels,0,0,0,0,0,0,https://s3-us-west-2.amazonaws.com/static.fantasydata.com/logos/ncaa/0.png,ROCHEL,38
+769,Coll,TRUE,College of Saint Elizabeth,Eagles,0,0,0,0,0,0,https://s3-us-west-2.amazonaws.com/static.fantasydata.com/logos/ncaa/0.png,Coll,153
+1186,SMSD,FALSE,College St. Mary,Flames,0,0,0,0,0,0,https://s3-us-west-2.amazonaws.com/static.fantasydata.com/logos/ncaa/0.png,SMSD,409
+250,COL,TRUE,Colorado,Buffaloes,0,12,9,4,6,Pac-12,https://s3-us-west-2.amazonaws.com/static.fantasydata.com/logos/ncaa/250.png,COL,210
+644,COLCHR,TRUE,Colorado Christian,Cougars,0,0,0,0,0,0,https://s3-us-west-2.amazonaws.com/static.fantasydata.com/logos/ncaa/0.png,COLCHR,128
+662,COCOL,TRUE,Colorado College,Tigers,0,0,0,0,0,0,https://s3-us-west-2.amazonaws.com/static.fantasydata.com/logos/ncaa/0.png,COCOL,36
+1079,CSM,TRUE,Colorado School of Mines,Orediggers,0,0,0,0,0,0,https://s3-us-west-2.amazonaws.com/static.fantasydata.com/logos/ncaa/0.png,CSM,470
+217,COLST,TRUE,Colorado State,Rams,0,10,11,2,6,Mountain West,https://s3-us-west-2.amazonaws.com/static.fantasydata.com/logos/ncaa/217.png,COLST,468
+1081,CSUP,TRUE,Colorado State-Pueblo,ThunderWolves,0,0,0,0,0,0,https://s3-us-west-2.amazonaws.com/static.fantasydata.com/logos/ncaa/0.png,CSUP,230
+1011,UCCS,FALSE,Colorado-Colorado Springs,Mountain Lions,0,0,0,0,0,0,https://s3-us-west-2.amazonaws.com/static.fantasydata.com/logos/ncaa/0.png,UCCS,267
+159,COLMB,TRUE,Columbia,Lions,0,6,15,1,5,Ivy League,https://s3-us-west-2.amazonaws.com/static.fantasydata.com/logos/ncaa/159.png,COL,238
+1085,CCMC,TRUE,Columbia College,Cougars,0,0,0,0,0,0,https://s3-us-west-2.amazonaws.com/static.fantasydata.com/logos/ncaa/0.png,CCMC,39
+865,CCSC,FALSE,Columbia College (SC),Koalas,0,0,0,0,0,0,https://s3-us-west-2.amazonaws.com/static.fantasydata.com/logos/ncaa/0.png,CCSC,505
+632,KENN,TRUE,Columbia International,Rams,0,0,0,0,0,0,https://s3-us-west-2.amazonaws.com/static.fantasydata.com/logos/ncaa/0.png,KENN,560
+1044,CSC,TRUE,Columbus State,Cougars,0,0,0,0,0,0,https://s3-us-west-2.amazonaws.com/static.fantasydata.com/logos/ncaa/0.png,CSC,236
+930,CONCC,TRUE,Concord College,Mountain Lions,0,0,0,0,0,0,https://s3-us-west-2.amazonaws.com/static.fantasydata.com/logos/ncaa/0.png,CONCC,423
+607,CONCMI,TRUE,Concordia (MI),Cardinals,0,0,0,0,0,0,https://s3-us-west-2.amazonaws.com/static.fantasydata.com/logos/ncaa/0.png,CONCMI,237
+728,CONCNE,TRUE,Concordia (NE),Bulldogs,0,0,0,0,0,0,https://s3-us-west-2.amazonaws.com/static.fantasydata.com/logos/ncaa/0.png,CONCNE,429
+448,CONCAU,TRUE,Concordia (TX),Tornados,0,0,0,0,0,0,https://s3-us-west-2.amazonaws.com/static.fantasydata.com/logos/ncaa/0.png,CONCAU,56
+896,Conc,FALSE,Concordia University (WI),Falcons,0,0,0,0,0,0,https://s3-us-west-2.amazonaws.com/static.fantasydata.com/logos/ncaa/0.png,Conc,161
+629,CONCIL,TRUE,Concordia-Chicago,Cougars,0,0,0,0,0,0,https://s3-us-west-2.amazonaws.com/static.fantasydata.com/logos/ncaa/0.png,CONCIL,303
+1006,CUI,TRUE,Concordia-Irvine,Eagles,0,0,0,0,0,0,https://s3-us-west-2.amazonaws.com/static.fantasydata.com/logos/ncaa/0.png,CUI,348
+1103,CONCMN,TRUE,Concordia-Moorhead,Cobbers,0,0,0,0,0,0,https://s3-us-west-2.amazonaws.com/static.fantasydata.com/logos/ncaa/0.png,CONCMN,405
+3,UCONN,TRUE,Connecticut,Huskies,15,16,5,5,5,Big East,https://s3-us-west-2.amazonaws.com/static.fantasydata.com/logos/ncaa/3.png,UCONN,443
+812,CTCOLLC,TRUE,Connecticut College,Camels,0,0,0,0,0,0,https://s3-us-west-2.amazonaws.com/static.fantasydata.com/logos/ncaa/0.png,CTCOLL,167
+873,CONV,TRUE,Converse College,Valkyries,0,0,0,0,0,0,https://s3-us-west-2.amazonaws.com/static.fantasydata.com/logos/ncaa/0.png,CONV,258
+200,COPPST,TRUE,Coppin State,Eagles,0,6,15,1,3,Mid-Eastern,https://s3-us-west-2.amazonaws.com/static.fantasydata.com/logos/ncaa/200.png,COPPST,273
+780,CRBN,TRUE,Corban,Warriors,0,0,0,0,0,0,https://s3-us-west-2.amazonaws.com/static.fantasydata.com/logos/ncaa/0.png,CRBN,108
+162,CORNEL,TRUE,Cornell,Big Red,0,14,5,4,2,Ivy League,https://s3-us-west-2.amazonaws.com/static.fantasydata.com/logos/ncaa/162.png,CORNEL,540
+927,CORN,TRUE,Cornell College,Rams,0,0,0,0,0,0,https://s3-us-west-2.amazonaws.com/static.fantasydata.com/logos/ncaa/0.png,CORN,132
+1084,COR,TRUE,Cornerstone,Golden Eagles,0,0,0,0,0,0,https://s3-us-west-2.amazonaws.com/static.fantasydata.com/logos/ncaa/0.png,COR,200
+476,COVENA,TRUE,Covenant,Scots,0,0,0,0,0,0,https://s3-us-west-2.amazonaws.com/static.fantasydata.com/logos/ncaa/0.png,COVENA,375
+61,CREIGH,TRUE,Creighton,Bluejays,0,11,8,5,3,Big East,https://s3-us-west-2.amazonaws.com/static.fantasydata.com/logos/ncaa/61.png,CREIGH,525
+860,CRF,FALSE,Crowleys Ridge,Falcons,0,0,0,0,0,0,https://s3-us-west-2.amazonaws.com/static.fantasydata.com/logos/ncaa/0.png,CROW,269
+1017,CRC,TRUE,Crowley's Ridge College,Pioneers,0,0,0,0,0,0,https://s3-us-west-2.amazonaws.com/static.fantasydata.com/logos/ncaa/0.png,CRC,246
+910,CROWN,TRUE,Crown College,Polars,0,0,0,0,0,0,https://s3-us-west-2.amazonaws.com/static.fantasydata.com/logos/ncaa/0.png,CROWN,497
+828,CSSBC,TRUE,CSU San Bernardino,Coyotes,0,0,0,0,0,0,https://s3-us-west-2.amazonaws.com/static.fantasydata.com/logos/ncaa/0.png,CSSB,148
+121,CSUNR,TRUE,CSUN,Matadors,0,4,16,1,8,Big West,https://s3-us-west-2.amazonaws.com/static.fantasydata.com/logos/ncaa/121.png,CSUNR,461
+834,CULV,TRUE,Culver-Stockton,Wildcats,0,0,0,0,0,0,https://s3-us-west-2.amazonaws.com/static.fantasydata.com/logos/ncaa/0.png,CUL,339
+634,CUMBER,TRUE,Cumberland,Phoenix,0,0,0,0,0,0,https://s3-us-west-2.amazonaws.com/static.fantasydata.com/logos/ncaa/0.png,CUMBER,533
+974,CCI,FALSE,Cumberland College,Indians,0,0,0,0,0,0,https://s3-us-west-2.amazonaws.com/static.fantasydata.com/logos/ncaa/0.png,CCI,151
+888,CURR,FALSE,Curry College,Colonels,0,0,0,0,0,0,https://s3-us-west-2.amazonaws.com/static.fantasydata.com/logos/ncaa/0.png,CURRY,263
+1286,DAKST,TRUE,Dakota State,Trojans,0,0,0,0,0,0,https://s3-us-west-2.amazonaws.com/static.fantasydata.com/logos/ncaa/0.png,DAKST,251
+842,DAKU,FALSE,Dakota Wesleyan Univeristy,Tigers,0,0,0,0,0,0,https://s3-us-west-2.amazonaws.com/static.fantasydata.com/logos/ncaa/0.png,DAK,295
+1002,DBU,FALSE,Dallas Baptist,Patriots,0,0,0,0,0,0,https://s3-us-west-2.amazonaws.com/static.fantasydata.com/logos/ncaa/0.png,DBU,78
+752,DALCHR,TRUE,Dallas Christian,Crusaders,0,0,0,0,0,0,https://s3-us-west-2.amazonaws.com/static.fantasydata.com/logos/ncaa/0.png,DALCHR,509
+1083,DSR,TRUE,Dalton State,Roadrunners,0,0,0,0,0,0,https://s3-us-west-2.amazonaws.com/static.fantasydata.com/logos/ncaa/0.png,DSR,6
+165,DART,TRUE,Dartmouth,Big Green,0,7,13,3,3,Ivy League,https://s3-us-west-2.amazonaws.com/static.fantasydata.com/logos/ncaa/165.png,DART,114
+902,Daven,FALSE,Davenport University,Panthers,0,0,0,0,0,0,https://s3-us-west-2.amazonaws.com/static.fantasydata.com/logos/ncaa/0.png,Daven,10
+49,DAVID,TRUE,Davidson,Wildcats,0,9,10,2,5,Atlantic 10,https://s3-us-west-2.amazonaws.com/static.fantasydata.com/logos/ncaa/49.png,DAVID,234
+613,DAVELK,TRUE,Davis & Elkins,Senators,0,0,0,0,0,0,https://s3-us-west-2.amazonaws.com/static.fantasydata.com/logos/ncaa/0.png,DAVELK,422
+44,DAY,TRUE,Dayton,Flyers,0,13,7,5,2,Atlantic 10,https://s3-us-west-2.amazonaws.com/static.fantasydata.com/logos/ncaa/44.png,DAYTON,355
+1023,DEA,TRUE,Dean College,Bulldogs,0,0,0,0,0,0,https://s3-us-west-2.amazonaws.com/static.fantasydata.com/logos/ncaa/0.png,DEA,502
+720,DEF,TRUE,Defiance,Yellow Jackets,0,0,0,0,0,0,https://s3-us-west-2.amazonaws.com/static.fantasydata.com/logos/ncaa/0.png,DEF,22
+133,DEL,TRUE,Delaware,Fightin' Blue Hens,0,11,10,3,5,Colonial Athletic,https://s3-us-west-2.amazonaws.com/static.fantasydata.com/logos/ncaa/133.png,DEL,4
+201,DELST,TRUE,Delaware State,Hornets,0,1,16,0,4,Mid-Eastern,https://s3-us-west-2.amazonaws.com/static.fantasydata.com/logos/ncaa/201.png,DELST,241
+901,Delta,FALSE,Delta State,Statesmen,0,0,0,0,0,0,https://s3-us-west-2.amazonaws.com/static.fantasydata.com/logos/ncaa/0.png,Delta,102
+319,DEN,TRUE,Denver,Pioneers,0,12,10,3,6,Summit,https://s3-us-west-2.amazonaws.com/static.fantasydata.com/logos/ncaa/319.png,DEN,333
+66,DEPAUL,TRUE,DePaul,Blue Demons,0,9,11,3,6,Big East,https://s3-us-west-2.amazonaws.com/static.fantasydata.com/logos/ncaa/66.png,DEPAUL,71
+1127,DEPAUW,TRUE,DePauw,Tigers,0,0,0,0,0,0,https://s3-us-west-2.amazonaws.com/static.fantasydata.com/logos/ncaa/0.png,DEPAUW,524
+656,DES,TRUE,DeSales,Bulldogs,0,0,0,0,0,0,https://s3-us-west-2.amazonaws.com/static.fantasydata.com/logos/ncaa/0.png,DES,495
+153,DET,TRUE,Detroit,Titans,0,8,12,4,5,Horizon League,https://s3-us-west-2.amazonaws.com/static.fantasydata.com/logos/ncaa/153.png,DET,89
+760,DCKSNS,TRUE,Dickinson State,Blue Hawks,0,0,0,0,0,0,https://s3-us-west-2.amazonaws.com/static.fantasydata.com/logos/ncaa/0.png,DCKSNS,539
+1121,DILD,TRUE,Dillard,Blue Devils,0,0,0,0,0,0,https://s3-us-west-2.amazonaws.com/static.fantasydata.com/logos/ncaa/0.png,DILD,227
+1151,UDC,TRUE,District of Columbia,Firebirds,0,0,0,0,0,0,https://s3-us-west-2.amazonaws.com/static.fantasydata.com/logos/ncaa/0.png,UDC,448
+970,DOANE,TRUE,Doane,Doane,0,0,0,0,0,0,https://s3-us-west-2.amazonaws.com/static.fantasydata.com/logos/ncaa/0.png,DOANE,519
+1004,DOCP,FALSE,Dominican (CA),Penguins,0,0,0,0,0,0,https://s3-us-west-2.amazonaws.com/static.fantasydata.com/logos/ncaa/0.png,DOCP,97
+708,DU,TRUE,Dominican (IL),Stars,0,0,0,0,0,0,https://s3-us-west-2.amazonaws.com/static.fantasydata.com/logos/ncaa/0.png,DU,283
+211,DRAKE,TRUE,Drake,Bulldogs,0,15,6,6,4,Missouri Valley,https://s3-us-west-2.amazonaws.com/static.fantasydata.com/logos/ncaa/211.png,DRAKE,302
+132,DREXEL,TRUE,Drexel,Dragons,0,12,8,6,2,Colonial Athletic,https://s3-us-west-2.amazonaws.com/static.fantasydata.com/logos/ncaa/132.png,DREXEL,410
+445,DUB,TRUE,Dubuque,Spartans,0,0,0,0,0,0,https://s3-us-west-2.amazonaws.com/static.fantasydata.com/logos/ncaa/0.png,DUB,480
+26,DUKE,TRUE,Duke,Blue Devils,0,14,5,5,3,Atlantic Coast,https://s3-us-west-2.amazonaws.com/static.fantasydata.com/logos/ncaa/26.png,DUKE,249
+51,DUQ,TRUE,Duquesne,Dukes,0,13,7,3,4,Atlantic 10,https://s3-us-west-2.amazonaws.com/static.fantasydata.com/logos/ncaa/51.png,DUQ,354
+1244,DYOU,TRUE,D'Youville,Saints,0,0,0,0,0,0,https://s3-us-west-2.amazonaws.com/static.fantasydata.com/logos/ncaa/0.png,DYOU,61
+648,EARL,TRUE,Earlham,Quakers,0,0,0,0,0,0,https://s3-us-west-2.amazonaws.com/static.fantasydata.com/logos/ncaa/0.png,EARL,112
+9,ECAR,TRUE,East Carolina,Pirates,0,10,10,1,6,American Athletic,https://s3-us-west-2.amazonaws.com/static.fantasydata.com/logos/ncaa/9.png,ECU,275
+938,ECT,TRUE,East Central,Tigers,0,0,0,0,0,0,https://s3-us-west-2.amazonaws.com/static.fantasydata.com/logos/ncaa/0.png,ECT,421
+282,ETNST,TRUE,East Tennessee State,Buccaneers,0,8,13,4,4,Southern,https://s3-us-west-2.amazonaws.com/static.fantasydata.com/logos/ncaa/282.png,ETNST,310
+621,ETXBAP,TRUE,East Texas Baptist,Tigers,0,0,0,0,0,0,https://s3-us-west-2.amazonaws.com/static.fantasydata.com/logos/ncaa/0.png,ETXBAP,413
+948,EASTERN,TRUE,Eastern,Eagles,0,0,0,0,0,0,https://s3-us-west-2.amazonaws.com/static.fantasydata.com/logos/ncaa/0.png,EASTERN,118
+239,EILL,TRUE,Eastern Illinois,Panthers,0,7,14,3,5,Ohio Valley,https://s3-us-west-2.amazonaws.com/static.fantasydata.com/logos/ncaa/239.png,EILL,5
+237,EKENT,TRUE,Eastern Kentucky,Colonels,0,13,8,6,2,Atlantic Sun,https://s3-us-west-2.amazonaws.com/static.fantasydata.com/logos/ncaa/237.png,EKENT,152
+611,EMENNO,TRUE,Eastern Mennonite,Royals,0,0,0,0,0,0,https://s3-us-west-2.amazonaws.com/static.fantasydata.com/logos/ncaa/0.png,EMENNO,139
+187,EMICH,TRUE,Eastern Michigan,Eagles,0,4,15,1,5,Mid-American,https://s3-us-west-2.amazonaws.com/static.fantasydata.com/logos/ncaa/187.png,EMICH,419
+846,ENAZ,TRUE,Eastern Nazarene,Lions,0,0,0,0,0,0,https://s3-us-west-2.amazonaws.com/static.fantasydata.com/logos/ncaa/0.png,ENAZ,389
+723,ENM,TRUE,Eastern New Mexico,Greyhounds,0,0,0,0,0,0,https://s3-us-west-2.amazonaws.com/static.fantasydata.com/logos/ncaa/723.png,ENM,382
+744,EOR,TRUE,Eastern Oregon,Mountaineers,0,0,0,0,0,0,https://s3-us-west-2.amazonaws.com/static.fantasydata.com/logos/ncaa/0.png,EOR,565
+70,EWASH,TRUE,Eastern Washington,Eagles,0,14,7,8,0,Big Sky,https://s3-us-west-2.amazonaws.com/static.fantasydata.com/logos/ncaa/70.png,EWU,441
+408,EWUN,TRUE,East-West,Phantoms,0,0,0,0,0,0,https://s3-us-west-2.amazonaws.com/static.fantasydata.com/logos/ncaa/0.png,EWU,346
+722,ECC,TRUE,Ecclesia,Royals,0,0,0,0,0,0,https://s3-us-west-2.amazonaws.com/static.fantasydata.com/logos/ncaa/0.png,ECC,45
+1013,ECKC,TRUE,Eckerd College,Tritons,0,0,0,0,0,0,https://s3-us-west-2.amazonaws.com/static.fantasydata.com/logos/ncaa/0.png,ECKC,493
+913,EDIN,TRUE,Edinboro,Fighting Scots,0,0,0,0,0,0,https://s3-us-west-2.amazonaws.com/static.fantasydata.com/logos/ncaa/0.png,EDIN,532
+897,Edmond,FALSE,Edmond (OK) Christ,0,0,0,0,0,0,0,https://s3-us-west-2.amazonaws.com/static.fantasydata.com/logos/ncaa/0.png,Edmond,479
+940,ED,FALSE,Edmonds,Tritons,0,0,0,0,0,0,https://s3-us-west-2.amazonaws.com/static.fantasydata.com/logos/ncaa/0.png,ED,438
+703,EWATER,TRUE,Edward Waters,Tigers,0,0,0,0,0,0,https://s3-us-west-2.amazonaws.com/static.fantasydata.com/logos/ncaa/0.png,EWATER,13
+1294,ECSU,FALSE,Elizabeth City State,Vikings,0,0,0,0,0,0,https://s3-us-west-2.amazonaws.com/static.fantasydata.com/logos/ncaa/0.png,ECSU,294
+1149,ELIZ,TRUE,Elizabethtown,Blue Jays,0,0,0,0,0,0,https://s3-us-west-2.amazonaws.com/static.fantasydata.com/logos/ncaa/0.png,ELIZ,381
+762,ELMIRA,TRUE,Elmira,Soaring Eagles,0,0,0,0,0,0,https://s3-us-west-2.amazonaws.com/static.fantasydata.com/logos/ncaa/0.png,ELMIRA,508
+690,Elms,TRUE,Elms College,Blazers,0,0,0,0,0,0,https://s3-us-west-2.amazonaws.com/static.fantasydata.com/logos/ncaa/0.png,Elms,231
+130,ELON,TRUE,Elon,Phoenix,0,2,18,0,7,Colonial Athletic,https://s3-us-west-2.amazonaws.com/static.fantasydata.com/logos/ncaa/130.png,ELON,224
+1133,EMBRID,TRUE,Embry Riddle,Eagles,0,0,0,0,0,0,https://s3-us-west-2.amazonaws.com/static.fantasydata.com/logos/ncaa/0.png,EMBRID,204
+669,Emer,TRUE,Emerson,Lions,0,0,0,0,0,0,https://s3-us-west-2.amazonaws.com/static.fantasydata.com/logos/ncaa/0.png,Emer,490
+1043,EMM,TRUE,Emmanuel,Lions,0,0,0,0,0,0,https://s3-us-west-2.amazonaws.com/static.fantasydata.com/logos/ncaa/0.png,EMM,240
+795,EMHEN,TRUE,Emory & Henry,Wasps,0,0,0,0,0,0,https://s3-us-west-2.amazonaws.com/static.fantasydata.com/logos/ncaa/0.png,EMHEN,212
+352,EMPST,TRUE,Emporia St.,Hornets,0,0,0,0,0,0,https://s3-us-west-2.amazonaws.com/static.fantasydata.com/logos/ncaa/0.png,EMPST,14
+820,ERSFF,TRUE,Erskine,Flying Fleet,0,0,0,0,0,0,https://s3-us-west-2.amazonaws.com/static.fantasydata.com/logos/ncaa/0.png,ERS,414
+939,EUREKA,TRUE,Eureka,Red Devils,0,0,0,0,0,0,https://s3-us-west-2.amazonaws.com/static.fantasydata.com/logos/ncaa/0.png,EUREKA,219
+1045,EVA,TRUE,Evangel ,Crusaders,0,0,0,0,0,0,https://s3-us-west-2.amazonaws.com/static.fantasydata.com/logos/ncaa/0.png,EVA,72
+203,EVANS,TRUE,Evansville,Aces,0,4,17,0,10,Missouri Valley,https://s3-us-west-2.amazonaws.com/static.fantasydata.com/logos/ncaa/203.png,EVANS,558
+905,EVER,TRUE,Evergreen State,Geoducks,0,0,0,0,0,0,https://s3-us-west-2.amazonaws.com/static.fantasydata.com/logos/ncaa/0.png,EVER,79
+170,FAIR,TRUE,Fairfield,Stags,0,9,10,5,4,Metro Atlantic Athletic,https://s3-us-west-2.amazonaws.com/static.fantasydata.com/logos/ncaa/170.png,FAIR,140
+224,FAIRDK,TRUE,Fairleigh Dickinson,Knights,0,12,10,5,2,Northeast,https://s3-us-west-2.amazonaws.com/static.fantasydata.com/logos/ncaa/224.png,FDU,528
+1073,FDF,FALSE,Fairleigh Dickinson Florham,Devils,0,0,0,0,0,0,https://s3-us-west-2.amazonaws.com/static.fantasydata.com/logos/ncaa/0.png,FDF,553
+921,FAIRS,TRUE,Fairmont State,Falcons,0,0,0,0,0,0,https://s3-us-west-2.amazonaws.com/static.fantasydata.com/logos/ncaa/921.png,FAIRS,9
+785,FARM,TRUE,Farmingdale State,Rams,0,0,0,0,0,0,https://s3-us-west-2.amazonaws.com/static.fantasydata.com/logos/ncaa/0.png,FARM,57
+1199,FAULK,FALSE,Faulkner,Eagles,0,0,0,0,0,0,https://s3-us-west-2.amazonaws.com/static.fantasydata.com/logos/ncaa/0.png,FAULK,291
+745,FAY,TRUE,Fayetteville State,Broncos,0,0,0,0,0,0,https://s3-us-west-2.amazonaws.com/static.fantasydata.com/logos/ncaa/0.png,FAY,399
+854,FDMU,FALSE,FDU Madison,Devils,0,0,0,0,0,0,https://s3-us-west-2.amazonaws.com/static.fantasydata.com/logos/ncaa/0.png,FAA,91
+892,FUDF,TRUE,FDU-Florham,Devils,0,0,0,0,0,0,https://s3-us-west-2.amazonaws.com/static.fantasydata.com/logos/ncaa/0.png,FUDF,129
+998,FSB,FALSE,Ferris State,Bulldogs,0,0,0,0,0,0,https://s3-us-west-2.amazonaws.com/static.fantasydata.com/logos/ncaa/0.png,FSU,162
+619,FERRUM,TRUE,Ferrum,Panthers,0,0,0,0,0,0,https://s3-us-west-2.amazonaws.com/static.fantasydata.com/logos/ncaa/0.png,FERRUM,3
+516,FIND,TRUE,Findlay,Oilers,0,0,0,0,0,0,https://s3-us-west-2.amazonaws.com/static.fantasydata.com/logos/ncaa/0.png,FIND,255
+855,FISF,TRUE,Fisher College,Falcons,0,0,0,0,0,0,https://s3-us-west-2.amazonaws.com/static.fantasydata.com/logos/ncaa/0.png,FIS,488
+474,FISK,TRUE,Fisk,Bulldogs,0,0,0,0,0,0,https://s3-us-west-2.amazonaws.com/static.fantasydata.com/logos/ncaa/0.png,FISK,337
+140,FLINT,TRUE,FIU,Golden Panthers,0,9,11,3,6,Conference USA,https://s3-us-west-2.amazonaws.com/static.fantasydata.com/logos/ncaa/140.png,FIU,364
+886,FLAG,TRUE,Flagler,Saints,0,0,0,0,0,0,https://s3-us-west-2.amazonaws.com/static.fantasydata.com/logos/ncaa/0.png,FLAG,94
+271,FL,TRUE,Florida,Gators,0,11,8,4,3,Southeastern,https://s3-us-west-2.amazonaws.com/static.fantasydata.com/logos/ncaa/271.png,UFL,166
+198,FLAM,TRUE,Florida A&M,Rattlers,0,3,14,1,5,Southwestern Athletic,https://s3-us-west-2.amazonaws.com/static.fantasydata.com/logos/ncaa/198.png,FLAM,397
+145,FLATL,TRUE,Florida Atlantic,Owls,24,19,1,9,0,Conference USA,https://s3-us-west-2.amazonaws.com/static.fantasydata.com/logos/ncaa/145.png,FAU,209
+459,FLCOL,TRUE,Florida College,Falcons,0,0,0,0,0,0,https://s3-us-west-2.amazonaws.com/static.fantasydata.com/logos/ncaa/0.png,FLCOL,564
+38,FLGC,TRUE,Florida Gulf Coast,Eagles,0,14,7,4,4,Atlantic Sun,https://s3-us-west-2.amazonaws.com/static.fantasydata.com/logos/ncaa/38.png,FLGC,75
+469,FLMEM,TRUE,Florida Memorial,Lions,0,0,0,0,0,0,https://s3-us-west-2.amazonaws.com/static.fantasydata.com/logos/ncaa/0.png,FLMEM,292
+757,Flor,TRUE,Florida National,Conquistadors,0,0,0,0,0,0,https://s3-us-west-2.amazonaws.com/static.fantasydata.com/logos/ncaa/0.png,Flor,542
+29,FLST,TRUE,Florida State,Seminoles,0,7,13,5,4,Atlantic Coast,https://s3-us-west-2.amazonaws.com/static.fantasydata.com/logos/ncaa/29.png,FSU,549
+638,FLTECH,TRUE,Florida Tech,Panthers,0,0,0,0,0,0,https://s3-us-west-2.amazonaws.com/static.fantasydata.com/logos/ncaa/0.png,FLTECH,379
+423,FONT,TRUE,Fontbonne,Griffins,0,0,0,0,0,0,https://s3-us-west-2.amazonaws.com/static.fantasydata.com/logos/ncaa/0.png,FONT,507
+53,FORDM,TRUE,Fordham,Rams,0,15,4,3,3,Atlantic 10,https://s3-us-west-2.amazonaws.com/static.fantasydata.com/logos/ncaa/53.png,FORDHAM,272
+1080,FHSU,TRUE,Fort Hays State,Tigers,0,0,0,0,0,0,https://s3-us-west-2.amazonaws.com/static.fantasydata.com/logos/ncaa/0.png,FHSU,150
+1060,FTLAUD,TRUE,Fort Lauderdale,Eagles,0,0,0,0,0,0,https://s3-us-west-2.amazonaws.com/static.fantasydata.com/logos/ncaa/0.png,FTLAUD,46
+433,FVST,TRUE,Fort Valley State,Wildcats,0,0,0,0,0,0,https://s3-us-west-2.amazonaws.com/static.fantasydata.com/logos/ncaa/0.png,FVST,372
+1266,FRMHM,TRUE,Framingham State,Rams,0,0,0,0,0,0,https://s3-us-west-2.amazonaws.com/static.fantasydata.com/logos/ncaa/0.png,FRMHM,341
+355,FRMN,FALSE,Francis Marion,Patriots,0,0,0,0,0,0,https://s3-us-west-2.amazonaws.com/static.fantasydata.com/logos/ncaa/0.png,FRMN,62
+502,FRANU,TRUE,Franciscan,Barons,0,0,0,0,0,0,https://s3-us-west-2.amazonaws.com/static.fantasydata.com/logos/ncaa/0.png,FRANU,155
+1166,FRANK,TRUE,Franklin,Grizzlies,0,0,0,0,0,0,https://s3-us-west-2.amazonaws.com/static.fantasydata.com/logos/ncaa/0.png,FRANK,386
+1113,FRED,TRUE,Fredonia State,Blue Devils,0,0,0,0,0,0,https://s3-us-west-2.amazonaws.com/static.fantasydata.com/logos/ncaa/0.png,FRED,523
+811,FREEDL,TRUE,Freed-Hardeman,Lions,0,0,0,0,0,0,https://s3-us-west-2.amazonaws.com/static.fantasydata.com/logos/ncaa/0.png,FREED,387
+932,FPS,TRUE,Fresno Pacific,Sunbirds,0,0,0,0,0,0,https://s3-us-west-2.amazonaws.com/static.fantasydata.com/logos/ncaa/0.png,FPS,395
+213,FREST,TRUE,Fresno State,Bulldogs,0,7,11,3,4,Mountain West,https://s3-us-west-2.amazonaws.com/static.fantasydata.com/logos/ncaa/213.png,FRESNO,228
+440,FRSTBG,TRUE,Frostburg State,Bobcats,0,0,0,0,0,0,https://s3-us-west-2.amazonaws.com/static.fantasydata.com/logos/ncaa/0.png,FRSTBG,544
+1218,FULT,FALSE,Fulton-Montgomery,Raiders,0,0,0,0,0,0,https://s3-us-west-2.amazonaws.com/static.fantasydata.com/logos/ncaa/0.png,FULT,101
+283,FURMAN,TRUE,Furman,Paladins,0,15,6,6,2,Southern,https://s3-us-west-2.amazonaws.com/static.fantasydata.com/logos/ncaa/283.png,FURMAN,133
+798,GALLU,TRUE,Gallaudet,Bison,0,0,0,0,0,0,https://s3-us-west-2.amazonaws.com/static.fantasydata.com/logos/ncaa/0.png,GALL,239
+955,GANNON,TRUE,Gannon,Golden Knights,0,0,0,0,0,0,https://s3-us-west-2.amazonaws.com/static.fantasydata.com/logos/ncaa/0.png,GANNON,366
+83,GARDWB,TRUE,Gardner-Webb,Runnin' Bulldogs,0,9,11,4,4,Big South,https://s3-us-west-2.amazonaws.com/static.fantasydata.com/logos/ncaa/83.png,GARDWB,492
+797,GNV,TRUE,Geneva,Golden Tornadoes,0,0,0,0,0,0,https://s3-us-west-2.amazonaws.com/static.fantasydata.com/logos/ncaa/0.png,GNVA,253
+1097,GRGF,TRUE,George Fox,Bruins,0,0,0,0,0,0,https://s3-us-west-2.amazonaws.com/static.fantasydata.com/logos/ncaa/0.png,GRGF,498
+56,GMSN,TRUE,George Mason,Patriots,0,12,8,4,3,Atlantic 10,https://s3-us-west-2.amazonaws.com/static.fantasydata.com/logos/ncaa/56.png,GMSN,324
+48,GEOWS,TRUE,George Washington,Colonials,0,10,9,4,2,Atlantic 10,https://s3-us-west-2.amazonaws.com/static.fantasydata.com/logos/ncaa/48.png,GEOWS,250
+62,GEORGE,TRUE,Georgetown,Hoyas,0,5,15,0,9,Big East,https://s3-us-west-2.amazonaws.com/static.fantasydata.com/logos/ncaa/62.png,GEORGE,543
+1156,GEOKY,TRUE,Georgetown (KY),Tigers,0,0,0,0,0,0,https://s3-us-west-2.amazonaws.com/static.fantasydata.com/logos/ncaa/0.png,GEOKY,8
+272,GA,TRUE,Georgia,Bulldogs,0,13,6,3,3,Southeastern,https://s3-us-west-2.amazonaws.com/static.fantasydata.com/logos/ncaa/272.png,UGA,177
+504,GCSU,TRUE,Georgia College & State,Bobcats,0,0,0,0,0,0,https://s3-us-west-2.amazonaws.com/static.fantasydata.com/logos/ncaa/0.png,GCSU,494
+329,GAS,TRUE,Georgia Southern,Eagles,0,12,9,5,3,Sun Belt,https://s3-us-west-2.amazonaws.com/static.fantasydata.com/logos/ncaa/329.png,GAS,123
+1037,GSW,TRUE,Georgia Southwestern State,Hurricanes,0,0,0,0,0,0,https://s3-us-west-2.amazonaws.com/static.fantasydata.com/logos/ncaa/0.png,GSW,28
+328,GAST,TRUE,Georgia State,Panthers,0,9,11,2,6,Sun Belt,https://s3-us-west-2.amazonaws.com/static.fantasydata.com/logos/ncaa/328.png,GAST,439
+32,GTECH,TRUE,Georgia Tech,Yellow Jackets,0,8,11,1,8,Atlantic Coast,https://s3-us-west-2.amazonaws.com/static.fantasydata.com/logos/ncaa/32.png,GTECH,300
+981,GCL,TRUE,Georgian Court,Lions,0,0,0,0,0,0,https://s3-us-west-2.amazonaws.com/static.fantasydata.com/logos/ncaa/0.png,GCL,436
+915,GETTY,FALSE,Gettysburg,Bullets,0,0,0,0,0,0,https://s3-us-west-2.amazonaws.com/static.fantasydata.com/logos/ncaa/0.png,GETTY,92
+452,GLEN,TRUE,Glenville State,Pioneers,0,0,0,0,0,0,https://s3-us-west-2.amazonaws.com/static.fantasydata.com/logos/ncaa/0.png,GLEN,548
+334,GNZG,TRUE,Gonzaga,Bulldogs,6,17,4,6,1,West Coast,https://s3-us-west-2.amazonaws.com/static.fantasydata.com/logos/ncaa/334.png,GNZG,373
+923,GORDON,TRUE,Gordon College,Fighting Scots,0,0,0,0,0,0,https://s3-us-west-2.amazonaws.com/static.fantasydata.com/logos/ncaa/0.png,GORDON,510
+671,GOSH,TRUE,Goshen,Maple Leafs,0,0,0,0,0,0,https://s3-us-west-2.amazonaws.com/static.fantasydata.com/logos/ncaa/0.png,GOSH,69
+670,GOUC,TRUE,Goucher,Gophers,0,0,0,0,0,0,https://s3-us-west-2.amazonaws.com/static.fantasydata.com/logos/ncaa/0.png,GOUC,259
+739,Gove,TRUE,Governors State,Jaguars,0,0,0,0,0,0,https://s3-us-west-2.amazonaws.com/static.fantasydata.com/logos/ncaa/0.png,Gove,77
+1167,GRCHR,TRUE,Grace Christian,Tigers,0,0,0,0,0,0,https://s3-us-west-2.amazonaws.com/static.fantasydata.com/logos/ncaa/0.png,GRCHR,252
+1305,GRAC,FALSE,Grace College,Lancers,0,0,0,0,0,0,https://s3-us-west-2.amazonaws.com/static.fantasydata.com/logos/ncaa/0.png,GRAC,334
+1188,GRCLND,FALSE,Graceland,Yellowjackets,0,0,0,0,0,0,https://s3-us-west-2.amazonaws.com/static.fantasydata.com/logos/ncaa/0.png,GRCLND,109
+312,GRMBST,TRUE,Grambling State,Tigers,0,11,7,4,2,Southwestern Athletic,https://s3-us-west-2.amazonaws.com/static.fantasydata.com/logos/ncaa/312.png,GRMBST,506
+345,GCAN,TRUE,Grand Canyon,Antelopes,0,13,7,4,3,Western Athletic,https://s3-us-west-2.amazonaws.com/static.fantasydata.com/logos/ncaa/345.png,GCAN,44
+152,GB,TRUE,Green Bay,Phoenix,0,2,19,1,9,Horizon League,https://s3-us-west-2.amazonaws.com/static.fantasydata.com/logos/ncaa/152.png,GB,110
+397,GBP,TRUE,Greensboro,Pride,0,0,0,0,0,0,https://s3-us-west-2.amazonaws.com/static.fantasydata.com/logos/ncaa/0.png,GBP,391
+1071,GREENP,TRUE,Greenville,Panthers,0,0,0,0,0,0,https://s3-us-west-2.amazonaws.com/static.fantasydata.com/logos/ncaa/0.png,GREENP,31
+947,GUELPH,FALSE,Guelph,0,0,0,0,0,0,0,https://s3-us-west-2.amazonaws.com/static.fantasydata.com/logos/ncaa/0.png,GUELPH,347
+1125,GUIL,TRUE,Guilford,Quakers,0,0,0,0,0,0,https://s3-us-west-2.amazonaws.com/static.fantasydata.com/logos/ncaa/0.png,GUIL,60
+1148,GWYM,TRUE,Gwynedd Mercy,Griffins,0,0,0,0,0,0,https://s3-us-west-2.amazonaws.com/static.fantasydata.com/logos/ncaa/0.png,GWYM,285
+1279,HAMLT,FALSE,Hamilton,Continentals,0,0,0,0,0,0,https://s3-us-west-2.amazonaws.com/static.fantasydata.com/logos/ncaa/0.png,HAMLT,563
+911,HAMPT,FALSE,Hampden-Sydney,Tigers,0,0,0,0,0,0,https://s3-us-west-2.amazonaws.com/static.fantasydata.com/logos/ncaa/0.png,HAMPT,145
+189,HAMP,TRUE,Hampton,Pirates,0,4,16,1,7,Colonial Athletic,https://s3-us-west-2.amazonaws.com/static.fantasydata.com/logos/ncaa/189.png,HAMPTON,42
+1231,HNLG,TRUE,Hannibal-LaGrange,Trojans,0,0,0,0,0,0,https://s3-us-west-2.amazonaws.com/static.fantasydata.com/logos/ncaa/0.png,HNLG,368
+1126,HANO,TRUE,Hanover,Panthers,0,0,0,0,0,0,https://s3-us-west-2.amazonaws.com/static.fantasydata.com/logos/ncaa/0.png,HANO,459
+696,HARDIN,TRUE,Harding,Bison,0,0,0,0,0,0,https://s3-us-west-2.amazonaws.com/static.fantasydata.com/logos/ncaa/0.png,HARDIN,322
+354,HDSM,TRUE,Hardin-Simmons,Cowboys,0,0,0,0,0,0,https://s3-us-west-2.amazonaws.com/static.fantasydata.com/logos/ncaa/0.png,HDSM,270
+446,HSST,TRUE,Harris-Stowe,Hornets,0,0,0,0,0,0,https://s3-us-west-2.amazonaws.com/static.fantasydata.com/logos/ncaa/0.png,HSST,243
+18,HARTFD,TRUE,Hartford,Hawks,0,4,16,0,0,Independents,https://s3-us-west-2.amazonaws.com/static.fantasydata.com/logos/ncaa/18.png,HARTFD,415
+416,HARTWI,TRUE,Hartwick,Hawks,0,0,0,0,0,0,https://s3-us-west-2.amazonaws.com/static.fantasydata.com/logos/ncaa/0.png,HARTWI,326
+164,HARVRD,TRUE,Harvard,Crimson,0,12,8,3,3,Ivy League,https://s3-us-west-2.amazonaws.com/static.fantasydata.com/logos/ncaa/164.png,HARVARD,32
+953,HASK,TRUE,Haskell,Jayhawks,0,0,0,0,0,0,https://s3-us-west-2.amazonaws.com/static.fantasydata.com/logos/ncaa/0.png,HASK,188
+984,HASKELL,FALSE,Haskell Indian Nations,Fighting Indians,0,0,0,0,0,0,https://s3-us-west-2.amazonaws.com/static.fantasydata.com/logos/ncaa/0.png,HASKELL,511
+1105,HAST,TRUE,Hastings College,Broncos,0,0,0,0,0,0,https://s3-us-west-2.amazonaws.com/static.fantasydata.com/logos/ncaa/0.png,HAST,527
+115,HAWAII,TRUE,Hawaii,Rainbow Warriors,0,15,5,6,2,Big West,https://s3-us-west-2.amazonaws.com/static.fantasydata.com/logos/ncaa/115.png,HAWAII,146
+403,HHILO,TRUE,Hawaii Hilo,Vulcans,0,0,0,0,0,0,https://s3-us-west-2.amazonaws.com/static.fantasydata.com/logos/ncaa/0.png,HHILO,34
+743,HIPACI,TRUE,Hawaii Pacific,Sharks,0,0,0,0,0,0,https://s3-us-west-2.amazonaws.com/static.fantasydata.com/logos/ncaa/0.png,HIPACI,266
+680,HEIDEL,TRUE,Heidelberg,Student Princes,0,0,0,0,0,0,https://s3-us-west-2.amazonaws.com/static.fantasydata.com/logos/ncaa/0.png,HEIDEL,95
+652,HNDRX,TRUE,Hendrix College,Warriors,0,0,0,0,0,0,https://s3-us-west-2.amazonaws.com/static.fantasydata.com/logos/ncaa/0.png,HNDRX,309
+85,HPNT,TRUE,High Point,Panthers,0,10,10,2,6,Big South,https://s3-us-west-2.amazonaws.com/static.fantasydata.com/logos/ncaa/85.png,HIGHPT,226
+907,HIRAM,FALSE,Hiram,Hiram,0,0,0,0,0,0,https://s3-us-west-2.amazonaws.com/static.fantasydata.com/logos/ncaa/0.png,HIRAM,392
+456,HIWA,TRUE,Hiwassee College,Tigers,0,0,0,0,0,0,https://s3-us-west-2.amazonaws.com/static.fantasydata.com/logos/ncaa/0.png,HIWA,88
+128,HOFST,TRUE,Hofstra,Pride,0,13,8,6,2,Colonial Athletic,https://s3-us-west-2.amazonaws.com/static.fantasydata.com/logos/ncaa/128.png,HOFST,181
+264,HOLY,TRUE,Holy Cross,Crusaders,0,7,14,4,4,Patriot League,https://s3-us-west-2.amazonaws.com/static.fantasydata.com/logos/ncaa/264.png,HOLY,311
+956,FAMILY,FALSE,Holy Family,Tigers,0,0,0,0,0,0,https://s3-us-west-2.amazonaws.com/static.fantasydata.com/logos/ncaa/0.png,FAMILY,48
+985,HFAMILY,FALSE,Holy Family College,Lakers,0,0,0,0,0,0,https://s3-us-west-2.amazonaws.com/static.fantasydata.com/logos/ncaa/0.png,HFAMILY,351
+463,HNAMES,TRUE,Holy Names,Hawks,0,0,0,0,0,0,https://s3-us-west-2.amazonaws.com/static.fantasydata.com/logos/ncaa/0.png,HNAMES,500
+495,HOOD,TRUE,Hood,Blazers,0,0,0,0,0,0,https://s3-us-west-2.amazonaws.com/static.fantasydata.com/logos/ncaa/0.png,HOOD,116
+1106,HOPE,TRUE,Hope,Flying Dutchman,0,0,0,0,0,0,https://s3-us-west-2.amazonaws.com/static.fantasydata.com/logos/ncaa/0.png,HOPE,512
+1205,HIR,TRUE,Hope International,Royals,0,0,0,0,0,0,https://s3-us-west-2.amazonaws.com/static.fantasydata.com/logos/ncaa/0.png,HIR,467
+1291,HOUGH,TRUE,Houghton,Highlanders,0,0,0,0,0,0,https://s3-us-west-2.amazonaws.com/static.fantasydata.com/logos/ncaa/0.png,HOUGH,452
+6,HOU,TRUE,Houston,Cougars,1,18,2,6,1,American Athletic,https://s3-us-west-2.amazonaws.com/static.fantasydata.com/logos/ncaa/6.png,UH,279
+293,HOUBAP,TRUE,Houston Christian,Huskies,0,7,13,4,3,Southland,https://s3-us-west-2.amazonaws.com/static.fantasydata.com/logos/ncaa/293.png,HCU,301
+195,HOWRD,TRUE,Howard,Bison,0,11,10,3,1,Mid-Eastern,https://s3-us-west-2.amazonaws.com/static.fantasydata.com/logos/ncaa/195.png,HOWARD,282
+471,HOWP,TRUE,Howard Payne,Yellow Jackets,0,0,0,0,0,0,https://s3-us-west-2.amazonaws.com/static.fantasydata.com/logos/ncaa/0.png,HOWP,361
+664,HUMB,TRUE,Humboldt State,Lumberjacks,0,0,0,0,0,0,https://s3-us-west-2.amazonaws.com/static.fantasydata.com/logos/ncaa/0.png,HUMB,103
+512,HNTGDN,TRUE,Huntingdon,Hawks,0,0,0,0,0,0,https://s3-us-west-2.amazonaws.com/static.fantasydata.com/logos/ncaa/0.png,HNTGDN,25
+856,HUSSB,FALSE,Husson,Braves,0,0,0,0,0,0,https://s3-us-west-2.amazonaws.com/static.fantasydata.com/logos/ncaa/0.png,HUSS,435
+410,HTILLO,TRUE,Huston-Tillotson,Rams,0,0,0,0,0,0,https://s3-us-west-2.amazonaws.com/static.fantasydata.com/logos/ncaa/0.png,HTILLO,567
+73,IDAHO,TRUE,Idaho,Vandals,0,8,13,2,6,Big Sky,https://s3-us-west-2.amazonaws.com/static.fantasydata.com/logos/ncaa/73.png,IDAHO,192
+72,IDHST,TRUE,Idaho State,Bengals,0,7,13,4,3,Big Sky,https://s3-us-west-2.amazonaws.com/static.fantasydata.com/logos/ncaa/72.png,IDST,388
+102,ILL,TRUE,Illinois,Fighting Illini,0,13,6,4,4,Big Ten,https://s3-us-west-2.amazonaws.com/static.fantasydata.com/logos/ncaa/102.png,ILL,299
+204,ILLST,TRUE,Illinois State,Redbirds,0,8,13,3,7,Missouri Valley,https://s3-us-west-2.amazonaws.com/static.fantasydata.com/logos/ncaa/204.png,ILLST,314
+716,ILTECH,TRUE,Illinois Tech,Scarlet Hawks,0,0,0,0,0,0,https://s3-us-west-2.amazonaws.com/static.fantasydata.com/logos/ncaa/0.png,ILTECH,329
+899,IllWes,FALSE,Illinois Wesleyan ,Titans,0,0,0,0,0,0,https://s3-us-west-2.amazonaws.com/static.fantasydata.com/logos/ncaa/0.png,IllWes,178
+839,UISP,TRUE,Illinois-Springfield Prairie ,Stars,0,0,0,0,0,0,https://s3-us-west-2.amazonaws.com/static.fantasydata.com/logos/ncaa/0.png,UIS,515
+1154,IMM,TRUE,Immaculata,Mighty Macs,0,0,0,0,0,0,https://s3-us-west-2.amazonaws.com/static.fantasydata.com/logos/ncaa/0.png,IMM,451
+294,INCAR,TRUE,Incarnate Word,Cardinals,0,8,12,2,5,Southland,https://s3-us-west-2.amazonaws.com/static.fantasydata.com/logos/ncaa/294.png,INCAR,541
+93,IND,TRUE,Indiana,Hoosiers,0,13,6,4,4,Big Ten,https://s3-us-west-2.amazonaws.com/static.fantasydata.com/logos/ncaa/93.png,IU,430
+207,INDST,TRUE,Indiana State,Sycamores,0,13,8,6,4,Missouri Valley,https://s3-us-west-2.amazonaws.com/static.fantasydata.com/logos/ncaa/207.png,INDST,286
+1163,INWESL,FALSE,Indiana Wesleyan,Wildcats,0,0,0,0,0,0,https://s3-us-west-2.amazonaws.com/static.fantasydata.com/logos/ncaa/0.png,INWESL,215
+436,KOKO,TRUE,Indiana-Kokomo,Cougars,0,0,0,0,0,0,https://s3-us-west-2.amazonaws.com/static.fantasydata.com/logos/ncaa/0.png,KOKO,168
+492,INNW,TRUE,Indiana-Northwest,Red Hawks,0,0,0,0,0,0,https://s3-us-west-2.amazonaws.com/static.fantasydata.com/logos/ncaa/0.png,INNW,418
+1029,INDY,TRUE,Indianapolis,Greyhounds,0,0,0,0,0,0,https://s3-us-west-2.amazonaws.com/static.fantasydata.com/logos/ncaa/0.png,INDY,340
+167,IONA,TRUE,Iona,Gaels,0,13,6,6,2,Metro Atlantic Athletic,https://s3-us-west-2.amazonaws.com/static.fantasydata.com/logos/ncaa/167.png,IONA,183
+91,IOWA,TRUE,Iowa,Hawkeyes,0,12,7,4,4,Big Ten,https://s3-us-west-2.amazonaws.com/static.fantasydata.com/logos/ncaa/91.png,IOWA,444
+110,IOWAST,TRUE,Iowa State,Cyclones,12,14,4,5,2,Big 12,https://s3-us-west-2.amazonaws.com/static.fantasydata.com/logos/ncaa/110.png,IAST,30
+1115,IAW,TRUE,Iowa Wesleyan,Tigers,0,0,0,0,0,0,https://s3-us-west-2.amazonaws.com/static.fantasydata.com/logos/ncaa/0.png,IAW,393
+1234,ITHA,TRUE,Ithaca College,Bombers,0,0,0,0,0,0,https://s3-us-west-2.amazonaws.com/static.fantasydata.com/logos/ncaa/0.png,ITHA,130
+317,IUPUI,TRUE,IUPUI,Jaguars,0,3,18,0,10,Horizon League,https://s3-us-west-2.amazonaws.com/static.fantasydata.com/logos/ncaa/317.png,IUPUI,248
+521,IUSB,TRUE,IU-South Bend,Titans,0,0,0,0,0,0,https://s3-us-west-2.amazonaws.com/static.fantasydata.com/logos/ncaa/0.png,IUSB,471
+306,JACKST,TRUE,Jackson State,Tigers,0,5,14,4,2,Southwestern Athletic,https://s3-us-west-2.amazonaws.com/static.fantasydata.com/logos/ncaa/306.png,JXST,163
+37,JAX,TRUE,Jacksonville,Dolphins,0,11,8,4,4,Atlantic Sun,https://s3-us-west-2.amazonaws.com/static.fantasydata.com/logos/ncaa/37.png,JAX,496
+238,JAXST,TRUE,Jacksonville State,Gamecocks,0,8,13,1,7,Atlantic Sun,https://s3-us-west-2.amazonaws.com/static.fantasydata.com/logos/ncaa/238.png,JSU,514
+126,JMAD,TRUE,James Madison,Dukes,0,13,8,4,4,Sun Belt,https://s3-us-west-2.amazonaws.com/static.fantasydata.com/logos/ncaa/126.png,JMAD,520
+1200,JTOWN,FALSE,Jamestown,Jimmies,0,0,0,0,0,0,https://s3-us-west-2.amazonaws.com/static.fantasydata.com/logos/ncaa/0.png,JTOWN,440
+661,JARVCH,TRUE,Jarvis Christian,Bulldogs,0,0,0,0,0,0,https://s3-us-west-2.amazonaws.com/static.fantasydata.com/logos/ncaa/0.png,JARVCH,232
+1190,JBROWN,TRUE,John Brown,Golden Eagles,0,0,0,0,0,0,https://s3-us-west-2.amazonaws.com/static.fantasydata.com/logos/ncaa/0.png,JBROWN,457
+1168,JNCRL,FALSE,John Carroll,Blue Streaks,0,0,0,0,0,0,https://s3-us-west-2.amazonaws.com/static.fantasydata.com/logos/ncaa/0.png,JNCRL,229
+1185,JOHNJ,TRUE,John Jay,Bloodhounds,0,0,0,0,0,0,https://s3-us-west-2.amazonaws.com/static.fantasydata.com/logos/ncaa/0.png,JOHNJ,319
+1301,John,TRUE,John Melvin,Millers,0,0,0,0,0,0,https://s3-us-west-2.amazonaws.com/static.fantasydata.com/logos/ncaa/0.png,John,315
+491,JWCO,TRUE,Johnson & Wales (CO),Wildcats,0,0,0,0,0,0,https://s3-us-west-2.amazonaws.com/static.fantasydata.com/logos/ncaa/0.png,J&WCO,403
+657,JWFL,TRUE,Johnson & Wales (FL),Wildcats,0,0,0,0,0,0,https://s3-us-west-2.amazonaws.com/static.fantasydata.com/logos/ncaa/0.png,JWFL,271
+428,JANDW,TRUE,Johnson & Wales (NC),Wildcats,0,0,0,0,0,0,https://s3-us-west-2.amazonaws.com/static.fantasydata.com/logos/ncaa/0.png,JANDW,196
+758,JOWAL,TRUE,Johnson & Wales (RI),Wildcats,0,0,0,0,0,0,https://s3-us-west-2.amazonaws.com/static.fantasydata.com/logos/ncaa/0.png,JOWAL,142
+641,FLCHR,TRUE,Johnson (FL),Suns,0,0,0,0,0,0,https://s3-us-west-2.amazonaws.com/static.fantasydata.com/logos/ncaa/0.png,FLCHR,412
+1248,JNSN,TRUE,Johnson (TN),Royals,0,0,0,0,0,0,https://s3-us-west-2.amazonaws.com/static.fantasydata.com/logos/ncaa/0.png,JNSN,98
+822,JCSG,FALSE,Johnson C. Smith,Golden Bulls,0,0,0,0,0,0,https://s3-us-west-2.amazonaws.com/static.fantasydata.com/logos/ncaa/0.png,JCS,546
+800,JDSNE,TRUE,Judson,Eagles,0,0,0,0,0,0,https://s3-us-west-2.amazonaws.com/static.fantasydata.com/logos/ncaa/0.png,JDSN,134
+106,KAN,TRUE,Kansas,Jayhawks,2,16,3,5,2,Big 12,https://s3-us-west-2.amazonaws.com/static.fantasydata.com/logos/ncaa/106.png,KANSAS,126
+1292,KANCH,TRUE,Kansas Christian,Falcons,0,0,0,0,0,0,https://s3-us-west-2.amazonaws.com/static.fantasydata.com/logos/ncaa/0.png,KANCH,411
+362,UMKC,TRUE,Kansas City,Roos,0,8,13,4,4,Summit,https://s3-us-west-2.amazonaws.com/static.fantasydata.com/logos/ncaa/362.png,UMKC,131
+112,KANST,TRUE,Kansas State,Wildcats,13,17,2,6,1,Big 12,https://s3-us-west-2.amazonaws.com/static.fantasydata.com/logos/ncaa/112.png,KSU,222
+705,KEAN,TRUE,Kean,Cougars,0,0,0,0,0,0,https://s3-us-west-2.amazonaws.com/static.fantasydata.com/logos/ncaa/0.png,KEAN,26
+1059,KEENE,TRUE,Keene State,Owls,0,0,0,0,0,0,https://s3-us-west-2.amazonaws.com/static.fantasydata.com/logos/ncaa/0.png,KEENE,425
+519,KEISR,TRUE,Keiser,Seahawks,0,0,0,0,0,0,https://s3-us-west-2.amazonaws.com/static.fantasydata.com/logos/ncaa/0.png,KEISR,426
+42,KENEST,TRUE,Kennesaw State,Owls,0,15,6,7,1,Atlantic Sun,https://s3-us-west-2.amazonaws.com/static.fantasydata.com/logos/ncaa/42.png,KENEST,35
+178,KENTST,TRUE,Kent State,Golden Flashes,0,16,3,6,0,Mid-American,https://s3-us-west-2.amazonaws.com/static.fantasydata.com/logos/ncaa/178.png,KENTST,29
+268,UK,TRUE,Kentucky,Wildcats,0,13,6,4,3,Southeastern,https://s3-us-west-2.amazonaws.com/static.fantasydata.com/logos/ncaa/268.png,UK,513
+435,KYCH,TRUE,Kentucky Christian,Knights,0,0,0,0,0,0,https://s3-us-west-2.amazonaws.com/static.fantasydata.com/logos/ncaa/0.png,KYCH,262
+1240,KNTS,TRUE,Kentucky State,Thorobreds,0,0,0,0,0,0,https://s3-us-west-2.amazonaws.com/static.fantasydata.com/logos/ncaa/0.png,KNTS,554
+710,KYWE,TRUE,Kentucky Wesleyan,Panthers,0,0,0,0,0,0,https://s3-us-west-2.amazonaws.com/static.fantasydata.com/logos/ncaa/0.png,KYWE,278
+1171,KEUKA,TRUE,Keuka,Storm,0,0,0,0,0,0,https://s3-us-west-2.amazonaws.com/static.fantasydata.com/logos/ncaa/0.png,KEUKA,220
+1139,KEYST,TRUE,Keystone,Giants,0,0,0,0,0,0,https://s3-us-west-2.amazonaws.com/static.fantasydata.com/logos/ncaa/0.png,KEYST,420
+1195,KINGU,FALSE,King University,Tornado,0,0,0,0,0,0,https://s3-us-west-2.amazonaws.com/static.fantasydata.com/logos/ncaa/0.png,KINGU,293
+1161,KCPA,FALSE,King's College (PA),Monarchs,0,0,0,0,0,0,https://s3-us-west-2.amazonaws.com/static.fantasydata.com/logos/ncaa/0.png,KCPA,374
+1138,KNOX,TRUE,Knox,Prarie Fire,0,0,0,0,0,0,https://s3-us-west-2.amazonaws.com/static.fantasydata.com/logos/ncaa/0.png,KNOX,331
+57,LASAL,TRUE,La Salle,Explorers,0,8,11,2,4,Atlantic 10,https://s3-us-west-2.amazonaws.com/static.fantasydata.com/logos/ncaa/57.png,LASALLE,208
+1077,LASU,TRUE,La Sierra,Golden Eagles,0,0,0,0,0,0,https://s3-us-west-2.amazonaws.com/static.fantasydata.com/logos/ncaa/0.png,LASU,157
+755,LAV,TRUE,La Verne,Leopards,0,0,0,0,0,0,https://s3-us-west-2.amazonaws.com/static.fantasydata.com/logos/ncaa/0.png,LAV,318
+266,LAFAY,TRUE,Lafayette,Leopards,0,6,15,4,4,Patriot League,https://s3-us-west-2.amazonaws.com/static.fantasydata.com/logos/ncaa/266.png,LAFAY,173
+674,CCAR,TRUE,LaGrange,Panthers,0,0,0,0,0,0,https://s3-us-west-2.amazonaws.com/static.fantasydata.com/logos/ncaa/0.png,CCAR,180
+1135,ERIE,TRUE,Lake Erie,Storm,0,0,0,0,0,0,https://s3-us-west-2.amazonaws.com/static.fantasydata.com/logos/ncaa/0.png,ERIE,195
+303,LAMAR,TRUE,Lamar,Cardinals,0,6,14,2,5,Southland,https://s3-us-west-2.amazonaws.com/static.fantasydata.com/logos/ncaa/303.png,LAMAR,201
+1035,LBC,TRUE,Lancaster Bible College,Chargers,0,0,0,0,0,0,https://s3-us-west-2.amazonaws.com/static.fantasydata.com/logos/ncaa/0.png,LBC,199
+961,LAND,TRUE,Lander,Bearcats,0,0,0,0,0,0,https://s3-us-west-2.amazonaws.com/static.fantasydata.com/logos/ncaa/0.png,LAND,489
+1307,LANE,TRUE,Lane,Dragons,0,0,0,0,0,0,https://s3-us-west-2.amazonaws.com/static.fantasydata.com/logos/ncaa/0.png,LANE,260
+1278,LNGST,FALSE,Langston,Lions,0,0,0,0,0,0,https://s3-us-west-2.amazonaws.com/static.fantasydata.com/logos/ncaa/0.png,LNGST,383
+427,LEMYN,TRUE,Le Moyne,Dolphins,0,0,0,0,0,0,https://s3-us-west-2.amazonaws.com/static.fantasydata.com/logos/ncaa/0.png,LEMYN,365
+864,OWEN,TRUE,Le Moyne-Owen,Magicians,0,0,0,0,0,0,https://s3-us-west-2.amazonaws.com/static.fantasydata.com/logos/ncaa/0.png,LO,154
+853,LETYJ,TRUE,Le Tourneau,Yellow Jackets,0,0,0,0,0,0,https://s3-us-west-2.amazonaws.com/static.fantasydata.com/logos/ncaa/0.png,LET,465
+1238,LBVC,TRUE,Lebanon Valley College,Dutchmen,0,0,0,0,0,0,https://s3-us-west-2.amazonaws.com/static.fantasydata.com/logos/ncaa/0.png,LBVC,117
+1090,LEEU,TRUE,Lee,Flames,0,0,0,0,0,0,https://s3-us-west-2.amazonaws.com/static.fantasydata.com/logos/ncaa/0.png,LEEU,223
+620,LEESMC,TRUE,Lees-McRae,Bobcats,0,0,0,0,0,0,https://s3-us-west-2.amazonaws.com/static.fantasydata.com/logos/ncaa/0.png,LEESMC,320
+260,LEHI,TRUE,Lehigh,Mountain Hawks,0,11,8,6,2,Patriot League,https://s3-us-west-2.amazonaws.com/static.fantasydata.com/logos/ncaa/260.png,LEHIGH,330
+614,LRHY,TRUE,Lenoir-Rhyne,Bears,0,0,0,0,0,0,https://s3-us-west-2.amazonaws.com/static.fantasydata.com/logos/ncaa/0.png,LRHY,190
+931,LESLEY,TRUE,Lesley,Lynx,0,0,0,0,0,0,https://s3-us-west-2.amazonaws.com/static.fantasydata.com/logos/ncaa/0.png,LESLEY,323
+989,LEWIS,TRUE,Lewis,Flyers,0,0,0,0,0,0,https://s3-us-west-2.amazonaws.com/static.fantasydata.com/logos/ncaa/0.png,LEW,516
+724,LEWCL,TRUE,Lewis & Clark,Pioneers,0,0,0,0,0,0,https://s3-us-west-2.amazonaws.com/static.fantasydata.com/logos/ncaa/0.png,LEWCL,276
+1050,LCST,FALSE,Lewis Clark State,Warriors,0,0,0,0,0,0,https://s3-us-west-2.amazonaws.com/static.fantasydata.com/logos/ncaa/0.png,LCST,317
+84,LIBRTY,TRUE,Liberty,Flames,0,16,5,7,1,Atlantic Sun,https://s3-us-west-2.amazonaws.com/static.fantasydata.com/logos/ncaa/84.png,LIBERTY,352
+1053,LURE,TRUE,Life,Running Eagles,0,0,0,0,0,0,https://s3-us-west-2.amazonaws.com/static.fantasydata.com/logos/ncaa/0.png,LURE,43
+460,LIFE,TRUE,Life Pacific,Warriors,0,0,0,0,0,0,https://s3-us-west-2.amazonaws.com/static.fantasydata.com/logos/ncaa/0.png,LIFE,328
+1034,LIME,TRUE,Limestone,Saints,0,0,0,0,0,0,https://s3-us-west-2.amazonaws.com/static.fantasydata.com/logos/ncaa/0.png,LIME,390
+1170,LOAKS,TRUE,Lincoln (CA),Oaks,0,0,0,0,0,0,https://s3-us-west-2.amazonaws.com/static.fantasydata.com/logos/ncaa/0.png,LOAKS,80
+1052,LUM,TRUE,Lincoln (MO),Blue Tigers,0,0,0,0,0,0,https://s3-us-west-2.amazonaws.com/static.fantasydata.com/logos/ncaa/0.png,LUM,96
+712,LINCOL,TRUE,Lincoln (PA),Lions,0,0,0,0,0,0,https://s3-us-west-2.amazonaws.com/static.fantasydata.com/logos/ncaa/0.png,LINCOL,87
+741,JAC,TRUE,Lindenwood,Lions,0,7,14,2,6,Ohio Valley,https://s3-us-west-2.amazonaws.com/static.fantasydata.com/logos/ncaa/0.png,JAC,218
+973,LINDEN,FALSE,Lindenwood-Belleville,Lynx,0,0,0,0,0,0,https://s3-us-west-2.amazonaws.com/static.fantasydata.com/logos/ncaa/0.png,LINDEN,159
+1179,LWC,TRUE,Lindsey Wilson College,Blue Raiders,0,0,0,0,0,0,https://s3-us-west-2.amazonaws.com/static.fantasydata.com/logos/ncaa/0.png,LWC,447
+40,LIPSC,TRUE,Lipscomb,Bisons,0,13,8,5,3,Atlantic Sun,https://s3-us-west-2.amazonaws.com/static.fantasydata.com/logos/ncaa/40.png,LIPSC,551
+323,ARLR,TRUE,Little Rock,Trojans,0,6,15,2,6,Ohio Valley,https://s3-us-west-2.amazonaws.com/static.fantasydata.com/logos/ncaa/323.png,ARLR,53
+229,LIUB,TRUE,LIU,Sharks,0,2,18,0,8,Northeast,https://s3-us-west-2.amazonaws.com/static.fantasydata.com/logos/ncaa/229.png,LIUB,193
+945,POST,FALSE,LIU Post,Pioneers,0,0,0,0,0,0,https://s3-us-west-2.amazonaws.com/static.fantasydata.com/logos/ncaa/0.png,POST,164
+1001,LBB,FALSE,Livingstone,Blue Bears,0,0,0,0,0,0,https://s3-us-west-2.amazonaws.com/static.fantasydata.com/logos/ncaa/1001.png,LBB,51
+1208,LHU,FALSE,Lock Haven,Bald Eagles,0,0,0,0,0,0,https://s3-us-west-2.amazonaws.com/static.fantasydata.com/logos/ncaa/0.png,LHU,233
+117,LBST,TRUE,Long Beach State,Beach,0,10,10,4,4,Big West,https://s3-us-west-2.amazonaws.com/static.fantasydata.com/logos/ncaa/117.png,LBST,242
+87,LONGWD,TRUE,Longwood,Lancers,0,15,6,7,1,Big South,https://s3-us-west-2.amazonaws.com/static.fantasydata.com/logos/ncaa/87.png,LONGWD,569
+1277,LORAS,TRUE,Loras,Duhawks,0,0,0,0,0,0,https://s3-us-west-2.amazonaws.com/static.fantasydata.com/logos/ncaa/0.png,LORAS,545
+478,LACOLL,TRUE,Louisiana College,Wildcats,0,0,0,0,0,0,https://s3-us-west-2.amazonaws.com/static.fantasydata.com/logos/ncaa/0.png,LACOLL,568
+137,LOUTCH,TRUE,Louisiana Tech,Bulldogs,0,11,9,4,5,Conference USA,https://s3-us-west-2.amazonaws.com/static.fantasydata.com/logos/ncaa/137.png,LATECH,83
+324,LOULAF,TRUE,Louisiana-Lafayette,Ragin' Cajuns,0,16,4,6,2,Sun Belt,https://s3-us-west-2.amazonaws.com/static.fantasydata.com/logos/ncaa/324.png,LOULAF,174
+326,LAMON,TRUE,Louisiana-Monroe,Warhawks,0,9,12,5,3,Sun Belt,https://s3-us-west-2.amazonaws.com/static.fantasydata.com/logos/ncaa/326.png,LAMON,265
+24,LOU,TRUE,Louisville,Cardinals,0,2,17,0,8,Atlantic Coast,https://s3-us-west-2.amazonaws.com/static.fantasydata.com/logos/ncaa/24.png,LOU,360
+1297,LOUR,TRUE,Lourdes,Gray Wolves,0,0,0,0,0,0,https://s3-us-west-2.amazonaws.com/static.fantasydata.com/logos/ncaa/0.png,LOUR,316
+430,LOYOLO,TRUE,Loyola (LA),Wolfpack,0,0,0,0,0,0,https://s3-us-west-2.amazonaws.com/static.fantasydata.com/logos/ncaa/0.png,LOYOLO,197
+209,LOYCH,TRUE,Loyola Chicago,Ramblers,0,7,12,1,6,Atlantic 10,https://s3-us-west-2.amazonaws.com/static.fantasydata.com/logos/ncaa/209.png,LOYCH,18
+262,LOYMD,TRUE,Loyola Maryland,Greyhounds,0,7,14,2,6,Patriot League,https://s3-us-west-2.amazonaws.com/static.fantasydata.com/logos/ncaa/262.png,LOYMD,483
+343,LOYMRY,TRUE,Loyola Marymount,Lions,0,14,7,4,3,West Coast,https://s3-us-west-2.amazonaws.com/static.fantasydata.com/logos/ncaa/343.png,LOYMRY,284
+269,LSU,TRUE,LSU,Tigers,0,12,7,1,6,Southeastern,https://s3-us-west-2.amazonaws.com/static.fantasydata.com/logos/ncaa/269.png,LSU,160
+829,LSUAG,TRUE,LSU-Alexandria,Generals,0,0,0,0,0,0,https://s3-us-west-2.amazonaws.com/static.fantasydata.com/logos/ncaa/0.png,LSUA,115
+1036,SHRE,TRUE,LSU-Shreveport,Pilots,0,0,0,0,0,0,https://s3-us-west-2.amazonaws.com/static.fantasydata.com/logos/ncaa/0.png,SHRE,203
+799,LUTHE,TRUE,Luther,Norse,0,0,0,0,0,0,https://s3-us-west-2.amazonaws.com/static.fantasydata.com/logos/ncaa/0.png,Luth,378
+1214,LCHB,TRUE,Lynchburg,Hornets,0,0,0,0,0,0,https://s3-us-west-2.amazonaws.com/static.fantasydata.com/logos/ncaa/0.png,LCHB,144
+1228,LYNN,TRUE,Lynn,Fighting Knights,0,0,0,0,0,0,https://s3-us-west-2.amazonaws.com/static.fantasydata.com/logos/ncaa/0.png,LYNN,100
+507,LYON,TRUE,Lyon,Scots,0,0,0,0,0,0,https://s3-us-west-2.amazonaws.com/static.fantasydata.com/logos/ncaa/0.png,LYON,312
+1249,MDNNA,TRUE,Madonna,Crusaders,0,0,0,0,0,0,https://s3-us-west-2.amazonaws.com/static.fantasydata.com/logos/ncaa/0.png,MDNNA,335
+17,MAINE,TRUE,Maine,Black Bears,0,7,12,1,5,America East,https://s3-us-west-2.amazonaws.com/static.fantasydata.com/logos/ncaa/17.png,MAINE,296
+794,MMM,TRUE,Maine Maritime,Mariners,0,0,0,0,0,0,https://s3-us-west-2.amazonaws.com/static.fantasydata.com/logos/ncaa/0.png,MMM,198
+1265,MAINA,TRUE,Maine-Augusta,Moose,0,0,0,0,0,0,https://s3-us-west-2.amazonaws.com/static.fantasydata.com/logos/ncaa/0.png,MAINA,288
+1117,MAFARM,TRUE,Maine-Farmington,Beavers,0,0,0,0,0,0,https://s3-us-west-2.amazonaws.com/static.fantasydata.com/logos/ncaa/0.png,MAFARM,417
+441,UMFK,TRUE,Maine-Fort Kent,Bengals,0,0,0,0,0,0,https://s3-us-west-2.amazonaws.com/static.fantasydata.com/logos/ncaa/0.png,UMFK,59
+499,MEMAC,TRUE,Maine-Machias,Clippers,0,0,0,0,0,0,https://s3-us-west-2.amazonaws.com/static.fantasydata.com/logos/ncaa/0.png,MEMAC,407
+889,Malone,TRUE,Malone,Pioneers,0,0,0,0,0,0,https://s3-us-west-2.amazonaws.com/static.fantasydata.com/logos/ncaa/0.png,Malone,398
+695,MANC,TRUE,Manchester,Spartans,0,0,0,0,0,0,https://s3-us-west-2.amazonaws.com/static.fantasydata.com/logos/ncaa/0.png,MANC,93
+171,MANH,TRUE,Manhattan,Jaspers,0,6,12,4,5,Metro Atlantic Athletic,https://s3-us-west-2.amazonaws.com/static.fantasydata.com/logos/ncaa/171.png,MANH,487
+1104,MANHV,TRUE,Manhattanville,Valiants,0,0,0,0,0,0,https://s3-us-west-2.amazonaws.com/static.fantasydata.com/logos/ncaa/0.png,MANHV,158
+1295,MANS,FALSE,Mansfield,Mountaineers,0,0,0,0,0,0,https://s3-us-west-2.amazonaws.com/static.fantasydata.com/logos/ncaa/0.png,MANS,23
+862,MARIK,FALSE,Marian,Knights,0,0,0,0,0,0,https://s3-us-west-2.amazonaws.com/static.fantasydata.com/logos/ncaa/0.png,MARI,106
+176,MARIST,TRUE,Marist,Red Foxes,0,7,11,3,6,Metro Atlantic Athletic,https://s3-us-west-2.amazonaws.com/static.fantasydata.com/logos/ncaa/176.png,MARIST,41
+65,MARQ,TRUE,Marquette,Golden Eagles,20,16,5,8,2,Big East,https://s3-us-west-2.amazonaws.com/static.fantasydata.com/logos/ncaa/65.png,MARQ,235
+606,MARS,TRUE,Mars Hill,Lions,0,0,0,0,0,0,https://s3-us-west-2.amazonaws.com/static.fantasydata.com/logos/ncaa/0.png,MARS,90
+136,MARSH,TRUE,Marshall,Thundering Herd,0,17,4,6,2,Sun Belt,https://s3-us-west-2.amazonaws.com/static.fantasydata.com/logos/ncaa/136.png,MARSH,21
+1140,MARB,TRUE,Mary Baldwin,Fighting Squirrels,0,0,0,0,0,0,https://s3-us-west-2.amazonaws.com/static.fantasydata.com/logos/ncaa/0.png,MARB,499
+1040,MHB,TRUE,Mary Hardin-Baylor,Crusaders,0,0,0,0,0,0,https://s3-us-west-2.amazonaws.com/static.fantasydata.com/logos/ncaa/0.png,MHB,491
+92,MARY,TRUE,Maryland,Terrapins,0,12,7,3,5,Big Ten,https://s3-us-west-2.amazonaws.com/static.fantasydata.com/logos/ncaa/92.png,MARY,20
+193,MDES,TRUE,Maryland Eastern Shore,Hawks,0,10,8,3,1,Mid-Eastern,https://s3-us-west-2.amazonaws.com/static.fantasydata.com/logos/ncaa/193.png,MDES,406
+891,MVS,FALSE,Marymount VA,Saints,0,0,0,0,0,0,https://s3-us-west-2.amazonaws.com/static.fantasydata.com/logos/ncaa/0.png,MVS,552
+804,MRYVLS,TRUE,Maryville (MO),Saints,0,0,0,0,0,0,https://s3-us-west-2.amazonaws.com/static.fantasydata.com/logos/ncaa/0.png,MRYVL,338
+884,MRYV,TRUE,Maryville (TN),Fighting Scots,0,0,0,0,0,0,https://s3-us-west-2.amazonaws.com/static.fantasydata.com/logos/ncaa/0.png,MRYV,15
+1201,MCLA,TRUE,Mass College of Liberal Arts,Trailblazers,0,0,0,0,0,0,https://s3-us-west-2.amazonaws.com/static.fantasydata.com/logos/ncaa/0.png,MCLA,445
+55,UMASS,TRUE,Massachusetts,Minutemen,0,11,8,2,5,Atlantic 10,https://s3-us-west-2.amazonaws.com/static.fantasydata.com/logos/ncaa/55.png,UMASS,261
+736,MSBOS,TRUE,Massachusetts-Boston,Beacons,0,0,0,0,0,0,https://s3-us-west-2.amazonaws.com/static.fantasydata.com/logos/ncaa/0.png,MSBOS,307
+16,MASLOW,TRUE,Massachusetts-Lowell,River Hawks,0,17,4,5,2,America East,https://s3-us-west-2.amazonaws.com/static.fantasydata.com/logos/ncaa/16.png,MASLOW,156
+1233,MAST,TRUE,Masters College,Mustangs,0,0,0,0,0,0,https://s3-us-west-2.amazonaws.com/static.fantasydata.com/logos/ncaa/0.png,MAST,416
+490,MYVLST,TRUE,Mayville State,Comets,0,0,0,0,0,0,https://s3-us-west-2.amazonaws.com/static.fantasydata.com/logos/ncaa/0.png,MYVLST,184
+1256,MCDNL,TRUE,McDaniel,Green Terror,0,0,0,0,0,0,https://s3-us-west-2.amazonaws.com/static.fantasydata.com/logos/ncaa/0.png,MCDNL,434
+759,McGi,TRUE,McGill,Redmen,0,0,0,0,0,0,https://s3-us-west-2.amazonaws.com/static.fantasydata.com/logos/ncaa/0.png,McGi,561
+702,MCKEND,TRUE,McKendree,Bearcats,0,0,0,0,0,0,https://s3-us-west-2.amazonaws.com/static.fantasydata.com/logos/ncaa/0.png,MCKEND,16
+748,MCMR,TRUE,McMurry,War Hawks,0,0,0,0,0,0,https://s3-us-west-2.amazonaws.com/static.fantasydata.com/logos/ncaa/0.png,MCMR,104
+299,MCNST,TRUE,McNeese State,Cowboys,0,5,15,2,5,Southland,https://s3-us-west-2.amazonaws.com/static.fantasydata.com/logos/ncaa/299.png,MCNST,370
+640,MEVERS,TRUE,Medgar Evers,Cougars,0,0,0,0,0,0,https://s3-us-west-2.amazonaws.com/static.fantasydata.com/logos/ncaa/0.png,MEVERS,356
+7,MPHS,TRUE,Memphis,Tigers,0,15,5,5,2,American Athletic,https://s3-us-west-2.amazonaws.com/static.fantasydata.com/logos/ncaa/7.png,MEM,113
+645,MENLO,TRUE,Menlo,Oaks,0,0,0,0,0,0,https://s3-us-west-2.amazonaws.com/static.fantasydata.com/logos/ncaa/0.png,MENLO,481
+284,MERC,TRUE,Mercer,Bears,0,9,12,2,6,Southern,https://s3-us-west-2.amazonaws.com/static.fantasydata.com/logos/ncaa/284.png,MERC,530
+1219,MRCM,TRUE,Mercy,Mavericks,0,0,0,0,0,0,https://s3-us-west-2.amazonaws.com/static.fantasydata.com/logos/ncaa/0.png,MRCM,377
+1062,MRCY,TRUE,Mercyhurst,Lakers,0,0,0,0,0,0,https://s3-us-west-2.amazonaws.com/static.fantasydata.com/logos/ncaa/0.png,MRCY,325
+817,MERRI,TRUE,Merrimack College,Warriors,0,6,15,4,3,Northeast,https://s3-us-west-2.amazonaws.com/static.fantasydata.com/logos/ncaa/0.png,MERR,550
+725,METHOD,TRUE,Methodist,Monarchs,0,0,0,0,0,0,https://s3-us-west-2.amazonaws.com/static.fantasydata.com/logos/ncaa/0.png,METHOD,191
+1014,MSR,FALSE,Metropolitan State,Roadrunners,0,0,0,0,0,0,https://s3-us-west-2.amazonaws.com/static.fantasydata.com/logos/ncaa/0.png,MSR,547
+23,MIA,TRUE,Miami (FL),Hurricanes,17,15,4,6,3,Atlantic Coast,https://s3-us-west-2.amazonaws.com/static.fantasydata.com/logos/ncaa/23.png,MIA,17
+182,MIAOH,TRUE,Miami (OH),RedHawks,0,7,12,1,5,Mid-American,https://s3-us-west-2.amazonaws.com/static.fantasydata.com/logos/ncaa/182.png,MIAOH,455
+1175,MIAH,TRUE,Miami-Hamilton,Harriers,0,0,0,0,0,0,https://s3-us-west-2.amazonaws.com/static.fantasydata.com/logos/ncaa/0.png,MIAH,82
+1289,MIAMID,TRUE,Miami-Middletown,ThunderHawks,0,0,0,0,0,0,https://s3-us-west-2.amazonaws.com/static.fantasydata.com/logos/ncaa/0.png,MIAMID,536
+95,MICH,TRUE,Michigan,Wolverines,0,11,8,5,3,Big Ten,https://s3-us-west-2.amazonaws.com/static.fantasydata.com/logos/ncaa/95.png,MICH,124
+885,MDV,TRUE,Michigan Dearborn,Wolverines,0,0,0,0,0,0,https://s3-us-west-2.amazonaws.com/static.fantasydata.com/logos/ncaa/0.png,MDV,256
+97,MST,TRUE,Michigan State,Spartans,0,13,7,5,4,Big Ten,https://s3-us-west-2.amazonaws.com/static.fantasydata.com/logos/ncaa/97.png,MSU,486
+978,MDW,FALSE,Michigan-Dearborn,Wolves,0,0,0,0,0,0,https://s3-us-west-2.amazonaws.com/static.fantasydata.com/logos/ncaa/0.png,MDW,462
+447,MIDAMC,TRUE,Mid-America Christian,Evangels,0,0,0,0,0,0,https://s3-us-west-2.amazonaws.com/static.fantasydata.com/logos/ncaa/0.png,MIDAMC,207
+616,Mid-,TRUE,Mid-Atlantic Christian,Mustangs,0,0,0,0,0,0,https://s3-us-west-2.amazonaws.com/static.fantasydata.com/logos/ncaa/0.png,Mid-,384
+401,MGS,TRUE,Middle Georgia State,Knights,0,0,0,0,0,0,https://s3-us-west-2.amazonaws.com/static.fantasydata.com/logos/ncaa/0.png,MGS,186
+135,MTNST,TRUE,Middle Tennessee,Blue Raiders,0,13,7,6,3,Conference USA,https://s3-us-west-2.amazonaws.com/static.fantasydata.com/logos/ncaa/135.png,MTNST,141
+809,MLCW,TRUE,Midland Lutheran,Warriors,0,0,0,0,0,0,https://s3-us-west-2.amazonaws.com/static.fantasydata.com/logos/ncaa/0.png,MLC,245
+678,Midw,TRUE,Midway,Eagles,0,0,0,0,0,0,https://s3-us-west-2.amazonaws.com/static.fantasydata.com/logos/ncaa/0.png,Midw,64
+1054,MIDWS,TRUE,Midwestern State,Mustangs,0,0,0,0,0,0,https://s3-us-west-2.amazonaws.com/static.fantasydata.com/logos/ncaa/0.png,MIDW,217
+461,MILE,TRUE,Miles,Golden Bears,0,0,0,0,0,0,https://s3-us-west-2.amazonaws.com/static.fantasydata.com/logos/ncaa/0.png,MILE,402
+1169,MIVIL,TRUE,Millersville,Marauders,0,0,0,0,0,0,https://s3-us-west-2.amazonaws.com/static.fantasydata.com/logos/ncaa/0.png,MIVIL,349
+464,MILLIG,TRUE,Milligan,Buffaloes,0,0,0,0,0,0,https://s3-us-west-2.amazonaws.com/static.fantasydata.com/logos/ncaa/0.png,MILLIG,321
+497,MILLSA,TRUE,Millsaps,Majors,0,0,0,0,0,0,https://s3-us-west-2.amazonaws.com/static.fantasydata.com/logos/ncaa/0.png,MILLSA,306
+151,WBD,TRUE,Milwaukee,Panthers,0,14,6,8,2,Horizon League,https://s3-us-west-2.amazonaws.com/static.fantasydata.com/logos/ncaa/151.png,WBD,484
+1275,MSOE,TRUE,Milwaukee School of Engineering,Raiders,0,0,0,0,0,0,https://s3-us-west-2.amazonaws.com/static.fantasydata.com/logos/ncaa/0.png,MSOE,336
+104,MINNST,TRUE,Minnesota,Golden Gophers,0,7,11,1,7,Big Ten,https://s3-us-west-2.amazonaws.com/static.fantasydata.com/logos/ncaa/104.png,MINN,428
+1131,MINDU,TRUE,Minnesota Duluth,Bulldogs,0,0,0,0,0,0,https://s3-us-west-2.amazonaws.com/static.fantasydata.com/logos/ncaa/0.png,MINDU,469
+993,MSM,FALSE,Minnesota State-Mankato,Mavericks,0,0,0,0,0,0,https://s3-us-west-2.amazonaws.com/static.fantasydata.com/logos/ncaa/0.png,MSM,376
+717,MNMO,TRUE,Minnesota-Morris,Cougars,0,0,0,0,0,0,https://s3-us-west-2.amazonaws.com/static.fantasydata.com/logos/ncaa/0.png,MNMO,268
+681,Mise,TRUE,Misericordia,Cougars,0,0,0,0,0,0,https://s3-us-west-2.amazonaws.com/static.fantasydata.com/logos/ncaa/0.png,Mise,534
+768,MISSCO,TRUE,Mississippi College,Choctaws,0,0,0,0,0,0,https://s3-us-west-2.amazonaws.com/static.fantasydata.com/logos/ncaa/0.png,MISSCO,472
+278,MSPST,TRUE,Mississippi State,Bulldogs,0,12,7,1,6,Southeastern,https://s3-us-west-2.amazonaws.com/static.fantasydata.com/logos/ncaa/278.png,MSSTATE,105
+1281,MISSW,TRUE,Mississippi University For Women,Owls,0,0,0,0,0,0,https://s3-us-west-2.amazonaws.com/static.fantasydata.com/logos/ncaa/0.png,MISSW,81
+308,MSVLST,TRUE,Mississippi Valley State,Delta Devils,0,2,19,1,6,Southwestern Athletic,https://s3-us-west-2.amazonaws.com/static.fantasydata.com/logos/ncaa/308.png,MSVSU,175
+280,MISSR,TRUE,Missouri,Tigers,0,14,5,3,4,Southeastern,https://s3-us-west-2.amazonaws.com/static.fantasydata.com/logos/ncaa/280.png,MIZZ,73
+688,MOBAPT,TRUE,Missouri Baptist,Spartans,0,0,0,0,0,0,https://s3-us-west-2.amazonaws.com/static.fantasydata.com/logos/ncaa/0.png,MOBAPT,400
+457,MOSCT,TRUE,Missouri Science & Technology,Miners,0,0,0,0,0,0,https://s3-us-west-2.amazonaws.com/static.fantasydata.com/logos/ncaa/0.png,MOS&T,518
+208,MSRST,TRUE,Missouri State,Bears,0,10,10,6,4,Missouri Valley,https://s3-us-west-2.amazonaws.com/static.fantasydata.com/logos/ncaa/208.png,MSRST,127
+1180,MWSU,FALSE,Missouri Western State,Griffons,0,0,0,0,0,0,https://s3-us-west-2.amazonaws.com/static.fantasydata.com/logos/ncaa/0.png,MWSU,202
+823,UMSLR,FALSE,Missouri-St.Louis,Riverman,0,0,0,0,0,0,https://s3-us-west-2.amazonaws.com/static.fantasydata.com/logos/ncaa/0.png,UMSL,194
+610,MIT,TRUE,MIT,Engineers,0,0,0,0,0,0,https://s3-us-west-2.amazonaws.com/static.fantasydata.com/logos/ncaa/0.png,MIT,482
+1247,MITCH,TRUE,Mitchell College,Mariners,0,0,0,0,0,0,https://s3-us-west-2.amazonaws.com/static.fantasydata.com/logos/ncaa/0.png,MITCH,363
+468,MOBILE,TRUE,Mobile,Rams,0,0,0,0,0,0,https://s3-us-west-2.amazonaws.com/static.fantasydata.com/logos/ncaa/0.png,MOBILE,433
+730,MOLL,TRUE,Molloy,Lions,0,0,0,0,0,0,https://s3-us-west-2.amazonaws.com/static.fantasydata.com/logos/ncaa/0.png,MOLL,537
+166,MONM,TRUE,Monmouth,Hawks,0,1,19,0,7,Colonial Athletic,https://s3-us-west-2.amazonaws.com/static.fantasydata.com/logos/ncaa/166.png,MONM,342
+68,MONT,TRUE,Montana,Grizzlies,0,9,11,3,5,Big Sky,https://s3-us-west-2.amazonaws.com/static.fantasydata.com/logos/ncaa/68.png,MONT,304
+74,MONST,TRUE,Montana State,Bobcats,0,13,8,6,2,Big Sky,https://s3-us-west-2.amazonaws.com/static.fantasydata.com/logos/ncaa/74.png,MONST,179
+1196,MTSTB,FALSE,Montana State-Billings,Yellowjackets,0,0,0,0,0,0,https://s3-us-west-2.amazonaws.com/static.fantasydata.com/logos/ncaa/0.png,MTSTB,214
+784,MSUN,TRUE,Montana State-Northern,Lights,0,0,0,0,0,0,https://s3-us-west-2.amazonaws.com/static.fantasydata.com/logos/ncaa/0.png,MSUN,211
+687,MTTECH,TRUE,Montana Tech,Orediggers,0,0,0,0,0,0,https://s3-us-west-2.amazonaws.com/static.fantasydata.com/logos/ncaa/0.png,MTTECH,67
+411,WMT,TRUE,Montana-Western,Bulldogs,0,0,0,0,0,0,https://s3-us-west-2.amazonaws.com/static.fantasydata.com/logos/ncaa/0.png,WMT,463
+779,MONTE,TRUE,Montevallo,Falcons,0,0,0,0,0,0,https://s3-us-west-2.amazonaws.com/static.fantasydata.com/logos/ncaa/0.png,MONTE,19
+852,MOCO,TRUE,Montreat College,Cavaliers,0,0,0,0,0,0,https://s3-us-west-2.amazonaws.com/static.fantasydata.com/logos/ncaa/0.png,MOCO,149
+1130,MORAV,TRUE,Moravian,Greyhounds,0,0,0,0,0,0,https://s3-us-west-2.amazonaws.com/static.fantasydata.com/logos/ncaa/0.png,MORAV,99
+236,MHST,TRUE,Morehead State,Eagles,0,12,9,5,3,Ohio Valley,https://s3-us-west-2.amazonaws.com/static.fantasydata.com/logos/ncaa/236.png,MHST,122
+988,MORE,TRUE,Morehouse College,Maroon,0,0,0,0,0,0,https://s3-us-west-2.amazonaws.com/static.fantasydata.com/logos/ncaa/0.png,Tigers,107
+199,MORGST,TRUE,Morgan State,Bears,0,10,9,3,1,Mid-Eastern,https://s3-us-west-2.amazonaws.com/static.fantasydata.com/logos/ncaa/199.png,MORGST,345
+841,MORRI,TRUE,Morris College,Hornets,0,0,0,0,0,0,https://s3-us-west-2.amazonaws.com/static.fantasydata.com/logos/ncaa/0.png,MORR,170
+706,MTAL,TRUE,Mount Aloysius,Mounties,0,0,0,0,0,0,https://s3-us-west-2.amazonaws.com/static.fantasydata.com/logos/ncaa/0.png,MTAL,213
+950,MARTY,TRUE,Mount Marty,Lancers,0,0,0,0,0,0,https://s3-us-west-2.amazonaws.com/static.fantasydata.com/logos/ncaa/0.png,MARTY,50
+863,MMCL,FALSE,Mount Mary College,Lancers,0,0,0,0,0,0,https://s3-us-west-2.amazonaws.com/static.fantasydata.com/logos/ncaa/0.png,Lancers,450
+1132,MTOLI,TRUE,Mount Olive,Trojans,0,0,0,0,0,0,https://s3-us-west-2.amazonaws.com/static.fantasydata.com/logos/ncaa/0.png,MTOLI,24
+1290,MSMBK,TRUE,Mount Saint Mary,Blue Knights,0,0,0,0,0,0,https://s3-us-west-2.amazonaws.com/static.fantasydata.com/logos/ncaa/0.png,MSMBK,49
+676,MSV,TRUE,Mount Saint Vincent,Dolphins,0,0,0,0,0,0,https://s3-us-west-2.amazonaws.com/static.fantasydata.com/logos/ncaa/0.png,MSV,37
+226,MSTM,TRUE,Mount St. Mary's,Mountaineers,0,7,13,3,6,Metro Atlantic Athletic,https://s3-us-west-2.amazonaws.com/static.fantasydata.com/logos/ncaa/226.png,MSMU,27
+1306,MUPR,FALSE,Mount Union,Purple Raiders,0,0,0,0,0,0,https://s3-us-west-2.amazonaws.com/static.fantasydata.com/logos/ncaa/0.png,MUPR,446
+1302,MVN,FALSE,Mount Vernon Nazarene,Cougars,0,0,0,0,0,0,https://s3-us-west-2.amazonaws.com/static.fantasydata.com/logos/ncaa/0.png,MVN,464
+975,MSJ,TRUE,Mt. St. Joseph,Lions,0,0,0,0,0,0,https://s3-us-west-2.amazonaws.com/static.fantasydata.com/logos/ncaa/0.png,MSJ,449
+992,MUHL,FALSE,Muhlenberg,Mules,0,0,0,0,0,0,https://s3-us-west-2.amazonaws.com/static.fantasydata.com/logos/ncaa/0.png,MUHL,358
+636,Mult,TRUE,Multnomah,Lions,0,0,0,0,0,0,https://s3-us-west-2.amazonaws.com/static.fantasydata.com/logos/ncaa/0.png,Mult,65
+240,MURST,TRUE,Murray State,Racers,0,11,9,6,4,Missouri Valley,https://s3-us-west-2.amazonaws.com/static.fantasydata.com/logos/ncaa/240.png,MURST,254
+868,MUSK,TRUE,Muskingum,Muskies,0,0,0,0,0,0,https://s3-us-west-2.amazonaws.com/static.fantasydata.com/logos/ncaa/0.png,MUSK,305
+258,NAVY,TRUE,Navy,Midshipmen,0,10,10,3,5,Patriot League,https://s3-us-west-2.amazonaws.com/static.fantasydata.com/logos/ncaa/258.png,NAVY,66
+699,Naza,TRUE,Nazareth College,Golden Flyers,0,0,0,0,0,0,https://s3-us-west-2.amazonaws.com/static.fantasydata.com/logos/ncaa/0.png,Naza,517
+1056,NCPM,FALSE,NC Pembroke,Braves,0,0,0,0,0,0,https://s3-us-west-2.amazonaws.com/static.fantasydata.com/logos/ncaa/0.png,NCPM,277
+99,NEBR,TRUE,Nebraska,Cornhuskers,0,10,10,3,6,Big Ten,https://s3-us-west-2.amazonaws.com/static.fantasydata.com/logos/ncaa/99.png,NEB,58
+810,NEBWESP,TRUE,Nebraska Wesleyan,Prairie Wolves,0,0,0,0,0,0,https://s3-us-west-2.amazonaws.com/static.fantasydata.com/logos/ncaa/0.png,NEBWES,332
+802,NEKEA,TRUE,Nebraska-Kearney,Antelopes,0,0,0,0,0,0,https://s3-us-west-2.amazonaws.com/static.fantasydata.com/logos/ncaa/0.png,NEKE,33
+1124,NEUM,TRUE,Neumann,Knights,0,0,0,0,0,0,https://s3-us-west-2.amazonaws.com/static.fantasydata.com/logos/ncaa/0.png,NEUM,485
+216,NEVADA,TRUE,Nevada,Wolf Pack,0,15,5,5,2,Mountain West,https://s3-us-west-2.amazonaws.com/static.fantasydata.com/logos/ncaa/216.png,NEVADA,111
+1122,NENGD,TRUE,New England,Nor'Easters,0,0,0,0,0,0,https://s3-us-west-2.amazonaws.com/static.fantasydata.com/logos/ncaa/0.png,NENGD,189
+1282,NENGC,FALSE,New England College,Pilgrims,0,0,0,0,0,0,https://s3-us-west-2.amazonaws.com/static.fantasydata.com/logos/ncaa/0.png,NENGC,362
+14,NHAMP,TRUE,New Hampshire,Wildcats,0,8,10,3,3,America East,https://s3-us-west-2.amazonaws.com/static.fantasydata.com/logos/ncaa/14.png,UNH,556
+880,JCSC,FALSE,New Jersey City,Gothic Knights,0,0,0,0,0,0,https://s3-us-west-2.amazonaws.com/static.fantasydata.com/logos/ncaa/0.png,JCSC,40
+214,NMX,TRUE,New Mexico,Lobos,0,18,2,5,2,Mountain West,https://s3-us-west-2.amazonaws.com/static.fantasydata.com/logos/ncaa/214.png,UNM,147
+391,NMH,TRUE,New Mexico Highlands,Cowboys,0,0,0,0,0,0,https://s3-us-west-2.amazonaws.com/static.fantasydata.com/logos/ncaa/391.png,NMH,120
+344,NMXST,TRUE,New Mexico State,Aggies,0,7,13,0,8,Western Athletic,https://s3-us-west-2.amazonaws.com/static.fantasydata.com/logos/ncaa/344.png,NMXST,503
+297,NO,TRUE,New Orleans,Privateers,0,6,12,3,4,Southland,https://s3-us-west-2.amazonaws.com/static.fantasydata.com/logos/ncaa/297.png,NO,466
+787,NYCT,FALSE,New York City Tech,Yellow Jackets,0,0,0,0,0,0,https://s3-us-west-2.amazonaws.com/static.fantasydata.com/logos/ncaa/0.png,NYCT,380
+858,NBRI,TRUE,Newberry,Wolves,0,0,0,0,0,0,https://s3-us-west-2.amazonaws.com/static.fantasydata.com/logos/ncaa/0.png,NBR,424
+608,Newb,TRUE,Newbury,Nighthawks,0,0,0,0,0,0,https://s3-us-west-2.amazonaws.com/static.fantasydata.com/logos/ncaa/0.png,Newb,225
+1066,NEWM,TRUE,Newman,Jets,0,0,0,0,0,0,https://s3-us-west-2.amazonaws.com/static.fantasydata.com/logos/ncaa/0.png,NEWM,12
+918,NEW,TRUE,Newport News Apprentice,Builders,0,0,0,0,0,0,https://s3-us-west-2.amazonaws.com/static.fantasydata.com/logos/ncaa/0.png,NEW,298
+175,NIAGRA,TRUE,Niagara,Purple Eagles,0,10,9,5,5,Metro Atlantic Athletic,https://s3-us-west-2.amazonaws.com/static.fantasydata.com/logos/ncaa/175.png,NIAGRA,357
+302,NICHLS,TRUE,Nicholls,Colonels,0,10,9,5,2,Southland,https://s3-us-west-2.amazonaws.com/static.fantasydata.com/logos/ncaa/302.png,NICHLS,205
+39,NJIT,TRUE,NJIT,Highlanders,0,5,14,2,4,America East,https://s3-us-west-2.amazonaws.com/static.fantasydata.com/logos/ncaa/39.png,NJIT,169
+191,NORFST,TRUE,Norfolk State,Spartans,0,13,6,3,1,Mid-Eastern,https://s3-us-west-2.amazonaws.com/static.fantasydata.com/logos/ncaa/191.png,NORFST,538
+396,NAL,TRUE,North Alabama,Lions,0,11,10,3,5,Atlantic Sun,https://s3-us-west-2.amazonaws.com/static.fantasydata.com/logos/ncaa/396.png,NAL,136
+977,NAS,TRUE,North American,Stallions,0,0,0,0,0,0,https://s3-us-west-2.amazonaws.com/static.fantasydata.com/logos/ncaa/0.png,NAS,247
+21,NCAR,TRUE,North Carolina,Tar Heels,0,14,6,6,3,Atlantic Coast,https://s3-us-west-2.amazonaws.com/static.fantasydata.com/logos/ncaa/21.png,UNC,408
+196,NCAT,TRUE,North Carolina A&T,Aggies,0,10,12,5,4,Colonial Athletic,https://s3-us-west-2.amazonaws.com/static.fantasydata.com/logos/ncaa/196.png,NCAT,431
+197,NCC,TRUE,North Carolina Central,Eagles,0,10,8,3,1,Mid-Eastern,https://s3-us-west-2.amazonaws.com/static.fantasydata.com/logos/ncaa/197.png,NCC,359
+33,NCST,TRUE,North Carolina State,Wolfpack,0,15,5,5,4,Atlantic Coast,https://s3-us-west-2.amazonaws.com/static.fantasydata.com/logos/ncaa/33.png,NCSU,185
+465,NCWESL,TRUE,North Carolina Wesleyan,Battling Bishops,0,0,0,0,0,0,https://s3-us-west-2.amazonaws.com/static.fantasydata.com/logos/ncaa/0.png,NCWESL,344
+937,NORTH,FALSE,North Central,Cardinals,0,0,0,0,0,0,https://s3-us-west-2.amazonaws.com/static.fantasydata.com/logos/ncaa/0.png,NORTH,138
+964,NCMN,TRUE,North Central (MN),Rams,0,0,0,0,0,0,https://s3-us-west-2.amazonaws.com/static.fantasydata.com/logos/ncaa/0.png,NCMN,125
+1008,NCCC,FALSE,North Central College (IL),Cardinals,0,0,0,0,0,0,https://s3-us-west-2.amazonaws.com/static.fantasydata.com/logos/ncaa/0.png,NCCC,566
+71,NDAK,TRUE,North Dakota,Fighting Hawks,0,7,14,1,7,Summit,https://s3-us-west-2.amazonaws.com/static.fantasydata.com/logos/ncaa/71.png,UND,437
+318,NDKST,TRUE,North Dakota State,Bison,0,8,13,5,4,Summit,https://s3-us-west-2.amazonaws.com/static.fantasydata.com/logos/ncaa/318.png,NDKST,137
+36,NFL,TRUE,North Florida,Ospreys,0,8,12,3,5,Atlantic Sun,https://s3-us-west-2.amazonaws.com/static.fantasydata.com/logos/ncaa/36.png,NFL,176
+1033,NG,TRUE,North Georgia,Saints,0,0,0,0,0,0,https://s3-us-west-2.amazonaws.com/static.fantasydata.com/logos/ncaa/0.png,NG,456
+711,NGVILL,TRUE,North Greenville,Crusaders,0,0,0,0,0,0,https://s3-us-west-2.amazonaws.com/static.fantasydata.com/logos/ncaa/0.png,NGVILL,535
+667,NOPA,TRUE,North Park,Vikings,0,0,0,0,0,0,https://s3-us-west-2.amazonaws.com/static.fantasydata.com/logos/ncaa/667.png,NOPA,313
+141,NTX,TRUE,North Texas,Mean Green,0,16,5,7,3,Conference USA,https://s3-us-west-2.amazonaws.com/static.fantasydata.com/logos/ncaa/141.png,NTX,11
+1202,UNTD,TRUE,North Texas-Dallas,Trailblazers,0,0,0,0,0,0,https://s3-us-west-2.amazonaws.com/static.fantasydata.com/logos/ncaa/0.png,UNTD,135
+131,NEAST,TRUE,Northeastern,Huskies,0,8,11,4,4,Colonial Athletic,https://s3-us-west-2.amazonaws.com/static.fantasydata.com/logos/ncaa/131.png,NEAST,68
+1100,NESTST,TRUE,Northeastern State,RiverHawks,0,0,0,0,0,0,https://s3-us-west-2.amazonaws.com/static.fantasydata.com/logos/ncaa/0.png,NESTST,432
+79,NARZ,TRUE,Northern Arizona,Lumberjacks,0,5,16,1,7,Big Sky,https://s3-us-west-2.amazonaws.com/static.fantasydata.com/logos/ncaa/79.png,NARZ,427
+75,NCOL,TRUE,Northern Colorado,Bears,0,7,13,2,6,Big Sky,https://s3-us-west-2.amazonaws.com/static.fantasydata.com/logos/ncaa/75.png,UNCO,165
+186,NILL,TRUE,Northern Illinois,Huskies,0,7,12,3,3,Mid-American,https://s3-us-west-2.amazonaws.com/static.fantasydata.com/logos/ncaa/186.png,NIU,121
+206,NIOWA,TRUE,Northern Iowa,Panthers,0,11,9,7,3,Missouri Valley,https://s3-us-west-2.amazonaws.com/static.fantasydata.com/logos/ncaa/206.png,UNI,504
+154,NKENT,TRUE,Northern Kentucky,Norse,0,13,8,8,2,Horizon League,https://s3-us-west-2.amazonaws.com/static.fantasydata.com/logos/ncaa/154.png,NKENT,501
+777,NMU,TRUE,Northern Michigan,Wildcats,0,0,0,0,0,0,https://s3-us-west-2.amazonaws.com/static.fantasydata.com/logos/ncaa/0.png,NMU,289
+861,NNME,TRUE,Northern New Mexico,Eagles,0,0,0,0,0,0,https://s3-us-west-2.amazonaws.com/static.fantasydata.com/logos/ncaa/0.png,NNM,85
+704,LYND,TRUE,Northern Vermont,Hornets,0,0,0,0,0,0,https://s3-us-west-2.amazonaws.com/static.fantasydata.com/logos/ncaa/0.png,LYND,454
+1222,NRVJ,TRUE,Northern Vermont-Johnson,Badgers,0,0,0,0,0,0,https://s3-us-west-2.amazonaws.com/static.fantasydata.com/logos/ncaa/0.png,NRVJ,264
+494,NLAND,TRUE,Northland,LumberJacks,0,0,0,0,0,0,https://s3-us-west-2.amazonaws.com/static.fantasydata.com/logos/ncaa/0.png,NLAND,353
+480,NWCOLL,TRUE,Northwest,Eagles,0,0,0,0,0,0,https://s3-us-west-2.amazonaws.com/static.fantasydata.com/logos/ncaa/0.png,NWCOLL,280
+1232,NWIN,TRUE,Northwest Indian,Eagles,0,0,0,0,0,0,https://s3-us-west-2.amazonaws.com/static.fantasydata.com/logos/ncaa/0.png,NWIN,562
+1102,NMSU,FALSE,Northwest Missouri State University,Bearcats,0,0,0,0,0,0,https://s3-us-west-2.amazonaws.com/static.fantasydata.com/logos/ncaa/0.png,NMSU,404
+738,NWNAZA,TRUE,Northwest Nazarene,Nighthawks,0,0,0,0,0,0,https://s3-us-west-2.amazonaws.com/static.fantasydata.com/logos/ncaa/0.png,NWNAZA,401
+100,NW,TRUE,Northwestern,Wildcats,0,12,5,3,3,Big Ten,https://s3-us-west-2.amazonaws.com/static.fantasydata.com/logos/ncaa/100.png,NWU,52
+501,NWOHIO,TRUE,Northwestern Ohio,Racers,0,0,0,0,0,0,https://s3-us-west-2.amazonaws.com/static.fantasydata.com/logos/ncaa/0.png,NWOHIO,119
+393,NWOST,FALSE,Northwestern Oklahoma State,Rangers,0,0,0,0,0,0,https://s3-us-west-2.amazonaws.com/static.fantasydata.com/logos/ncaa/393.png,NWOST,171
+301,NWST,TRUE,Northwestern State,Demons,0,12,8,4,3,Southland,https://s3-us-west-2.amazonaws.com/static.fantasydata.com/logos/ncaa/301.png,NWST,394
+1012,NTHW,TRUE,Northwood,Timberwolves,0,0,0,0,0,0,https://s3-us-west-2.amazonaws.com/static.fantasydata.com/logos/ncaa/0.png,NTHW,369
+25,ND,TRUE,Notre Dame,Fighting Irish,0,9,11,1,8,Atlantic Coast,https://s3-us-west-2.amazonaws.com/static.fantasydata.com/logos/ncaa/25.png,ND,308
+481,NDOH,TRUE,Notre Dame College of Ohio,Falcons,0,0,0,0,0,0,https://s3-us-west-2.amazonaws.com/static.fantasydata.com/logos/ncaa/0.png,NDOH,281
+906,NDM,TRUE,Notre Dame de Namur,Argonauts,0,0,0,0,0,0,https://s3-us-west-2.amazonaws.com/static.fantasydata.com/logos/ncaa/0.png,NDM,47
+833,NDMG,FALSE,Notre Dame of Maryland,Gators,0,0,0,0,0,0,https://s3-us-west-2.amazonaws.com/static.fantasydata.com/logos/ncaa/0.png,NDM,76
+1111,NYAC,TRUE,Nyack College,Warriors,0,0,0,0,0,0,https://s3-us-west-2.amazonaws.com/static.fantasydata.com/logos/ncaa/0.png,NYAC,343
+713,NYIT,TRUE,NYIT,Bears,0,0,0,0,0,0,https://s3-us-west-2.amazonaws.com/static.fantasydata.com/logos/ncaa/0.png,NYIT,86
+1021,OHC,FALSE,Oak Hill Christian,Wolfpack,0,0,0,0,0,0,https://s3-us-west-2.amazonaws.com/static.fantasydata.com/logos/ncaa/0.png,OHC,458
+149,OAK,TRUE,Oakland,Golden Grizzlies,0,8,12,6,3,Horizon League,https://s3-us-west-2.amazonaws.com/static.fantasydata.com/logos/ncaa/149.png,OAK,7
+623,OAKLCT,TRUE,Oakland City,Mighty Oaks,0,0,0,0,0,0,https://s3-us-west-2.amazonaws.com/static.fantasydata.com/logos/ncaa/0.png,OAKLCT,287
+859,OAKA,TRUE,Oakwood,Ambassadors,0,0,0,0,0,0,https://s3-us-west-2.amazonaws.com/static.fantasydata.com/logos/ncaa/0.png,OAKW,460
+756,OBER,TRUE,Oberlin College,Yeomen,0,0,0,0,0,0,https://s3-us-west-2.amazonaws.com/static.fantasydata.com/logos/ncaa/0.png,OBER,350
+1262,OCDN,TRUE,Occidental,Tigers,0,0,0,0,0,0,https://s3-us-west-2.amazonaws.com/static.fantasydata.com/logos/ncaa/0.png,OCDN,74
+643,OGLE,TRUE,Oglethorpe,Stormy Petrels,0,0,0,0,0,0,https://s3-us-west-2.amazonaws.com/static.fantasydata.com/logos/ncaa/0.png,OGLE,327
+180,OHIO,TRUE,Ohio,Bobcats,0,10,9,2,4,Mid-American,https://s3-us-west-2.amazonaws.com/static.fantasydata.com/logos/ncaa/180.png,OHIO,367
+774,OCHIL,TRUE,Ohio Chillicothe,Hilltoppers,0,0,0,0,0,0,https://s3-us-west-2.amazonaws.com/static.fantasydata.com/logos/ncaa/0.png,OCHIL,555
+1203,OHCHR,TRUE,Ohio Christian,Trailblazers,0,0,0,0,0,0,https://s3-us-west-2.amazonaws.com/static.fantasydata.com/logos/ncaa/0.png,OHCHR,297
+1270,OHIOD,TRUE,Ohio Dominican,Panthers,0,0,0,0,0,0,https://s3-us-west-2.amazonaws.com/static.fantasydata.com/logos/ncaa/0.png,OHIOD,442
+935,OHNO,TRUE,Ohio Northern,Polar Bears,0,0,0,0,0,0,https://s3-us-west-2.amazonaws.com/static.fantasydata.com/logos/ncaa/0.png,OHNO,143
+98,OHIOST,TRUE,Ohio State,Buckeyes,0,11,8,3,5,Big Ten,https://s3-us-west-2.amazonaws.com/static.fantasydata.com/logos/ncaa/98.png,OSU,55
+1158,OHVY,TRUE,Ohio Valley,Fighting Scots,0,0,0,0,0,0,https://s3-us-west-2.amazonaws.com/static.fantasydata.com/logos/ncaa/0.png,OHVY,396
+1152,OHWES,TRUE,Ohio Wesleyan,Battling Bishops,0,0,0,0,0,0,https://s3-us-west-2.amazonaws.com/static.fantasydata.com/logos/ncaa/0.png,OHWES,453
+1258,OKBP,TRUE,OK Baptist,Prophets,0,0,0,0,0,0,https://s3-us-west-2.amazonaws.com/static.fantasydata.com/logos/ncaa/0.png,OKBP,274
+105,OKL,TRUE,Oklahoma,Sooners,0,11,8,2,5,Big 12,https://s3-us-west-2.amazonaws.com/static.fantasydata.com/logos/ncaa/105.png,OU,182
+1003,OBB,TRUE,Oklahoma Baptist,Bison,0,0,0,0,0,0,https://s3-us-west-2.amazonaws.com/static.fantasydata.com/logos/ncaa/1003.png,OBB,54
+979,OCE,TRUE,Oklahoma Christian,Eagles,0,0,0,0,0,0,https://s3-us-west-2.amazonaws.com/static.fantasydata.com/logos/ncaa/0.png,OCE,1
+113,OKST,TRUE,Oklahoma State,Cowboys,0,11,8,3,4,Big 12,https://s3-us-west-2.amazonaws.com/static.fantasydata.com/logos/ncaa/113.png,OKST,84
+138,OLD,TRUE,Old Dominion,Monarchs,0,11,9,3,5,Sun Belt,https://s3-us-west-2.amazonaws.com/static.fantasydata.com/logos/ncaa/138.png,OLD,187
+274,MISS,TRUE,Ole Miss,Rebels,0,9,10,1,6,Southeastern,https://s3-us-west-2.amazonaws.com/static.fantasydata.com/logos/ncaa/274.png,OLEMISS,216
+832,OLIVE,TRUE,Olivet College,Comets,0,0,0,0,0,0,https://s3-us-west-2.amazonaws.com/static.fantasydata.com/logos/ncaa/0.png,OLIV,290
+898,Olivet,FALSE,Olivet Nazarene,Tigers,0,0,0,0,0,0,https://s3-us-west-2.amazonaws.com/static.fantasydata.com/logos/ncaa/0.png,Olivet,521
+316,NEOM,TRUE,Omaha,Mavericks,0,7,14,3,6,Summit,https://s3-us-west-2.amazonaws.com/static.fantasydata.com/logos/ncaa/316.png,OMAHA,221
+320,ORAL,TRUE,Oral Roberts,Golden Eagles,0,17,4,8,0,Summit,https://s3-us-west-2.amazonaws.com/static.fantasydata.com/logos/ncaa/320.png,ORAL,172
+245,ORE,TRUE,Oregon,Ducks,0,11,9,5,4,Pac-12,https://s3-us-west-2.amazonaws.com/static.fantasydata.com/logos/ncaa/245.png,OREGON,206
+252,OREGST,TRUE,Oregon State,Beavers,0,8,12,2,7,Pac-12,https://s3-us-west-2.amazonaws.com/static.fantasydata.com/logos/ncaa/252.png,ORSTU,557
+1160,OT,FALSE,Oregon Tech,Hustlin' Owls,0,0,0,0,0,0,https://s3-us-west-2.amazonaws.com/static.fantasydata.com/logos/ncaa/0.png,ORETECH,257
+1226,OSWS,TRUE,Oswego State,Lakers,0,0,0,0,0,0,https://s3-us-west-2.amazonaws.com/static.fantasydata.com/logos/ncaa/0.png,OSWS,70
+870,OTAZ,TRUE,Ottawa (AZ),Spirit,0,0,0,0,0,0,https://s3-us-west-2.amazonaws.com/static.fantasydata.com/logos/ncaa/0.png,OTAZ,385
+1250,OTTBN,TRUE,Otterbein,Cardinals,0,0,0,0,0,0,https://s3-us-west-2.amazonaws.com/static.fantasydata.com/logos/ncaa/0.png,OTTBN,244
+1229,OCHT,TRUE,Ouachita Baptist,Tigers,0,0,0,0,0,0,https://s3-us-west-2.amazonaws.com/static.fantasydata.com/logos/ncaa/0.png,OCHT,63
+660,OLLU,TRUE,Our Lady of the Lake,Saints,0,0,0,0,0,0,https://s3-us-west-2.amazonaws.com/static.fantasydata.com/logos/ncaa/0.png,OLLU,371
+1300,UOZC,TRUE,Ozark Christian,Ambassadors,0,0,0,0,0,0,https://s3-us-west-2.amazonaws.com/static.fantasydata.com/logos/ncaa/0.png,UOZC,531
+339,PACFC,TRUE,Pacific,Tigers,0,10,12,3,4,West Coast,https://s3-us-west-2.amazonaws.com/static.fantasydata.com/logos/ncaa/339.png,PACFC,559
+883,PACOR,FALSE,Pacific (OR),Boxers,0,0,0,0,0,0,https://s3-us-west-2.amazonaws.com/static.fantasydata.com/logos/ncaa/0.png,PACOR,38
+904,PLL,TRUE,Pacific Lutheran,Lutes,0,0,0,0,0,0,https://s3-us-west-2.amazonaws.com/static.fantasydata.com/logos/ncaa/0.png,PLL,153
+920,PACI,TRUE,Pacific Union,Pioneers,0,0,0,0,0,0,https://s3-us-west-2.amazonaws.com/static.fantasydata.com/logos/ncaa/0.png,PACI,409
+875,PAIN,TRUE,Paine,Lions,0,0,0,0,0,0,https://s3-us-west-2.amazonaws.com/static.fantasydata.com/logos/ncaa/0.png,PAIN,210
+732,PBAC,TRUE,Palm Beach Atlantic,Sailfish,0,0,0,0,0,0,https://s3-us-west-2.amazonaws.com/static.fantasydata.com/logos/ncaa/0.png,PBAC,128
+1049,PUG,TRUE,Park-Gilbert,Buccaneers,0,0,0,0,0,0,https://s3-us-west-2.amazonaws.com/static.fantasydata.com/logos/ncaa/0.png,PUG,36
+843,PQT,TRUE,Paul Quinn,Tigers,0,0,0,0,0,0,https://s3-us-west-2.amazonaws.com/static.fantasydata.com/logos/ncaa/0.png,PQ,470
+161,PENN,TRUE,Penn,Quakers,0,9,11,2,4,Ivy League,https://s3-us-west-2.amazonaws.com/static.fantasydata.com/logos/ncaa/161.png,UPENN,468
+101,PENNST,TRUE,Penn State,Nittany Lions,0,13,6,4,4,Big Ten,https://s3-us-west-2.amazonaws.com/static.fantasydata.com/logos/ncaa/101.png,PSU,230
+1157,PSALG,TRUE,Penn State-Allegheny,Nittany Lions,0,0,0,0,0,0,https://s3-us-west-2.amazonaws.com/static.fantasydata.com/logos/ncaa/0.png,PSALG,267
+1304,PSALT,FALSE,Penn State-Altoona,Nittany Lions,0,0,0,0,0,0,https://s3-us-west-2.amazonaws.com/static.fantasydata.com/logos/ncaa/0.png,PSALT,238
+1287,PSBEV,FALSE,Penn State-Beaver,Nittany Lions,0,0,0,0,0,0,https://s3-us-west-2.amazonaws.com/static.fantasydata.com/logos/ncaa/0.png,PSBEV,39
+1165,PSBEH,TRUE,Penn State-Behrend,Lions,0,0,0,0,0,0,https://s3-us-west-2.amazonaws.com/static.fantasydata.com/logos/ncaa/0.png,PSBEH,505
+1254,PENNK,TRUE,Penn State-New Kensington,Nittany Lions,0,0,0,0,0,0,https://s3-us-west-2.amazonaws.com/static.fantasydata.com/logos/ncaa/0.png,PENNK,560
+775,PSWB,TRUE,Penn State-Wilkes-Barre,Nittany Lions,0,0,0,0,0,0,https://s3-us-west-2.amazonaws.com/static.fantasydata.com/logos/ncaa/0.png,PS W-B,236
+986,PSY,TRUE,Penn State-York,Nittany Lions,0,0,0,0,0,0,https://s3-us-west-2.amazonaws.com/static.fantasydata.com/logos/ncaa/0.png,PSY,423
+684,Pens,TRUE,Pensacola Christian College,Eagles,0,0,0,0,0,0,https://s3-us-west-2.amazonaws.com/static.fantasydata.com/logos/ncaa/0.png,Pens,237
+337,PEPP,TRUE,Pepperdine,Waves,0,7,14,0,7,West Coast,https://s3-us-west-2.amazonaws.com/static.fantasydata.com/logos/ncaa/337.png,PEPP,429
+838,PERUB,TRUE,Peru State College,Bobcats,0,0,0,0,0,0,https://s3-us-west-2.amazonaws.com/static.fantasydata.com/logos/ncaa/0.png,PER,56
+694,PFEIFR,TRUE,Pfeiffer,Falcons,0,0,0,0,0,0,https://s3-us-west-2.amazonaws.com/static.fantasydata.com/logos/ncaa/0.png,PFEIFR,161
+881,PHCH,FALSE,Philadelphia,Chestnut,0,0,0,0,0,0,https://s3-us-west-2.amazonaws.com/static.fantasydata.com/logos/ncaa/0.png,PHCH,303
+869,PHS,TRUE,Philander Smith,Panthers,0,0,0,0,0,0,https://s3-us-west-2.amazonaws.com/static.fantasydata.com/logos/ncaa/0.png,PHS,348
+922,PHO,FALSE,Phoenix,Saguaic,0,0,0,0,0,0,https://s3-us-west-2.amazonaws.com/static.fantasydata.com/logos/ncaa/0.png,PHO,405
+488,PIEDMO,TRUE,Piedmont,Lions,0,0,0,0,0,0,https://s3-us-west-2.amazonaws.com/static.fantasydata.com/logos/ncaa/0.png,PIEDMO,443
+908,PIKE,FALSE,Pikeville,Bears,0,0,0,0,0,0,https://s3-us-west-2.amazonaws.com/static.fantasydata.com/logos/ncaa/0.png,PIKE,167
+405,PINE,TRUE,Pine Manor,Gators,0,0,0,0,0,0,https://s3-us-west-2.amazonaws.com/static.fantasydata.com/logos/ncaa/0.png,PINE,258
+1261,PTBGS,TRUE,Pittsburg State,Gorillas,0,0,0,0,0,0,https://s3-us-west-2.amazonaws.com/static.fantasydata.com/logos/ncaa/0.png,PTBGS,273
+28,PITT,TRUE,Pittsburgh,Panthers,0,13,7,6,3,Atlantic Coast,https://s3-us-west-2.amazonaws.com/static.fantasydata.com/logos/ncaa/28.png,PITT,108
+1252,PITTG,TRUE,Pittsburgh-Greensburg,Bobcats,0,0,0,0,0,0,https://s3-us-west-2.amazonaws.com/static.fantasydata.com/logos/ncaa/0.png,PITTG,540
+848,PJMC,FALSE,Pittsburgh-Johnstown,Mountain Cats,0,0,0,0,0,0,https://s3-us-west-2.amazonaws.com/static.fantasydata.com/logos/ncaa/0.png,PJ,132
+1076,POINT,TRUE,Point,Skyhawks,0,0,0,0,0,0,https://s3-us-west-2.amazonaws.com/static.fantasydata.com/logos/ncaa/0.png,POINT,200
+991,PLN,FALSE,Point Loma Nazarene,Sea Lions,0,0,0,0,0,0,https://s3-us-west-2.amazonaws.com/static.fantasydata.com/logos/ncaa/0.png,PLN,375
+1031,PPU,TRUE,Point Park,Pioneers,0,0,0,0,0,0,https://s3-us-west-2.amazonaws.com/static.fantasydata.com/logos/ncaa/0.png,PPU,525
+912,POLY,TRUE,Polytechnic,Polytech,0,0,0,0,0,0,https://s3-us-west-2.amazonaws.com/static.fantasydata.com/logos/ncaa/0.png,POLY,269
+340,PORT,TRUE,Portland,Pilots,0,11,11,3,4,West Coast,https://s3-us-west-2.amazonaws.com/static.fantasydata.com/logos/ncaa/340.png,PORT,246
+419,PORTBI,TRUE,Portland Bible,Wildcats,0,0,0,0,0,0,https://s3-us-west-2.amazonaws.com/static.fantasydata.com/logos/ncaa/0.png,PORTB,497
+76,PORTST,TRUE,Portland State,Vikings,0,9,11,3,4,Big Sky,https://s3-us-west-2.amazonaws.com/static.fantasydata.com/logos/ncaa/76.png,PORTST,148
+313,PVAM,TRUE,Prairie View A&M,Panthers,0,7,13,3,4,Southwestern Athletic,https://s3-us-west-2.amazonaws.com/static.fantasydata.com/logos/ncaa/313.png,PVAM,461
+89,PRESB,TRUE,Presbyterian,Blue Hose,0,5,16,1,7,Big South,https://s3-us-west-2.amazonaws.com/static.fantasydata.com/logos/ncaa/89.png,PRESB,339
+675,Pres,TRUE,Presentation,Saints,0,0,0,0,0,0,https://s3-us-west-2.amazonaws.com/static.fantasydata.com/logos/ncaa/0.png,Pres,533
+160,PRNCE,TRUE,Princeton,Tigers,0,14,5,5,1,Ivy League,https://s3-us-west-2.amazonaws.com/static.fantasydata.com/logos/ncaa/160.png,PRNCE,151
+63,PROV,TRUE,Providence,Friars,22,15,5,7,2,Big East,https://s3-us-west-2.amazonaws.com/static.fantasydata.com/logos/ncaa/63.png,PROV,263
+1237,PRVD,TRUE,Providence (MT),Argos,0,0,0,0,0,0,https://s3-us-west-2.amazonaws.com/static.fantasydata.com/logos/ncaa/0.png,PRVD,251
+654,UPS,TRUE,Puget Sound,Loggers,0,0,0,0,0,0,https://s3-us-west-2.amazonaws.com/static.fantasydata.com/logos/ncaa/0.png,UPS,295
+815,PURPAN,TRUE,Purchase,Panthers,0,0,0,0,0,0,https://s3-us-west-2.amazonaws.com/static.fantasydata.com/logos/ncaa/0.png,SUNYP,78
+94,PUR,TRUE,Purdue,Boilermakers,3,19,1,8,1,Big Ten,https://s3-us-west-2.amazonaws.com/static.fantasydata.com/logos/ncaa/94.png,PUR,509
+315,IPFW,TRUE,Purdue Fort Wayne,Mastodons,0,13,8,5,5,Horizon League,https://s3-us-west-2.amazonaws.com/static.fantasydata.com/logos/ncaa/315.png,IPFW,6
+747,PUCA,TRUE,Purdue Northwest,Pride,0,0,0,0,0,0,https://s3-us-west-2.amazonaws.com/static.fantasydata.com/logos/ncaa/0.png,PUCA,114
+962,QUEEN,TRUE,Queens (NC),Royals,0,13,8,3,5,Atlantic Sun,https://s3-us-west-2.amazonaws.com/static.fantasydata.com/logos/ncaa/0.png,QUEEN,10
+701,QNS,TRUE,Queens College,Knights,0,0,0,0,0,0,https://s3-us-west-2.amazonaws.com/static.fantasydata.com/logos/ncaa/0.png,QNS,234
+682,QNCY,TRUE,Quincy,Hawks,0,0,0,0,0,0,https://s3-us-west-2.amazonaws.com/static.fantasydata.com/logos/ncaa/0.png,QNCY,422
+174,QUIN,TRUE,Quinnipiac,Bobcats,0,15,5,6,3,Metro Atlantic Athletic,https://s3-us-west-2.amazonaws.com/static.fantasydata.com/logos/ncaa/174.png,QUIN,355
+86,RADF,TRUE,Radford,Highlanders,0,12,9,6,2,Big South,https://s3-us-west-2.amazonaws.com/static.fantasydata.com/logos/ncaa/86.png,RADF,502
+963,RAN,TRUE,Randall,Saints,0,0,0,0,0,0,https://s3-us-west-2.amazonaws.com/static.fantasydata.com/logos/ncaa/0.png,RAN,22
+617,RAND,TRUE,Randolph College,Wildcats,0,0,0,0,0,0,https://s3-us-west-2.amazonaws.com/static.fantasydata.com/logos/ncaa/0.png,RAND,4
+928,RED,TRUE,Redlands,Bulldogs,0,0,0,0,0,0,https://s3-us-west-2.amazonaws.com/static.fantasydata.com/logos/ncaa/0.png,RED,241
+417,REGEN,TRUE,Regent,Royals,0,0,0,0,0,0,https://s3-us-west-2.amazonaws.com/static.fantasydata.com/logos/ncaa/0.png,REGEN,102
+1010,RUR,TRUE,Regis,Rangers,0,0,0,0,0,0,https://s3-us-west-2.amazonaws.com/static.fantasydata.com/logos/ncaa/0.png,RUR,333
+1144,REGC,TRUE,Regis College,Pride,0,0,0,0,0,0,https://s3-us-west-2.amazonaws.com/static.fantasydata.com/logos/ncaa/0.png,REGC,71
+420,REIN,TRUE,Reinhardt,Eagles,0,0,0,0,0,0,https://s3-us-west-2.amazonaws.com/static.fantasydata.com/logos/ncaa/0.png,REIN,524
+50,RI,TRUE,Rhode Island,Rams,0,6,13,2,5,Atlantic 10,https://s3-us-west-2.amazonaws.com/static.fantasydata.com/logos/ncaa/50.png,URI,495
+1039,RIC,TRUE,Rhode Island College,Anchormen,0,0,0,0,0,0,https://s3-us-west-2.amazonaws.com/static.fantasydata.com/logos/ncaa/0.png,RIC,89
+893,Rhode,TRUE,Rhodes College,Lynx,0,0,0,0,0,0,https://s3-us-west-2.amazonaws.com/static.fantasydata.com/logos/ncaa/0.png,Rhode,539
+146,RICE,TRUE,Rice,Owls,0,14,5,5,3,Conference USA,https://s3-us-west-2.amazonaws.com/static.fantasydata.com/logos/ncaa/146.png,RICE,227
+52,RICH,TRUE,Richmond,Spiders,0,11,9,4,3,Atlantic 10,https://s3-us-west-2.amazonaws.com/static.fantasydata.com/logos/ncaa/52.png,RICH,448
+173,RIDER,TRUE,Rider,Broncs,0,9,9,6,3,Metro Atlantic Athletic,https://s3-us-west-2.amazonaws.com/static.fantasydata.com/logos/ncaa/173.png,RIDER,519
+949,RIO,TRUE,Rio Grande ,Red Storm,0,0,0,0,0,0,https://s3-us-west-2.amazonaws.com/static.fantasydata.com/logos/ncaa/0.png,RIO,97
+1239,RIT,TRUE,RIT,Tigers,0,0,0,0,0,0,https://s3-us-west-2.amazonaws.com/static.fantasydata.com/logos/ncaa/0.png,RIT,283
+612,Rivi,TRUE,Rivier,Raiders,0,0,0,0,0,0,https://s3-us-west-2.amazonaws.com/static.fantasydata.com/logos/ncaa/0.png,Rivi,302
+230,ROBMS,TRUE,Robert Morris,Colonials,0,9,12,4,6,Horizon League,https://s3-us-west-2.amazonaws.com/static.fantasydata.com/logos/ncaa/230.png,RMU,410
+1251,RCHST,TRUE,Rochester,Yellowjackets,0,0,0,0,0,0,https://s3-us-west-2.amazonaws.com/static.fantasydata.com/logos/ncaa/0.png,RCHST,480
+605,ROCHMI,TRUE,Rochester (MI),Warriors,0,0,0,0,0,0,https://s3-us-west-2.amazonaws.com/static.fantasydata.com/logos/ncaa/0.png,ROCHMI,249
+626,RCKFRD,TRUE,Rockford,Regents,0,0,0,0,0,0,https://s3-us-west-2.amazonaws.com/static.fantasydata.com/logos/ncaa/0.png,RCKFRD,354
+844,ROCKH,FALSE,Rockhurst,Hawks,0,0,0,0,0,0,https://s3-us-west-2.amazonaws.com/static.fantasydata.com/logos/ncaa/0.png,ROCK,61
+914,ROCKY,TRUE,Rocky,Mountain Bears,0,0,0,0,0,0,https://s3-us-west-2.amazonaws.com/static.fantasydata.com/logos/ncaa/0.png,ROCKY,112
+926,ROGERS,TRUE,Rogers State,Hillcats,0,0,0,0,0,0,https://s3-us-west-2.amazonaws.com/static.fantasydata.com/logos/ncaa/0.png,ROGERS,275
+1129,ROOS,TRUE,Roosevelt,Lakers,0,0,0,0,0,0,https://s3-us-west-2.amazonaws.com/static.fantasydata.com/logos/ncaa/0.png,ROOS,421
+518,ROSEM,TRUE,Rosemont College,Ravens,0,0,0,0,0,0,https://s3-us-west-2.amazonaws.com/static.fantasydata.com/logos/ncaa/0.png,ROSEM,310
+415,RUST,TRUE,Rust College,Bearcats,0,0,0,0,0,0,https://s3-us-west-2.amazonaws.com/static.fantasydata.com/logos/ncaa/0.png,RUST,413
+103,RUTGER,TRUE,Rutgers,Scarlet Knights,23,13,6,5,3,Big Ten,https://s3-us-west-2.amazonaws.com/static.fantasydata.com/logos/ncaa/103.png,RUTGERS,118
+1016,RUTC,TRUE,Rutgers-Camden,Scarlet Raptors,0,0,0,0,0,0,https://s3-us-west-2.amazonaws.com/static.fantasydata.com/logos/ncaa/0.png,RUTC,5
+77,SACST,TRUE,Sacramento State,Hornets,0,11,9,4,3,Big Sky,https://s3-us-west-2.amazonaws.com/static.fantasydata.com/logos/ncaa/77.png,SACST,152
+227,SACRED,TRUE,Sacred Heart,Pioneers,0,11,11,4,3,Northeast,https://s3-us-west-2.amazonaws.com/static.fantasydata.com/logos/ncaa/0.png,SACRED,139
+1109,SAGV,TRUE,Saginaw Valley,Cardinals,0,0,0,0,0,0,https://s3-us-west-2.amazonaws.com/static.fantasydata.com/logos/ncaa/0.png,SAGV,419
+943,SAGU,TRUE,SAGU American Indian College,Warriors,0,0,0,0,0,0,https://s3-us-west-2.amazonaws.com/static.fantasydata.com/logos/ncaa/0.png,SAGU,389
+225,STFPA,TRUE,Saint Francis U,Red Flash,0,8,11,5,1,Northeast,https://s3-us-west-2.amazonaws.com/static.fantasydata.com/logos/ncaa/225.png,SFU,382
+995,SJM,FALSE,Saint John's (MN),Johnnies,0,0,0,0,0,0,https://s3-us-west-2.amazonaws.com/static.fantasydata.com/logos/ncaa/0.png,SJM,565
+46,STJOE,TRUE,Saint Joseph's,Hawks,0,9,10,3,4,Atlantic 10,https://s3-us-west-2.amazonaws.com/static.fantasydata.com/logos/ncaa/46.png,STJOE,441
+814,SKCF,TRUE,Saint Katherine College,Firebirds,0,0,0,0,0,0,https://s3-us-west-2.amazonaws.com/static.fantasydata.com/logos/ncaa/0.png,HBU,346
+54,STLOU,TRUE,Saint Louis,Billikens,0,14,6,6,1,Atlantic 10,https://s3-us-west-2.amazonaws.com/static.fantasydata.com/logos/ncaa/54.png,SLU,45
+335,STMRY,TRUE,Saint Mary's,Gaels,0,18,4,7,0,West Coast,https://s3-us-west-2.amazonaws.com/static.fantasydata.com/logos/ncaa/335.png,STMRY,493
+169,STPETE,TRUE,Saint Peter's,Peacocks,0,8,12,3,8,Metro Atlantic Athletic,https://s3-us-west-2.amazonaws.com/static.fantasydata.com/logos/ncaa/169.png,STP,532
+1075,SX,TRUE,Saint Xavier,Cougars,0,0,0,0,0,0,https://s3-us-west-2.amazonaws.com/static.fantasydata.com/logos/ncaa/0.png,SX,479
+1070,SALEM,TRUE,Salem,Tigers,0,0,0,0,0,0,https://s3-us-west-2.amazonaws.com/static.fantasydata.com/logos/ncaa/0.png,SALEM,438
+1221,SALM,TRUE,Salem College,Spirits,0,0,0,0,0,0,https://s3-us-west-2.amazonaws.com/static.fantasydata.com/logos/ncaa/0.png,SALM,13
+1146,SALB,TRUE,Salisbury,Sea Gulls,0,0,0,0,0,0,https://s3-us-west-2.amazonaws.com/static.fantasydata.com/logos/ncaa/0.png,SALB,294
+729,SARE,TRUE,Salve Regina,Seahawks,0,0,0,0,0,0,https://s3-us-west-2.amazonaws.com/static.fantasydata.com/logos/ncaa/0.png,SARE,381
+295,SMHO,TRUE,Sam Houston State,Bearkats,0,15,5,5,3,Western Athletic,https://s3-us-west-2.amazonaws.com/static.fantasydata.com/logos/ncaa/295.png,SMHO,508
+289,SAMF,TRUE,Samford,Bulldogs,0,14,7,8,0,Southern,https://s3-us-west-2.amazonaws.com/static.fantasydata.com/logos/ncaa/289.png,SAMF,231
+342,SD,TRUE,San Diego,Toreros,0,9,12,2,5,West Coast,https://s3-us-west-2.amazonaws.com/static.fantasydata.com/logos/ncaa/342.png,SD,224
+409,SDCHR,TRUE,San Diego Christian,Hawks,0,0,0,0,0,0,https://s3-us-west-2.amazonaws.com/static.fantasydata.com/logos/ncaa/0.png,SDCHR,204
+212,SDST,TRUE,San Diego State,Aztecs,0,15,4,6,1,Mountain West,https://s3-us-west-2.amazonaws.com/static.fantasydata.com/logos/ncaa/212.png,SDSU,490
+338,SF,TRUE,San Francisco,Dons,0,14,9,3,5,West Coast,https://s3-us-west-2.amazonaws.com/static.fantasydata.com/logos/ncaa/338.png,SF,240
+960,SFS,TRUE,San Francisco State,Gators,0,0,0,0,0,0,https://s3-us-west-2.amazonaws.com/static.fantasydata.com/logos/ncaa/0.png,SFS,212
+222,SJST,TRUE,San Jose State,Spartans,0,12,8,3,4,Mountain West,https://s3-us-west-2.amazonaws.com/static.fantasydata.com/logos/ncaa/222.png,SJSU,14
+341,SANCLR,TRUE,Santa Clara,Broncos,0,16,6,4,3,West Coast,https://s3-us-west-2.amazonaws.com/static.fantasydata.com/logos/ncaa/341.png,SANCLR,414
+1216,SARL,TRUE,Sarah Lawrence,Gryphons,0,0,0,0,0,0,https://s3-us-west-2.amazonaws.com/static.fantasydata.com/logos/ncaa/0.png,SARL,219
+194,SAVST,FALSE,Savannah State,Tigers,0,11,20,8,8,0,https://s3-us-west-2.amazonaws.com/static.fantasydata.com/logos/ncaa/194.png,SAVST,72
+1055,SCA,TRUE,SC Aiken,Pacers,0,0,0,0,0,0,https://s3-us-west-2.amazonaws.com/static.fantasydata.com/logos/ncaa/0.png,SCA,558
+442,SCHREI,TRUE,Schreiner,Mountaineers,0,0,0,0,0,0,https://s3-us-west-2.amazonaws.com/static.fantasydata.com/logos/ncaa/0.png,SCHREI,79
+347,SEA,TRUE,Seattle,Redhawks,0,16,4,7,0,Western Athletic,https://s3-us-west-2.amazonaws.com/static.fantasydata.com/logos/ncaa/347.png,SEA,140
+60,SETON,TRUE,Seton Hall,Pirates,0,12,9,5,5,Big East,https://s3-us-west-2.amazonaws.com/static.fantasydata.com/logos/ncaa/60.png,SETON,528
+631,USOUTH,TRUE,Sewanee,Tigers,0,0,0,0,0,0,https://s3-us-west-2.amazonaws.com/static.fantasydata.com/logos/ncaa/0.png,USOUTH,553
+1000,SUB,TRUE,Shaw,Bears,0,0,0,0,0,0,https://s3-us-west-2.amazonaws.com/static.fantasydata.com/logos/ncaa/0.png,SUB,9
+692,SHWN,TRUE,Shawnee State,Bears,0,0,0,0,0,0,https://s3-us-west-2.amazonaws.com/static.fantasydata.com/logos/ncaa/0.png,SHWN,57
+666,SHEN,TRUE,Shenandoah,Hornets,0,0,0,0,0,0,https://s3-us-west-2.amazonaws.com/static.fantasydata.com/logos/ncaa/0.png,SHEN,291
+1099,SCR,FALSE,Shepherd College,Rams,0,0,0,0,0,0,https://s3-us-west-2.amazonaws.com/static.fantasydata.com/logos/ncaa/0.png,SCR,399
+1009,SHP,FALSE,Shippensburg,Raiders,0,0,0,0,0,0,https://s3-us-west-2.amazonaws.com/static.fantasydata.com/logos/ncaa/0.png,SHP,91
+877,SHOR,TRUE,Shorter,Hawks,0,0,0,0,0,0,https://s3-us-west-2.amazonaws.com/static.fantasydata.com/logos/ncaa/0.png,SHOR,129
+168,SIENA,TRUE,Siena,Saints,0,13,7,7,2,Metro Atlantic Athletic,https://s3-us-west-2.amazonaws.com/static.fantasydata.com/logos/ncaa/168.png,SIENA,162
+770,SIENHT,TRUE,Siena Heights,Saints,0,0,0,0,0,0,https://s3-us-west-2.amazonaws.com/static.fantasydata.com/logos/ncaa/0.png,SIENHT,3
+1230,SCKY,FALSE,Simmons College Of Kentucky,Falcons,0,0,0,0,0,0,https://s3-us-west-2.amazonaws.com/static.fantasydata.com/logos/ncaa/0.png,SCKY,255
+1303,SFU,TRUE,Simon Fraser,Red Leafs,0,0,0,0,0,0,https://s3-us-west-2.amazonaws.com/static.fantasydata.com/logos/ncaa/0.png,SFU,488
+663,SIMP,TRUE,Simpson,Red Hawks,0,0,0,0,0,0,https://s3-us-west-2.amazonaws.com/static.fantasydata.com/logos/ncaa/0.png,SIMP,337
+924,SIMPS,TRUE,Simpson College,Storm,0,0,0,0,0,0,https://s3-us-west-2.amazonaws.com/static.fantasydata.com/logos/ncaa/0.png,SIMPS,364
+244,SIUE,TRUE,SIUE,Cougars,0,14,7,5,3,Ohio Valley,https://s3-us-west-2.amazonaws.com/static.fantasydata.com/logos/ncaa/244.png,SIUE,94
+761,SKIDMO,TRUE,Skidmore,Thoroughbreds,0,0,0,0,0,0,https://s3-us-west-2.amazonaws.com/static.fantasydata.com/logos/ncaa/0.png,SKIDMO,166
+994,SRU,FALSE,Slippery Rock,Rock,0,0,0,0,0,0,https://s3-us-west-2.amazonaws.com/static.fantasydata.com/logos/ncaa/994.png,SRU,397
+1,SMU,TRUE,SMU,Mustangs,0,7,13,2,5,American Athletic,https://s3-us-west-2.amazonaws.com/static.fantasydata.com/logos/ncaa/1.png,SMU,209
+479,SONO,TRUE,Sonoma State,Seawolves,0,0,0,0,0,0,https://s3-us-west-2.amazonaws.com/static.fantasydata.com/logos/ncaa/0.png,SONO,564
+330,SALA,TRUE,South Alabama,Jaguars,0,8,12,2,6,Sun Belt,https://s3-us-west-2.amazonaws.com/static.fantasydata.com/logos/ncaa/330.png,SALA,75
+267,SC,TRUE,South Carolina,Gamecocks,0,8,11,1,5,Southeastern,https://s3-us-west-2.amazonaws.com/static.fantasydata.com/logos/ncaa/267.png,SC,292
+190,SCARST,TRUE,South Carolina State,Bulldogs,0,3,17,0,4,Mid-Eastern,https://s3-us-west-2.amazonaws.com/static.fantasydata.com/logos/ncaa/190.png,SCARST,542
+321,SDAK,TRUE,South Dakota,Coyotes,0,9,11,4,4,Summit,https://s3-us-west-2.amazonaws.com/static.fantasydata.com/logos/ncaa/321.png,SDAK,549
+778,SDSM,TRUE,South Dakota School of Mines,Hardrockers,0,0,0,0,0,0,https://s3-us-west-2.amazonaws.com/static.fantasydata.com/logos/ncaa/0.png,SDSM,379
+314,SDKST,TRUE,South Dakota State,Jackrabbits,0,11,9,6,2,Summit,https://s3-us-west-2.amazonaws.com/static.fantasydata.com/logos/ncaa/314.png,SDKST,507
+11,SFL,TRUE,South Florida,Bulls,0,9,11,2,5,American Athletic,https://s3-us-west-2.amazonaws.com/static.fantasydata.com/logos/ncaa/11.png,USF,272
+243,SEMST,TRUE,Southeast Missouri State,Redhawks,0,10,11,5,3,Ohio Valley,https://s3-us-west-2.amazonaws.com/static.fantasydata.com/logos/ncaa/243.png,SEMST,150
+500,SECOL,TRUE,Southeastern,Fire,0,0,0,0,0,0,https://s3-us-west-2.amazonaws.com/static.fantasydata.com/logos/ncaa/0.png,SECOL,46
+773,SEBAP,TRUE,Southeastern Baptist,Chargers,0,0,0,0,0,0,https://s3-us-west-2.amazonaws.com/static.fantasydata.com/logos/ncaa/0.png,SEBAP,372
+300,SELOU,TRUE,Southeastern Louisiana,Lions,0,11,9,5,2,Southland,https://s3-us-west-2.amazonaws.com/static.fantasydata.com/logos/ncaa/300.png,SELOU,341
+649,SEOKST,TRUE,Southeastern Oklahoma State,Savage Storm,0,0,0,0,0,0,https://s3-us-west-2.amazonaws.com/static.fantasydata.com/logos/ncaa/0.png,SEOKST,62
+305,SOUTH,TRUE,Southern,Jaguars,0,9,10,5,1,Southwestern Athletic,https://s3-us-west-2.amazonaws.com/static.fantasydata.com/logos/ncaa/305.png,SOUTH,155
+871,SCSU,FALSE,Southern Connecticut State,Owls,0,0,0,0,0,0,https://s3-us-west-2.amazonaws.com/static.fantasydata.com/logos/ncaa/0.png,SCSU,386
+205,SILL,TRUE,Southern Illinois,Salukis,0,16,5,8,2,Missouri Valley,https://s3-us-west-2.amazonaws.com/static.fantasydata.com/logos/ncaa/205.png,SILL,523
+1212,USI,TRUE,Southern Indiana,Screaming Eagles,0,12,9,5,3,Ohio Valley,https://s3-us-west-2.amazonaws.com/static.fantasydata.com/logos/ncaa/0.png,USI,387
+143,SOUMIS,TRUE,Southern Miss,Golden Eagles,0,17,4,6,2,Sun Belt,https://s3-us-west-2.amazonaws.com/static.fantasydata.com/logos/ncaa/143.png,SOUMIS,395
+1273,SONAZA,TRUE,Southern Nazarene,Crimson Storm,0,0,0,0,0,0,https://s3-us-west-2.amazonaws.com/static.fantasydata.com/logos/ncaa/0.png,SONAZA,228
+78,SUTAH,TRUE,Southern Utah,Thunderbirds,0,14,7,6,2,Western Athletic,https://s3-us-west-2.amazonaws.com/static.fantasydata.com/logos/ncaa/78.png,SUTAH,544
+1098,SVK,TRUE,Southern Virginia,Knights,0,0,0,0,0,0,https://s3-us-west-2.amazonaws.com/static.fantasydata.com/logos/ncaa/0.png,SVK,101
+731,SWESLE,TRUE,Southern Wesleyan,Warriors,0,0,0,0,0,0,https://s3-us-west-2.amazonaws.com/static.fantasydata.com/logos/ncaa/0.png,SWESLE,133
+847,SNOK,TRUE,Southern-New Orleans,Knights,0,0,0,0,0,0,https://s3-us-west-2.amazonaws.com/static.fantasydata.com/logos/ncaa/0.png,SU,239
+510,SOUT,TRUE,Southwest,Mustangs,0,0,0,0,0,0,https://s3-us-west-2.amazonaws.com/static.fantasydata.com/logos/ncaa/0.png,SOUT,366
+786,SWBP,TRUE,Southwest Baptist,Bearcats,0,0,0,0,0,0,https://s3-us-west-2.amazonaws.com/static.fantasydata.com/logos/ncaa/0.png,SWBP,492
+746,SWST,TRUE,Southwest Minnesota State,Mustangs,0,0,0,0,0,0,https://s3-us-west-2.amazonaws.com/static.fantasydata.com/logos/ncaa/0.png,SWST,253
+653,SWUNIV,TRUE,Southwestern,Pirates,0,0,0,0,0,0,https://s3-us-west-2.amazonaws.com/static.fantasydata.com/logos/ncaa/0.png,SWUNIV,498
+1096,SWAD,TRUE,Southwestern Adventist,Knights,0,0,0,0,0,0,https://s3-us-west-2.amazonaws.com/static.fantasydata.com/logos/ncaa/0.png,SWAD,324
+650,SWAG,TRUE,Southwestern Assemblies of God,Lions,0,0,0,0,0,0,https://s3-us-west-2.amazonaws.com/static.fantasydata.com/logos/ncaa/0.png,SWAG,250
+936,SWCU,TRUE,Southwestern Christian,Eagles,0,0,0,0,0,0,https://s3-us-west-2.amazonaws.com/static.fantasydata.com/logos/ncaa/0.png,SWCU,543
+714,SPALD,TRUE,Spalding,Golden Eagles,0,0,0,0,0,0,https://s3-us-west-2.amazonaws.com/static.fantasydata.com/logos/ncaa/0.png,SPALD,8
+470,SPHIL,TRUE,Spring Hill,Badgers,0,0,0,0,0,0,https://s3-us-west-2.amazonaws.com/static.fantasydata.com/logos/ncaa/0.png,SPHIL,177
+1078,SPC,TRUE,Spurgeon College,Knights,0,0,0,0,0,0,https://s3-us-west-2.amazonaws.com/static.fantasydata.com/logos/ncaa/0.png,SPC,494
+1091,STMS,TRUE,St Martins,Saints,0,0,0,0,0,0,https://s3-us-west-2.amazonaws.com/static.fantasydata.com/logos/ncaa/0.png,STMS,123
+1063,STAMB,TRUE,St. Ambrose,Fighting Bees,0,0,0,0,0,0,https://s3-us-west-2.amazonaws.com/static.fantasydata.com/logos/ncaa/0.png,STAMB,28
+647,STANDR,TRUE,St. Andrews Presbyterian,Knights,0,0,0,0,0,0,https://s3-us-west-2.amazonaws.com/static.fantasydata.com/logos/ncaa/0.png,STANDR,439
+1236,STAUG,TRUE,St. Augustine,Falcons,0,0,0,0,0,0,https://s3-us-west-2.amazonaws.com/static.fantasydata.com/logos/ncaa/0.png,STAUG,300
+816,SBERS,FALSE,St. Bernard,Saints,0,0,0,0,0,0,https://s3-us-west-2.amazonaws.com/static.fantasydata.com/logos/ncaa/0.png,STBER,436
+47,STBON,TRUE,St. Bonaventure,Bonnies,0,10,10,4,3,Atlantic 10,https://s3-us-west-2.amazonaws.com/static.fantasydata.com/logos/ncaa/47.png,STBON,92
+406,STEDWA,TRUE,St. Edwards,Hilltoppers,0,0,0,0,0,0,https://s3-us-west-2.amazonaws.com/static.fantasydata.com/logos/ncaa/0.png,STEDWA,548
+483,STFR,TRUE,St. Francis (IL),Fighting Saints,0,0,0,0,0,0,https://s3-us-west-2.amazonaws.com/static.fantasydata.com/logos/ncaa/0.png,STFR,373
+228,STF,TRUE,St. Francis Brooklyn,Terriers,0,9,11,2,5,Northeast,https://s3-us-west-2.amazonaws.com/static.fantasydata.com/logos/ncaa/228.png,STF,510
+1181,STJNF,TRUE,St. John Fisher,Cardinals,0,0,0,0,0,0,https://s3-us-west-2.amazonaws.com/static.fantasydata.com/logos/ncaa/0.png,STJNF,69
+67,STJOHN,TRUE,St. John's,Red Storm,0,13,7,3,6,Big East,https://s3-us-west-2.amazonaws.com/static.fantasydata.com/logos/ncaa/67.png,STJOHN,259
+1136,STJME,TRUE,St. Josephs (ME),Monks,0,0,0,0,0,0,https://s3-us-west-2.amazonaws.com/static.fantasydata.com/logos/ncaa/0.png,STJME,77
+771,IW,TRUE,St. Joseph's (NY-Brooklyn),Bears,0,0,0,0,0,0,https://s3-us-west-2.amazonaws.com/static.fantasydata.com/logos/ncaa/0.png,IW,252
+1245,STJLI,TRUE,St. Joseph's (NY-Long Island),Golden Eagles,0,0,0,0,0,0,https://s3-us-west-2.amazonaws.com/static.fantasydata.com/logos/ncaa/0.png,STJLI,334
+505,STLEO,TRUE,St. Leo,Lions,0,0,0,0,0,0,https://s3-us-west-2.amazonaws.com/static.fantasydata.com/logos/ncaa/0.png,STLEO,109
+878,STE,TRUE,St. Louis College of Pharmacy,Eutectic,0,0,0,0,0,0,https://s3-us-west-2.amazonaws.com/static.fantasydata.com/logos/ncaa/0.png,STE,506
+1259,STMRW,TRUE,St. Mary of the Woods,Pomeroys,0,0,0,0,0,0,https://s3-us-west-2.amazonaws.com/static.fantasydata.com/logos/ncaa/0.png,STMRW,44
+485,STMAMD,TRUE,St. Mary's (MD),Seahawks,0,0,0,0,0,0,https://s3-us-west-2.amazonaws.com/static.fantasydata.com/logos/ncaa/0.png,STMAMD,110
+735,STMATX,TRUE,St. Mary's (TX),Rattlers,0,0,0,0,0,0,https://s3-us-west-2.amazonaws.com/static.fantasydata.com/logos/ncaa/0.png,STMATX,391
+1191,St. ,TRUE,St. Thomas (CAN),Tommies,0,0,0,0,0,0,https://s3-us-west-2.amazonaws.com/static.fantasydata.com/logos/ncaa/0.png,St. ,31
+957,STLB,TRUE,St. Thomas (FL),Bobcats,0,0,0,0,0,0,https://s3-us-west-2.amazonaws.com/static.fantasydata.com/logos/ncaa/0.png,STLB,347
+1112,STMN,TRUE,St. Thomas (MN),Tommies,0,13,9,4,5,Summit,https://s3-us-west-2.amazonaws.com/static.fantasydata.com/logos/ncaa/1112.png,STMN,60
+934,THOMAS,TRUE,St. Thomas (TX),Celts,0,0,0,0,0,0,https://s3-us-west-2.amazonaws.com/static.fantasydata.com/logos/ncaa/0.png,THOMAS,285
+1264,STVB,TRUE,St. Vincent,Bearcats,0,0,0,0,0,0,https://s3-us-west-2.amazonaws.com/static.fantasydata.com/logos/ncaa/0.png,STVB,563
+254,STAN,TRUE,Stanford,Cardinal,0,7,12,2,7,Pac-12,https://s3-us-west-2.amazonaws.com/static.fantasydata.com/logos/ncaa/254.png,STAN,145
+851,SID,FALSE,Staten Island,Dolphins,0,0,0,0,0,0,https://s3-us-west-2.amazonaws.com/static.fantasydata.com/logos/ncaa/0.png,CDG,42
+291,SFAUS,TRUE,Stephen F. Austin,Lumberjacks,0,13,7,5,2,Western Athletic,https://s3-us-west-2.amazonaws.com/static.fantasydata.com/logos/ncaa/291.png,SFAUS,368
+1174,STP,FALSE,Stephens College,Stars,0,0,0,0,0,0,https://s3-us-west-2.amazonaws.com/static.fantasydata.com/logos/ncaa/0.png,STP,459
+41,STETSN,TRUE,Stetson,Hatters,0,11,8,6,2,Atlantic Sun,https://s3-us-west-2.amazonaws.com/static.fantasydata.com/logos/ncaa/41.png,STETSN,322
+740,RSCNJ,TRUE,Stockton,Ospreys,0,0,0,0,0,0,https://s3-us-west-2.amazonaws.com/static.fantasydata.com/logos/ncaa/0.png,RSCNJ,270
+1213,STNH,TRUE,Stonehill,Skyhawks,0,9,13,5,3,Northeast,https://s3-us-west-2.amazonaws.com/static.fantasydata.com/logos/ncaa/0.png,STNH,243
+12,STBR,TRUE,Stony Brook,Seawolves,0,7,13,3,4,Colonial Athletic,https://s3-us-west-2.amazonaws.com/static.fantasydata.com/logos/ncaa/12.png,STBR,415
+972,SUL,TRUE,Sul Ross State,Lobos,0,0,0,0,0,0,https://s3-us-west-2.amazonaws.com/static.fantasydata.com/logos/ncaa/0.png,SUL,326
+1145,SUNYNP,TRUE,SUNY New Paltz,Hawks,0,0,0,0,0,0,https://s3-us-west-2.amazonaws.com/static.fantasydata.com/logos/ncaa/0.png,SUNYNP,32
+951,SPOLY,FALSE,SUNY Poly,Wildcats,0,0,0,0,0,0,https://s3-us-west-2.amazonaws.com/static.fantasydata.com/logos/ncaa/0.png,SPOLY,188
+925,SUNYPO,FALSE,SUNY Potsdam,0,0,0,0,0,0,0,https://s3-us-west-2.amazonaws.com/static.fantasydata.com/logos/ncaa/0.png,SUNYPO,511
+646,SUNY,TRUE,SUNY-Canton,Roos,0,0,0,0,0,0,https://s3-us-west-2.amazonaws.com/static.fantasydata.com/logos/ncaa/0.png,SUNY,527
+693,CRTLND,TRUE,SUNY-Cortland,Red Dragons,0,0,0,0,0,0,https://s3-us-west-2.amazonaws.com/static.fantasydata.com/logos/ncaa/0.png,CRTLND,146
+1253,SUNYD,TRUE,SUNY-Delhi,Broncos,0,0,0,0,0,0,https://s3-us-west-2.amazonaws.com/static.fantasydata.com/logos/ncaa/0.png,SUNYD,34
+734,SUNYM,TRUE,SUNY-Maritime,Privateers,0,0,0,0,0,0,https://s3-us-west-2.amazonaws.com/static.fantasydata.com/logos/ncaa/0.png,SUNYM,266
+1283,SUNYOW,TRUE,SUNY-Old Westbury,Panthers,0,0,0,0,0,0,https://s3-us-west-2.amazonaws.com/static.fantasydata.com/logos/ncaa/0.png,SUNYOW,95
+721,ONEO,TRUE,SUNY-Oneonta,Red Dragons,0,0,0,0,0,0,https://s3-us-west-2.amazonaws.com/static.fantasydata.com/logos/ncaa/0.png,ONEO,309
+30,SYRA,TRUE,Syracuse,Orange,0,13,7,6,3,Atlantic Coast,https://s3-us-west-2.amazonaws.com/static.fantasydata.com/logos/ncaa/30.png,SYRA,226
+1057,TAL,FALSE,Talladega,Tornadoes,0,0,0,0,0,0,https://s3-us-west-2.amazonaws.com/static.fantasydata.com/logos/ncaa/0.png,TAL,392
+806,TAMPAS,TRUE,Tampa,Spartans,0,0,0,0,0,0,https://s3-us-west-2.amazonaws.com/static.fantasydata.com/logos/ncaa/0.png,TAMPA,88
+1024,TARL,TRUE,Tarleton State,Texans,0,10,10,3,4,Western Athletic,https://s3-us-west-2.amazonaws.com/static.fantasydata.com/logos/ncaa/1024.png,TARL,181
+1211,TAY,FALSE,Taylor University,Trojans,0,0,0,0,0,0,https://s3-us-west-2.amazonaws.com/static.fantasydata.com/logos/ncaa/0.png,TAY,311
+114,TCU,TRUE,TCU,Horned Frogs,14,15,4,4,3,Big 12,https://s3-us-west-2.amazonaws.com/static.fantasydata.com/logos/ncaa/114.png,TCU,48
+2,TEMPL,TRUE,Temple,Owls,0,12,9,6,2,American Athletic,https://s3-us-west-2.amazonaws.com/static.fantasydata.com/logos/ncaa/2.png,TEMPLE,351
+277,TENN,TRUE,Tennessee,Volunteers,9,16,3,6,1,Southeastern,https://s3-us-west-2.amazonaws.com/static.fantasydata.com/logos/ncaa/277.png,TENN,500
+235,TENST,TRUE,Tennessee State,Tigers,0,11,10,3,5,Ohio Valley,https://s3-us-west-2.amazonaws.com/static.fantasydata.com/logos/ncaa/235.png,TNST,116
+234,TENTCH,TRUE,Tennessee Tech,Golden Eagles,0,9,12,5,3,Ohio Valley,https://s3-us-west-2.amazonaws.com/static.fantasydata.com/logos/ncaa/234.png,TNTECH,512
+952,WES,TRUE,Tennessee Wesleyan,Bulldogs,0,0,0,0,0,0,https://s3-us-west-2.amazonaws.com/static.fantasydata.com/logos/ncaa/0.png,WES,467
+109,TX,TRUE,Texas,Longhorns,7,16,3,5,2,Big 12,https://s3-us-west-2.amazonaws.com/static.fantasydata.com/logos/ncaa/109.png,UT,452
+270,TXAM,TRUE,Texas A&M,Aggies,0,13,6,5,1,Southeastern,https://s3-us-west-2.amazonaws.com/static.fantasydata.com/logos/ncaa/270.png,TXAM,279
+392,TXAMC,TRUE,Texas A&M-Commerce,Lions,0,8,13,4,3,Southland,https://s3-us-west-2.amazonaws.com/static.fantasydata.com/logos/ncaa/392.png,TXAMC,301
+292,TAMU,TRUE,Texas A&M-Corpus Christi,Islanders,0,11,9,4,3,Southland,https://s3-us-west-2.amazonaws.com/static.fantasydata.com/logos/ncaa/292.png,TAMU,282
+766,TAMI,TRUE,Texas A&M-International,Dustdevils,0,0,0,0,0,0,https://s3-us-west-2.amazonaws.com/static.fantasydata.com/logos/ncaa/0.png,TAMI,361
+1155,TAMK,FALSE,Texas A&M-Kingsville,Javelinas,0,0,0,0,0,0,https://s3-us-west-2.amazonaws.com/static.fantasydata.com/logos/ncaa/0.png,TAMK,103
+1041,TAMT,TRUE,Texas A&M-Texarkana,Eagles,0,0,0,0,0,0,https://s3-us-west-2.amazonaws.com/static.fantasydata.com/logos/ncaa/0.png,TAMT,25
+1187,TEXCOL,FALSE,Texas College,Steers,0,0,0,0,0,0,https://s3-us-west-2.amazonaws.com/static.fantasydata.com/logos/ncaa/0.png,TEXCOL,435
+686,TXLUT,TRUE,Texas Lutheran,Bulldogs,0,0,0,0,0,0,https://s3-us-west-2.amazonaws.com/static.fantasydata.com/logos/ncaa/0.png,TXLUT,567
+304,TXS,TRUE,Texas Southern,Tigers,0,6,14,2,5,Southwestern Athletic,https://s3-us-west-2.amazonaws.com/static.fantasydata.com/logos/ncaa/304.png,TXS,192
+332,TXST,TRUE,Texas State,Bobcats,0,10,11,3,5,Sun Belt,https://s3-us-west-2.amazonaws.com/static.fantasydata.com/logos/ncaa/332.png,TXST,388
+111,TXTECH,TRUE,Texas Tech,Red Raiders,0,10,9,0,7,Big 12,https://s3-us-west-2.amazonaws.com/static.fantasydata.com/logos/ncaa/111.png,TTU,299
+622,TXWESL,TRUE,Texas Wesleyan,Rams,0,0,0,0,0,0,https://s3-us-west-2.amazonaws.com/static.fantasydata.com/logos/ncaa/0.png,TXWESL,314
+431,TXPB,TRUE,Texas-Permian Basin,Falcons,0,0,0,0,0,0,https://s3-us-west-2.amazonaws.com/static.fantasydata.com/logos/ncaa/0.png,TXPB,329
+350,UTRGV,TRUE,Texas-Rio Grande Valley,Vaqueros,0,10,10,1,6,Western Athletic,https://s3-us-west-2.amazonaws.com/static.fantasydata.com/logos/ncaa/350.png,UTRGV,178
+628,UTXT,TRUE,Texas-Tyler,Patriots,0,0,0,0,0,0,https://s3-us-west-2.amazonaws.com/static.fantasydata.com/logos/ncaa/0.png,UTXT,515
+1242,TCNJ,TRUE,The College of New Jersey,Lions,0,0,0,0,0,0,https://s3-us-west-2.amazonaws.com/static.fantasydata.com/logos/ncaa/0.png,TCNJ,451
+894,Thiel,FALSE,Thiel College,Thiel,0,0,0,0,0,0,https://s3-us-west-2.amazonaws.com/static.fantasydata.com/logos/ncaa/0.png,Thiel,541
+791,TOM,TRUE,Thomas,Terriers,0,0,0,0,0,0,https://s3-us-west-2.amazonaws.com/static.fantasydata.com/logos/ncaa/0.png,THOMAS,430
+969,THOM,TRUE,Thomas (GA),Night Hawks,0,0,0,0,0,0,https://s3-us-west-2.amazonaws.com/static.fantasydata.com/logos/ncaa/0.png,THOM,286
+835,TBKT,FALSE,Thomas University,Terriers,0,0,0,0,0,0,https://s3-us-west-2.amazonaws.com/static.fantasydata.com/logos/ncaa/0.png,TBK,215
+453,TIFFIN,TRUE,Tiffin,Dragons,0,0,0,0,0,0,https://s3-us-west-2.amazonaws.com/static.fantasydata.com/logos/ncaa/0.png,TIFFIN,168
+942,TOCCOA,TRUE,Toccoa Falls,Eagles,0,0,0,0,0,0,https://s3-us-west-2.amazonaws.com/static.fantasydata.com/logos/ncaa/0.png,TOCCOA,418
+183,TOLEDO,TRUE,Toledo,Rockets,0,13,6,4,2,Mid-American,https://s3-us-west-2.amazonaws.com/static.fantasydata.com/logos/ncaa/183.png,TOLEDO,340
+727,TOUGAL,TRUE,Tougaloo,Bulldogs,0,0,0,0,0,0,https://s3-us-west-2.amazonaws.com/static.fantasydata.com/logos/ncaa/0.png,TOUGAL,183
+127,TOWS,TRUE,Towson,Tigers,0,14,7,6,2,Colonial Athletic,https://s3-us-west-2.amazonaws.com/static.fantasydata.com/logos/ncaa/127.png,TOWS,444
+1047,TUP,TRUE,Transylvania,Pioneers,0,0,0,0,0,0,https://s3-us-west-2.amazonaws.com/static.fantasydata.com/logos/ncaa/0.png,TUP,30
+697,TRENAZ,TRUE,Trevecca Nazarene,Trojans,0,0,0,0,0,0,https://s3-us-west-2.amazonaws.com/static.fantasydata.com/logos/ncaa/0.png,TRENAZ,393
+1061,TRINE,TRUE,Trine,Thunder,0,0,0,0,0,0,https://s3-us-west-2.amazonaws.com/static.fantasydata.com/logos/ncaa/0.png,TRINE,130
+484,TRIFL,TRUE,Trinity (FL),Tigers,0,0,0,0,0,0,https://s3-us-west-2.amazonaws.com/static.fantasydata.com/logos/ncaa/0.png,TRIFL,248
+933,TRINIL,TRUE,Trinity (IL),Trolls,0,0,0,0,0,0,https://s3-us-west-2.amazonaws.com/static.fantasydata.com/logos/ncaa/0.png,TRINIL,471
+424,TRINTX,TRUE,Trinity (TX),Tigers,0,0,0,0,0,0,https://s3-us-west-2.amazonaws.com/static.fantasydata.com/logos/ncaa/0.png,TRINTX,163
+407,TRINB,TRUE,Trinity Baptist,Eagles,0,0,0,0,0,0,https://s3-us-west-2.amazonaws.com/static.fantasydata.com/logos/ncaa/0.png,TRINB,496
+1046,TIU,TRUE,Trinity International,Trojans,0,0,0,0,0,0,https://s3-us-west-2.amazonaws.com/static.fantasydata.com/logos/ncaa/0.png,TIU,514
+333,TROY,TRUE,Troy,Trojans,0,13,8,5,3,Sun Belt,https://s3-us-west-2.amazonaws.com/static.fantasydata.com/logos/ncaa/333.png,TROY,520
+477,TRUE,TRUE,Truett-McConnell,Bears,0,0,0,0,0,0,https://s3-us-west-2.amazonaws.com/static.fantasydata.com/logos/ncaa/0.png,TRUE,440
+443,TRUST,TRUE,Truman State,Bulldogs,0,0,0,0,0,0,https://s3-us-west-2.amazonaws.com/static.fantasydata.com/logos/ncaa/0.png,TRUST,232
+1224,TUFT,TRUE,Tufts,Jumbos,0,0,0,0,0,0,https://s3-us-west-2.amazonaws.com/static.fantasydata.com/logos/ncaa/0.png,TUFT,457
+10,TULANE,TRUE,Tulane,Green Wave,0,12,7,5,3,American Athletic,https://s3-us-west-2.amazonaws.com/static.fantasydata.com/logos/ncaa/10.png,TULANE,229
+5,TULSA,TRUE,Tulsa,Golden Hurricane,0,5,13,1,6,American Athletic,https://s3-us-west-2.amazonaws.com/static.fantasydata.com/logos/ncaa/5.png,TULSA,319
+1058,TUSC,TRUE,Tusculum,Pioneers,0,0,0,0,0,0,https://s3-us-west-2.amazonaws.com/static.fantasydata.com/logos/ncaa/0.png,TUSC,315
+665,TUSK,TRUE,Tuskegee,Golden Tigers,0,0,0,0,0,0,https://s3-us-west-2.amazonaws.com/static.fantasydata.com/logos/ncaa/665.png,TUSK,403
+134,UAB,TRUE,UAB,Blazers,0,13,7,4,5,Conference USA,https://s3-us-west-2.amazonaws.com/static.fantasydata.com/logos/ncaa/134.png,UAB,271
+310,ARPB,TRUE,UAPB,Golden Lions,0,9,11,5,2,Southwestern Athletic,https://s3-us-west-2.amazonaws.com/static.fantasydata.com/logos/ncaa/310.png,ARPB,196
+118,UCDV,TRUE,UC Davis,Aggies,0,12,8,5,3,Big West,https://s3-us-west-2.amazonaws.com/static.fantasydata.com/logos/ncaa/118.png,UCDV,142
+116,UCIRV,TRUE,UC Irvine,Anteaters,0,13,6,6,1,Big West,https://s3-us-west-2.amazonaws.com/static.fantasydata.com/logos/ncaa/116.png,UCI,412
+120,UCRVS,TRUE,UC Riverside,Highlanders,0,14,7,7,2,Big West,https://s3-us-west-2.amazonaws.com/static.fantasydata.com/logos/ncaa/120.png,UCRVS,98
+119,USCB,TRUE,UC Santa Barbara,Gauchos,0,16,3,7,1,Big West,https://s3-us-west-2.amazonaws.com/static.fantasydata.com/logos/ncaa/119.png,USCB,546
+8,UCF,TRUE,UCF,Knights,0,13,6,4,3,American Athletic,https://s3-us-west-2.amazonaws.com/static.fantasydata.com/logos/ncaa/8.png,UCF,134
+253,UCLA,TRUE,UCLA,Bruins,5,17,3,8,1,Pac-12,https://s3-us-west-2.amazonaws.com/static.fantasydata.com/logos/ncaa/253.png,UCLA,126
+157,ILLCHI,TRUE,UIC,Flames,0,9,12,1,9,Missouri Valley,https://s3-us-west-2.amazonaws.com/static.fantasydata.com/logos/ncaa/157.png,UIC,411
+19,UMBC,TRUE,UMBC,Retrievers,0,14,7,4,2,America East,https://s3-us-west-2.amazonaws.com/static.fantasydata.com/logos/ncaa/19.png,UMBC,131
+80,NCASHE,TRUE,UNC Asheville,Bulldogs,0,15,6,7,1,Big South,https://s3-us-west-2.amazonaws.com/static.fantasydata.com/logos/ncaa/80.png,NCASHE,222
+286,NCG,TRUE,UNCG,Spartans,0,13,8,7,1,Southern,https://s3-us-west-2.amazonaws.com/static.fantasydata.com/logos/ncaa/286.png,NCG,26
+124,NCW,TRUE,UNCW,Seahawks,0,16,6,6,3,Colonial Athletic,https://s3-us-west-2.amazonaws.com/static.fantasydata.com/logos/ncaa/124.png,NCW,425
+1207,UNNY,TRUE,Union,Dutchmen,0,0,0,0,0,0,https://s3-us-west-2.amazonaws.com/static.fantasydata.com/logos/ncaa/0.png,UNNY,426
+1173,UC,FALSE,Union College,Bulldogs,0,0,0,0,0,0,https://s3-us-west-2.amazonaws.com/static.fantasydata.com/logos/ncaa/0.png,UC,35
+983,UMSL,FALSE,University of Missouri-St.Louis,Tritons,0,0,0,0,0,0,https://s3-us-west-2.amazonaws.com/static.fantasydata.com/logos/ncaa/0.png,UMSL,29
+1159,USAO,TRUE,University of Science and Arts of Oklahoma,Drovers,0,0,0,0,0,0,https://s3-us-west-2.amazonaws.com/static.fantasydata.com/logos/ncaa/0.png,USAO,513
+1296,UOSD,TRUE,University of Sciences,Devils,0,0,0,0,0,0,https://s3-us-west-2.amazonaws.com/static.fantasydata.com/logos/ncaa/0.png,UOSD,262
+900,UAT,FALSE,University of Texas at Dallas,Comets,0,0,0,0,0,0,https://s3-us-west-2.amazonaws.com/static.fantasydata.com/logos/ncaa/0.png,UAT,554
+685,UOZA,TRUE,University of the Ozarks,Eagles,0,0,0,0,0,0,https://s3-us-west-2.amazonaws.com/static.fantasydata.com/logos/ncaa/0.png,UOZA,278
+630,Univ,TRUE,University of the Virgin Islands,Buccaneers,0,0,0,0,0,0,https://s3-us-west-2.amazonaws.com/static.fantasydata.com/logos/ncaa/0.png,Univ,220
+218,UNLV,TRUE,UNLV,Runnin' Rebels,0,12,7,1,6,Mountain West,https://s3-us-west-2.amazonaws.com/static.fantasydata.com/logos/ncaa/218.png,UNLV,420
+689,URBANA,TRUE,Urbana,Blue Knights,0,0,0,0,0,0,https://s3-us-west-2.amazonaws.com/static.fantasydata.com/logos/ncaa/0.png,URBANA,293
+1069,USMMA,TRUE,US Merchant Marine Academy,Mariners,0,0,0,0,0,0,https://s3-us-west-2.amazonaws.com/static.fantasydata.com/logos/ncaa/0.png,USMMA,374
+246,USC,TRUE,USC,Trojans,0,14,6,6,3,Pac-12,https://s3-us-west-2.amazonaws.com/static.fantasydata.com/logos/ncaa/246.png,USC,331
+43,SCUP,TRUE,USC Upstate,Spartans,0,9,10,4,4,Big South,https://s3-us-west-2.amazonaws.com/static.fantasydata.com/logos/ncaa/43.png,USCU,208
+325,TXA,TRUE,UT Arlington,Mavericks,0,7,14,2,6,Western Athletic,https://s3-us-west-2.amazonaws.com/static.fantasydata.com/logos/ncaa/325.png,TXA,157
+241,TMRT,TRUE,UT Martin,Skyhawks,0,13,8,5,3,Ohio Valley,https://s3-us-west-2.amazonaws.com/static.fantasydata.com/logos/ncaa/241.png,TMRT,318
+1134,UTENNS,TRUE,UT Southern,Firehawks,0,0,0,0,0,0,https://s3-us-west-2.amazonaws.com/static.fantasydata.com/logos/ncaa/0.png,UTENNS,173
+248,UTAH,TRUE,Utah,Runnin' Utes,0,14,7,7,3,Pac-12,https://s3-us-west-2.amazonaws.com/static.fantasydata.com/logos/ncaa/248.png,UTAH,180
+220,UTAHST,TRUE,Utah State,Aggies,0,16,4,5,2,Mountain West,https://s3-us-west-2.amazonaws.com/static.fantasydata.com/logos/ncaa/220.png,USU,195
+750,DXST,TRUE,Utah Tech,Trailblazers,0,10,10,2,5,Western Athletic,https://s3-us-west-2.amazonaws.com/static.fantasydata.com/logos/ncaa/750.png,UTECH,201
+348,UTAHV,TRUE,Utah Valley,Wolverines,0,16,5,7,1,Western Athletic,https://s3-us-west-2.amazonaws.com/static.fantasydata.com/logos/ncaa/348.png,UTAHV,199
+139,UTEP,TRUE,UTEP,Miners,0,11,9,4,5,Conference USA,https://s3-us-west-2.amazonaws.com/static.fantasydata.com/logos/ncaa/139.png,UTEP,489
+147,UTSA,TRUE,UTSA,Roadrunners,0,7,14,1,9,Conference USA,https://s3-us-west-2.amazonaws.com/static.fantasydata.com/logos/ncaa/147.png,UTSA,260
+1030,VAW,TRUE,VA Wesleyan,Blue Marlins,0,0,0,0,0,0,https://s3-us-west-2.amazonaws.com/static.fantasydata.com/logos/ncaa/0.png,VAW,383
+1299,VSB,FALSE,Valdosta State,Blazers,0,0,0,0,0,0,https://s3-us-west-2.amazonaws.com/static.fantasydata.com/logos/ncaa/0.png,VSB,365
+1215,VCSV,FALSE,Valley City State,Vikings,0,0,0,0,0,0,https://s3-us-west-2.amazonaws.com/static.fantasydata.com/logos/ncaa/0.png,VCSV,154
+887,VF,TRUE,Valley Forge,Patriots,0,0,0,0,0,0,https://s3-us-west-2.amazonaws.com/static.fantasydata.com/logos/ncaa/0.png,VF,465
+148,VALP,TRUE,Valparaiso,Beacons,0,9,12,3,7,Missouri Valley,https://s3-us-west-2.amazonaws.com/static.fantasydata.com/logos/ncaa/148.png,VALP,117
+273,VAND,TRUE,Vanderbilt,Commodores,0,10,9,3,3,Southeastern,https://s3-us-west-2.amazonaws.com/static.fantasydata.com/logos/ncaa/273.png,VAND,223
+987,VAN,TRUE,Vanguard,Lions,0,0,0,0,0,0,https://s3-us-west-2.amazonaws.com/static.fantasydata.com/logos/ncaa/0.png,VAN,320
+1116,VAS,TRUE,Vassar,Brewers,0,0,0,0,0,0,https://s3-us-west-2.amazonaws.com/static.fantasydata.com/logos/ncaa/0.png,VAS,330
+45,VCU,TRUE,VCU,Rams,0,15,5,6,1,Atlantic 10,https://s3-us-west-2.amazonaws.com/static.fantasydata.com/logos/ncaa/45.png,VCU,190
+15,VERM,TRUE,Vermont,Catamounts,0,10,10,4,2,America East,https://s3-us-west-2.amazonaws.com/static.fantasydata.com/logos/ncaa/15.png,UVM,323
+1308,VMV,FALSE,Villa Maria,Vikings,0,0,0,0,0,0,https://s3-us-west-2.amazonaws.com/static.fantasydata.com/logos/ncaa/0.png,VMV,516
+58,VILL,TRUE,Villanova,Wildcats,0,10,10,4,5,Big East,https://s3-us-west-2.amazonaws.com/static.fantasydata.com/logos/ncaa/58.png,VILL,276
+22,VIR,TRUE,Virginia,Cavaliers,10,15,3,7,2,Atlantic Coast,https://s3-us-west-2.amazonaws.com/static.fantasydata.com/logos/ncaa/22.png,VIR,317
+1018,VST,TRUE,Virginia State,Trojans,0,0,0,0,0,0,https://s3-us-west-2.amazonaws.com/static.fantasydata.com/logos/ncaa/0.png,VST,352
+31,VTECH,TRUE,Virginia Tech,Hokies,0,11,8,1,7,Atlantic Coast,https://s3-us-west-2.amazonaws.com/static.fantasydata.com/logos/ncaa/31.png,VTECH,43
+1019,VUP,FALSE,Virginia Union,Panthers,0,0,0,0,0,0,https://s3-us-west-2.amazonaws.com/static.fantasydata.com/logos/ncaa/0.png,VUP,328
+919,VWH,TRUE,Virginia-Wise Highland,Cavaliers,0,0,0,0,0,0,https://s3-us-west-2.amazonaws.com/static.fantasydata.com/logos/ncaa/0.png,VWH,390
+290,VAMIL,TRUE,VMI,Keydets,0,5,16,0,8,Southern,https://s3-us-west-2.amazonaws.com/static.fantasydata.com/logos/ncaa/290.png,VAMIL,80
+437,VOORHE,TRUE,Voorhees College,Tigers,0,0,0,0,0,0,https://s3-us-west-2.amazonaws.com/static.fantasydata.com/logos/ncaa/0.png,VOORHE,96
+1147,VULYN,TRUE,VU of Lynchburg,Dragons,0,0,0,0,0,0,https://s3-us-west-2.amazonaws.com/static.fantasydata.com/logos/ncaa/0.png,VULYN,87
+673,WAB,TRUE,Wabash,Little Giants,0,0,0,0,0,0,https://s3-us-west-2.amazonaws.com/static.fantasydata.com/logos/ncaa/0.png,WAB,218
+223,WAG,TRUE,Wagner,Seahawks,0,11,7,4,3,Northeast,https://s3-us-west-2.amazonaws.com/static.fantasydata.com/logos/ncaa/223.png,WAG,159
+34,WAKE,TRUE,Wake Forest,Demon Deacons,0,14,6,6,3,Atlantic Coast,https://s3-us-west-2.amazonaws.com/static.fantasydata.com/logos/ncaa/34.png,WAKE,447
+857,WALW,TRUE,Waldorf College,Warriors,0,0,0,0,0,0,https://s3-us-west-2.amazonaws.com/static.fantasydata.com/logos/ncaa/0.png,WAL,551
+475,WAWA,TRUE,Walla Walla,Wolves,0,0,0,0,0,0,https://s3-us-west-2.amazonaws.com/static.fantasydata.com/logos/ncaa/0.png,WAWA,53
+836,WARUR,TRUE,Warner,Royals,0,0,0,0,0,0,https://s3-us-west-2.amazonaws.com/static.fantasydata.com/logos/ncaa/0.png,WARU,193
+840,WPCK,TRUE,Warner Pacific College,Knights,0,0,0,0,0,0,https://s3-us-west-2.amazonaws.com/static.fantasydata.com/logos/ncaa/0.png,WPC,164
+434,WARWIL,TRUE,Warren Wilson,Owls,0,0,0,0,0,0,https://s3-us-west-2.amazonaws.com/static.fantasydata.com/logos/ncaa/0.png,WARWIL,51
+1183,WART,TRUE,Wartburg,Knights,0,0,0,0,0,0,https://s3-us-west-2.amazonaws.com/static.fantasydata.com/logos/ncaa/0.png,WART,233
+1065,WSHB,TRUE,Washburn,Ichabods,0,0,0,0,0,0,https://s3-us-west-2.amazonaws.com/static.fantasydata.com/logos/ncaa/0.png,WSHB,242
+249,WASH,TRUE,Washington,Huskies,0,12,9,4,6,Pac-12,https://s3-us-west-2.amazonaws.com/static.fantasydata.com/logos/ncaa/249.png,WASH,569
+639,COLU,TRUE,Washington Adventist,Shock,0,0,0,0,0,0,https://s3-us-west-2.amazonaws.com/static.fantasydata.com/logos/ncaa/0.png,COLU,545
+615,WASHMD,TRUE,Washington College,Shoremen,0,0,0,0,0,0,https://s3-us-west-2.amazonaws.com/static.fantasydata.com/logos/ncaa/0.png,WASHMD,568
+256,WASHST,TRUE,Washington State,Cougars,0,9,12,4,6,Pac-12,https://s3-us-west-2.amazonaws.com/static.fantasydata.com/logos/ncaa/256.png,WSU,83
+765,WAYB,TRUE,Wayland Baptist,Pioneers,0,0,0,0,0,0,https://s3-us-west-2.amazonaws.com/static.fantasydata.com/logos/ncaa/0.png,WAYB,174
+1271,WSW,TRUE,Wayne State,Warriors,0,0,0,0,0,0,https://s3-us-west-2.amazonaws.com/static.fantasydata.com/logos/ncaa/0.png,WSW,265
+637,WEBBER,TRUE,Webber International,Warriors,0,0,0,0,0,0,https://s3-us-west-2.amazonaws.com/static.fantasydata.com/logos/ncaa/0.png,WEBBER,360
+69,WEBST,TRUE,Weber State,Wildcats,0,10,10,5,2,Big Sky,https://s3-us-west-2.amazonaws.com/static.fantasydata.com/logos/ncaa/69.png,WEBST,316
+1141,WEBSTER,TRUE,Webster,Gorloks,0,0,0,0,0,0,https://s3-us-west-2.amazonaws.com/static.fantasydata.com/logos/ncaa/0.png,WEBSTER,197
+679,Welc,TRUE,Welch,Flames,0,0,0,0,0,0,https://s3-us-west-2.amazonaws.com/static.fantasydata.com/logos/ncaa/0.png,Welc,18
+1162,WELLS,TRUE,Wells College,Express,0,0,0,0,0,0,https://s3-us-west-2.amazonaws.com/static.fantasydata.com/logos/ncaa/0.png,WELLS,483
+672,WESLEY,TRUE,Wesley College,Wolverines,0,0,0,0,0,0,https://s3-us-west-2.amazonaws.com/static.fantasydata.com/logos/ncaa/0.png,WESLEY,284
+719,WAL,TRUE,West Alabama,Tigers,0,0,0,0,0,0,https://s3-us-west-2.amazonaws.com/static.fantasydata.com/logos/ncaa/0.png,WAL,160
+1206,WCHES,FALSE,West Chester,Golden Rams,0,0,0,0,0,0,https://s3-us-west-2.amazonaws.com/static.fantasydata.com/logos/ncaa/0.png,WCHES,115
+767,WCBAP,TRUE,West Coast Baptist,Eagles,0,0,0,0,0,0,https://s3-us-west-2.amazonaws.com/static.fantasydata.com/logos/ncaa/0.png,WCBAP,203
+997,UWF,TRUE,West Florida,Argonauts,0,0,0,0,0,0,https://s3-us-west-2.amazonaws.com/static.fantasydata.com/logos/ncaa/0.png,UWF,378
+1293,WLIBST,FALSE,West Liberty State,Hilltoppers,0,0,0,0,0,0,https://s3-us-west-2.amazonaws.com/static.fantasydata.com/logos/ncaa/0.png,WLIBST,144
+903,WNM,TRUE,West New Mexico ,Mustangs,0,0,0,0,0,0,https://s3-us-west-2.amazonaws.com/static.fantasydata.com/logos/ncaa/903.png,WNM,100
+1101,WTAM,FALSE,West Texas A&M,Buffaloes,0,0,0,0,0,0,https://s3-us-west-2.amazonaws.com/static.fantasydata.com/logos/ncaa/0.png,WTAM,312
+107,WVIR,TRUE,West Virginia,Mountaineers,0,11,8,1,6,Big 12,https://s3-us-west-2.amazonaws.com/static.fantasydata.com/logos/ncaa/107.png,WVU,335
+1087,WVT,TRUE,West Virginia Tech,Golden Bears,0,0,0,0,0,0,https://s3-us-west-2.amazonaws.com/static.fantasydata.com/logos/ncaa/0.png,WVT,296
+624,West,TRUE,Westcliff,Warriors,0,0,0,0,0,0,https://s3-us-west-2.amazonaws.com/static.fantasydata.com/logos/ncaa/0.png,West,198
+287,WCAR,TRUE,Western Carolina,Catamounts,0,11,10,4,4,Southern,https://s3-us-west-2.amazonaws.com/static.fantasydata.com/logos/ncaa/287.png,WCAR,288
+789,WCST,TRUE,Western Colorado,Mountaineers,0,0,0,0,0,0,https://s3-us-west-2.amazonaws.com/static.fantasydata.com/logos/ncaa/0.png,WCSU,417
+322,WILL,TRUE,Western Illinois,Leathernecks,0,11,8,4,4,Summit,https://s3-us-west-2.amazonaws.com/static.fantasydata.com/logos/ncaa/322.png,WILL,59
+144,WKENT,TRUE,Western Kentucky,Hilltoppers,0,11,9,3,6,Conference USA,https://s3-us-west-2.amazonaws.com/static.fantasydata.com/logos/ncaa/144.png,WKENT,407
+188,WMICH,TRUE,Western Michigan,Broncos,0,6,13,2,4,Mid-American,https://s3-us-west-2.amazonaws.com/static.fantasydata.com/logos/ncaa/188.png,WMICH,398
+683,WNE,TRUE,Western New England,Golden Bears,0,0,0,0,0,0,https://s3-us-west-2.amazonaws.com/static.fantasydata.com/logos/ncaa/0.png,WNE,93
+866,WOU,TRUE,Western Oregon,Wolves,0,0,0,0,0,0,https://s3-us-west-2.amazonaws.com/static.fantasydata.com/logos/ncaa/0.png,WOU,487
+733,WSTMPA,TRUE,Westminster (PA),Titans,0,0,0,0,0,0,https://s3-us-west-2.amazonaws.com/static.fantasydata.com/logos/ncaa/0.png,WSTMPA,158
+633,WSTMUT,TRUE,Westminster (UT),Griffins,0,0,0,0,0,0,https://s3-us-west-2.amazonaws.com/static.fantasydata.com/logos/ncaa/0.png,WSTMUT,23
+813,WESTMOW,TRUE,Westmont,Warriors,0,0,0,0,0,0,https://s3-us-west-2.amazonaws.com/static.fantasydata.com/logos/ncaa/0.png,WESTMO,106
+879,WMA,FALSE,Wheaton College (MA),Lyons,0,0,0,0,0,0,https://s3-us-west-2.amazonaws.com/static.fantasydata.com/logos/ncaa/0.png,WMA,41
+1108,WHEEL,TRUE,Wheeling,Cardinals,0,0,0,0,0,0,https://s3-us-west-2.amazonaws.com/static.fantasydata.com/logos/ncaa/0.png,WHEEL,235
+976,WHIT,TRUE,Whittier,Poets,0,0,0,0,0,0,https://s3-us-west-2.amazonaws.com/static.fantasydata.com/logos/ncaa/0.png,WHIT,90
+1092,WHW,TRUE,Whitworth,Pirates,0,0,0,0,0,0,https://s3-us-west-2.amazonaws.com/static.fantasydata.com/logos/ncaa/0.png,WHW,21
+202,WICHST,TRUE,Wichita State,Shockers,0,10,9,3,4,American Athletic,https://s3-us-west-2.amazonaws.com/static.fantasydata.com/logos/ncaa/202.png,WICHST,499
+805,WIDENP,TRUE,Widener,Pioneers,0,0,0,0,0,0,https://s3-us-west-2.amazonaws.com/static.fantasydata.com/logos/ncaa/0.png,WIDEN,491
+414,WILB,TRUE,Wilberforce,Bulldogs,0,0,0,0,0,0,https://s3-us-west-2.amazonaws.com/static.fantasydata.com/logos/ncaa/0.png,WILB,20
+506,WILEY,TRUE,Wiley,Wildcats,0,0,0,0,0,0,https://s3-us-west-2.amazonaws.com/static.fantasydata.com/logos/ncaa/0.png,WILEY,406
+1227,WILK,TRUE,Wilkes,Colonels,0,0,0,0,0,0,https://s3-us-west-2.amazonaws.com/static.fantasydata.com/logos/ncaa/0.png,WILK,552
+718,WMETTE,TRUE,Willamette,Bearcats,0,0,0,0,0,0,https://s3-us-west-2.amazonaws.com/static.fantasydata.com/logos/ncaa/0.png,WMETTE,338
+125,WM,TRUE,William & Mary,Tribe,0,8,13,3,5,Colonial Athletic,https://s3-us-west-2.amazonaws.com/static.fantasydata.com/logos/ncaa/125.png,WM,15
+404,WILCAR,TRUE,William Carey,Crusaders,0,0,0,0,0,0,https://s3-us-west-2.amazonaws.com/static.fantasydata.com/logos/ncaa/0.png,WILCAR,445
+467,WJU,TRUE,William Jessup,Warriors,0,0,0,0,0,0,https://s3-us-west-2.amazonaws.com/static.fantasydata.com/logos/ncaa/0.png,WJU,261
+872,WILJ,TRUE,William Jewell,Cardinals,0,0,0,0,0,0,https://s3-us-west-2.amazonaws.com/static.fantasydata.com/logos/ncaa/0.png,WILJ,307
+808,WMPATP,TRUE,William Paterson,Pioneers,0,0,0,0,0,0,https://s3-us-west-2.amazonaws.com/static.fantasydata.com/logos/ncaa/0.png,WMPAT,156
+496,PEACE,TRUE,William Peace,Pacers,0,0,0,0,0,0,https://s3-us-west-2.amazonaws.com/static.fantasydata.com/logos/ncaa/0.png,PEACE,416
+523,WWU,TRUE,William Woods,Owls,0,0,0,0,0,0,https://s3-us-west-2.amazonaws.com/static.fantasydata.com/logos/ncaa/0.png,WWU,184
+473,WILBAP,TRUE,Williams Baptist,Eagles,0,0,0,0,0,0,https://s3-us-west-2.amazonaws.com/static.fantasydata.com/logos/ncaa/0.png,WILBAP,434
+486,WILMDE,TRUE,Wilmington (DE),Wildcats,0,0,0,0,0,0,https://s3-us-west-2.amazonaws.com/static.fantasydata.com/logos/ncaa/0.png,WILMDE,561
+618,WILM,TRUE,Wilmington (OH),Quakers,0,0,0,0,0,0,https://s3-us-west-2.amazonaws.com/static.fantasydata.com/logos/ncaa/0.png,WILM,16
+515,WILSON,TRUE,Wilson,Phoenix,0,0,0,0,0,0,https://s3-us-west-2.amazonaws.com/static.fantasydata.com/logos/ncaa/0.png,WILSON,104
+1093,WING,TRUE,Wingate,Bulldogs,0,0,0,0,0,0,https://s3-us-west-2.amazonaws.com/static.fantasydata.com/logos/ncaa/0.png,WING,370
+451,W-S,TRUE,Winston-Salem State,Rams,0,0,0,0,0,0,https://s3-us-west-2.amazonaws.com/static.fantasydata.com/logos/ncaa/0.png,W-S,356
+82,WINTH,TRUE,Winthrop,Eagles,0,8,13,3,5,Big South,https://s3-us-west-2.amazonaws.com/static.fantasydata.com/logos/ncaa/82.png,WINTH,113
+96,WISC,TRUE,Wisconsin,Badgers,0,12,5,4,3,Big Ten,https://s3-us-west-2.amazonaws.com/static.fantasydata.com/logos/ncaa/96.png,WISC,481
+509,WILUTH,TRUE,Wisconsin Lutheran,Warriors,0,0,0,0,0,0,https://s3-us-west-2.amazonaws.com/static.fantasydata.com/logos/ncaa/0.png,WILUTH,530
+642,UWPA,TRUE,Wisconsin-Parkside,Rangers,0,0,0,0,0,0,https://s3-us-west-2.amazonaws.com/static.fantasydata.com/logos/ncaa/0.png,UWPA,377
+513,UWS,TRUE,Wisconsin-Stout,Blue Devils,0,0,0,0,0,0,https://s3-us-west-2.amazonaws.com/static.fantasydata.com/logos/ncaa/0.png,UWS,325
+1128,WISSUP,TRUE,Wisconsin-Superior,Yellowjackets,0,0,0,0,0,0,https://s3-us-west-2.amazonaws.com/static.fantasydata.com/logos/ncaa/0.png,WISSUP,550
+996,UWW,FALSE,Wisconsin-Whitewater,Warhawks,0,0,0,0,0,0,https://s3-us-west-2.amazonaws.com/static.fantasydata.com/logos/ncaa/0.png,UWW,191
+285,WOFF,TRUE,Wofford,Terriers,0,11,10,3,5,Southern,https://s3-us-west-2.amazonaws.com/static.fantasydata.com/logos/ncaa/285.png,WOFF,547
+1164,WRCT,TRUE,Worcester Tech,Engineers,0,0,0,0,0,0,https://s3-us-west-2.amazonaws.com/static.fantasydata.com/logos/ncaa/0.png,WRCT,17
+150,WRGHT,TRUE,Wright State,Raiders,0,11,10,4,6,Horizon League,https://s3-us-west-2.amazonaws.com/static.fantasydata.com/logos/ncaa/150.png,WRIGHT,455
+1257,WVWSL,TRUE,WV Wesleyan,Bobcats,0,0,0,0,0,0,https://s3-us-west-2.amazonaws.com/static.fantasydata.com/logos/ncaa/0.png,WVWSL,82
+219,WYOM,TRUE,Wyoming,Cowboys,0,6,13,1,6,Mountain West,https://s3-us-west-2.amazonaws.com/static.fantasydata.com/logos/ncaa/219.png,WYOM,536
+59,XAV,TRUE,Xavier,Musketeers,8,16,4,8,1,Big East,https://s3-us-west-2.amazonaws.com/static.fantasydata.com/logos/ncaa/59.png,XAV,124
+819,XAVLA,TRUE,Xavier (LA),Gold Rush,0,0,0,0,0,0,https://s3-us-west-2.amazonaws.com/static.fantasydata.com/logos/ncaa/0.png,XAVL,256
+158,YALE,TRUE,Yale,Bulldogs,0,13,6,3,3,Ivy League,https://s3-us-west-2.amazonaws.com/static.fantasydata.com/logos/ncaa/158.png,YALE,486
+1082,YCC,TRUE,Yellowstone Christian College,Centurions,0,0,0,0,0,0,https://s3-us-west-2.amazonaws.com/static.fantasydata.com/logos/ncaa/0.png,YCC,462
+357,YORK,FALSE,York College,Spartans,0,0,0,0,0,0,https://s3-us-west-2.amazonaws.com/static.fantasydata.com/logos/ncaa/0.png,YORK,207
+1095,YHAR,FALSE,Young Harris College,Mountain Lions,0,0,0,0,0,0,https://s3-us-west-2.amazonaws.com/static.fantasydata.com/logos/ncaa/0.png,YHAR,384
+155,YNGST,TRUE,Youngstown State,Penguins,0,15,6,7,3,Horizon League,https://s3-us-west-2.amazonaws.com/static.fantasydata.com/logos/ncaa/155.png,YNGST,186
